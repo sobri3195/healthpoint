@@ -42,6 +42,7 @@ if((($_SERVER['SERVER_ADDR']=='5.9.29.89') && ($_SERVER['REMOTE_ADDR']!=$_SESSIO
 }
 $_SESSION['theme_color']=$settings['theme_color'];
 $_SESSION['input_license']=0;
+$premium_build = true;
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -52,7 +53,7 @@ $_SESSION['input_license']=0;
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
     <meta charset="UTF-8">
     <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="author" content="dr. Muhammad Sobri Maulana">
     <title><?php echo $settings['name']; ?></title>
     <?php if(file_exists(__DIR__.DIRECTORY_SEPARATOR.'favicon.ico')) : ?>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
@@ -153,7 +154,7 @@ endif;
       <?php include_once("topbar.php"); ?>
     <div class="container-fluid">
         <?php
-        if($user_info['role']=='administrator' && empty($settings['license']) && !in_array(get_ip_server(),array('127.0.0.1','::1'))) {
+        if(!$premium_build && $user_info['role']=='administrator' && empty($settings['license']) && !in_array(get_ip_server(),array('127.0.0.1','::1'))) {
             $_SESSION['input_license']=1;
             include_once("settings.php");
         } else {

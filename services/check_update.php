@@ -268,7 +268,7 @@ if($result) {
     if ($result->num_rows==0) {
         $mysqli->query("CREATE TABLE IF NOT EXISTS `sml_settings` (
                                 `id` int(11) NOT NULL DEFAULT '0',
-                                `name` varchar(200) DEFAULT 'Simple Map Locator',
+                                `name` varchar(200) DEFAULT 'HealthPoint Premium',
                                 `theme_color` varchar(25) NOT NULL DEFAULT '#0b5394',
                                 `font_backend` varchar(50) DEFAULT 'Nunito',
                                 `logo` varchar(50) DEFAULT NULL,

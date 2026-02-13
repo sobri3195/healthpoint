@@ -1,1 +1,9 @@
-Here the text of license for your software...
+HealthPoint Premium License Notice
+=================================
+
+This installation package is distributed under the MIT License.
+
+Copyright (c) 2026 dr. Muhammad Sobri Maulana
+
+By continuing installation, you acknowledge that third-party libraries included
+in this software may have their own licenses and attributions.

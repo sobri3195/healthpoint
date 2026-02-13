@@ -2,7 +2,7 @@
 <footer class="sticky-footer bg-white">
     <div class="container my-auto">
         <div class="copyright text-center my-auto">
-            <span>Copyright &copy; <?php echo $settings['name']; ?> <?php echo date('Y'); ?> - Version <?php echo $version; ?></span>
+            <span>Copyright &copy; <?php echo $settings['name']; ?> <?php echo date('Y'); ?> - Version <?php echo $version; ?> <span class="badge badge-warning">Premium</span></span>
             <?php if(get_user_role($_SESSION['id_user'])=='administrator') : ?>
                 <?php if(version_compare($version,$latest_version)==-1) : ?>
                     <span><i style="cursor: pointer;" class="fas fa-exclamation-circle"></i></span>
