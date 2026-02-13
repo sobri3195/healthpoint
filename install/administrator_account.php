@@ -102,7 +102,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="author" content="ApPHP Company - Advanced Power of PHP">
+    <meta name="author" content="dr. Muhammad Sobri Maulana">
     <meta name="generator" content="ApPHP EasyInstaller">
 	<title><?php echo lang_key("installation_guide"); ?> | <?php echo lang_key('administrator_account'); ?></title>
 

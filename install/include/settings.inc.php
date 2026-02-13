@@ -143,7 +143,7 @@
     // 6. APPLICATION PARAMETERS
     // -------------------------------------------------------------------------
     // *** application name
-    define('EI_APPLICATION_NAME', 'Simple Map Locator');
+    define('EI_APPLICATION_NAME', 'HealthPoint Premium');
     // *** version number of your application 
     define('EI_APPLICATION_VERSION', 'v4.0');
     

@@ -27,7 +27,7 @@ session_write_close();
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
     <meta charset="UTF-8">
     <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="author" content="dr. Muhammad Sobri Maulana">
     <title><?php echo $settings['name']; ?></title>
     <link href="../viewer/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
     <link rel='stylesheet' type="text/css" href="https://fonts.googleapis.com/css?family=<?php echo $settings['font_backend']; ?>">

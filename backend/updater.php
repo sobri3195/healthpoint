@@ -166,45 +166,20 @@ $color = "";
             $('#btn_upgrade').addClass('disabled');
             $('#progress_upgrade').addClass('bg-primary').removeClass('bg-danger').addClass('progress-bar-animated');
             $('#progress_upgrade').css('width','100%');
-            $('#status_upgrade').html("<?php echo _("checking license"); ?>");
+            $('#status_upgrade').html('Premium license active');
             $.ajax({
-                url: 'https://simpledemo.it/check_license_sml.php',
+                url: "ajax/save_lic.php",
                 type: "POST",
                 data: {
-                    server_name: window.server_name,
-                    server_ip: window.server_ip,
-                    purchase_code: window.purchase_code
+                    purchase_code: window.purchase_code,
+                    license: 'PREMIUM_ACTIVE'
                 },
                 async: true,
-                success: function (json) {
-                    var rsp = JSON.parse(json);
-                    switch (rsp.status) {
-                        case 'ok':
-                            var license = rsp.license;
-                            break;
-                        case 'error':
-                            var license = '';
-                            break;
-                    }
-                    $.ajax({
-                        url: "ajax/save_lic.php",
-                        type: "POST",
-                        data: {
-                            purchase_code: window.purchase_code,
-                            license: license
-                        },
-                        async: true,
-                        success: function () {
-                            if(license!='') {
-                                download_upgrade();
-                            } else {
-                                $('#progress_upgrade').removeClass('bg-primary').addClass('bg-danger').removeClass('progress-bar-animated');
-                                $('#progress_upgrade').css('width','100%');
-                                $('#status_upgrade').html("<?php echo _("invalid license, unable to update"); ?>");
-                                $('#btn_upgrade').removeClass('disabled');
-                            }
-                        }
-                    });
+                success: function () {
+                    download_upgrade();
+                },
+                error: function () {
+                    download_upgrade();
                 }
             });
         }
