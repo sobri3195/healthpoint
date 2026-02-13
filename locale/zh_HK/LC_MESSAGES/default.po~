@@ -1,0 +1,2289 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-18 21:16+0100\n"
+"PO-Revision-Date: 2023-02-18 21:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_HK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: viewer/index.php:314
+msgid "This Map is password protected"
+msgstr "此地圖受密碼保護"
+
+#: viewer/index.php:315
+msgid "Input password"
+msgstr "輸入密碼"
+
+#: viewer/index.php:360
+msgid "add new marker"
+msgstr "添加新標記"
+
+#: viewer/index.php:364
+msgid "click on the map and place your marker"
+msgstr "單擊地圖並放置標記"
+
+#: viewer/index.php:367
+msgid "drag the marker to adjust the position"
+msgstr "拖動標記調整位置"
+
+#: viewer/index.php:367
+msgid "confirm"
+msgstr "確認"
+
+#: viewer/index.php:378
+msgid "DIRECTIONS"
+msgstr "方向"
+
+#: viewer/index.php:379
+msgid "STREET VIEW"
+msgstr "街景"
+
+#: viewer/index.php:380
+msgid "WRITE A REVIEW"
+msgstr "撰寫評論"
+
+#: viewer/index.php:440
+msgid "Average Rating"
+msgstr "平均評分"
+
+#: viewer/index.php:494 backend/reviews.php:31 backend/add_marker.php:51
+#: backend/categories.php:36 backend/maps.php:56 backend/edit_map.php:46
+#: backend/edit_map.php:281 backend/markers.php:55 backend/add_category.php:26
+#: backend/edit_category.php:54 backend/edit_marker.php:101
+msgid "Name"
+msgstr "名稱"
+
+#: viewer/index.php:497 backend/markers.php:44
+msgid "CANCEL"
+msgstr "取消"
+
+#: viewer/index.php:498 backend/add_marker.php:37 backend/add_category.php:12
+msgid "ADD"
+msgstr "新增"
+
+#: viewer/index.php:504 backend/add_marker.php:243 backend/add_marker.php:293
+#: backend/edit_marker.php:305 backend/edit_marker.php:359
+msgid "Latitude"
+msgstr "緯度"
+
+#: viewer/index.php:505 backend/add_marker.php:249 backend/add_marker.php:294
+#: backend/edit_marker.php:311 backend/edit_marker.php:360
+msgid "Longitude"
+msgstr "經度"
+
+#: viewer/index.php:519 backend/add_marker.php:101 backend/edit_map.php:417
+#: backend/edit_marker.php:163
+msgid "Street"
+msgstr "街道"
+
+#: viewer/index.php:525 backend/add_marker.php:107 backend/edit_map.php:282
+#: backend/edit_marker.php:169
+msgid "City"
+msgstr "城市"
+
+#: viewer/index.php:531 backend/add_marker.php:113 backend/edit_marker.php:175
+msgid "Postal Code"
+msgstr "郵遞區號"
+
+#: viewer/index.php:537 backend/add_marker.php:119 backend/edit_marker.php:181
+msgid "Country"
+msgstr "國家"
+
+#: viewer/index.php:543
+msgid "Website"
+msgstr "網站"
+
+#: viewer/index.php:549 backend/reviews.php:32 backend/add_marker.php:149
+#: backend/edit_marker.php:211
+msgid "E-mail"
+msgstr "電子郵件"
+
+#: viewer/index.php:555 backend/add_marker.php:137 backend/edit_marker.php:199
+msgid "Phone"
+msgstr "電話"
+
+#: viewer/index.php:561 backend/add_marker.php:143 backend/edit_marker.php:205
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: viewer/index.php:567 backend/add_marker.php:155 backend/edit_marker.php:217
+msgid "Hours"
+msgstr "小時"
+
+#: viewer/index.php:573 backend/add_marker.php:161 backend/publish.php:67
+#: backend/story.php:93 backend/story.php:144 backend/edit_marker.php:223
+msgid "Description"
+msgstr "描述"
+
+#: viewer/index.php:589
+msgid "delete images"
+msgstr "刪除影像"
+
+#: viewer/index.php:598
+msgid "Your Rating"
+msgstr "您的評分"
+
+#: viewer/index.php:606
+msgid "Your Name"
+msgstr "你的名字"
+
+#: viewer/index.php:609
+msgid "Your Email Address (optional)"
+msgstr "您的電子郵件地址（選擇）"
+
+#: viewer/index.php:612
+msgid "Type your Review here"
+msgstr "在此處鍵入您的評論"
+
+#: viewer/index.php:616
+msgid "Type the code above"
+msgstr "鍵入上面的代碼"
+
+#: viewer/index.php:619
+msgid "Submit"
+msgstr "送出"
+
+#: viewer/index.php:622
+msgid "Thanks for your review!"
+msgstr "感謝您的評論！"
+
+#: viewer/index.php:625 backend/reviews.php:71 backend/users.php:126
+#: backend/edit_user.php:289 backend/edit_map.php:97 backend/markers.php:158
+msgid "Search"
+msgstr "搜尋"
+
+#: viewer/index.php:720
+msgid "Are you sure you want to CANCEL the request to insert this marker?"
+msgstr "您確定要取消插入此標記的請求嗎？"
+
+#: viewer/index.php:721
+msgid "Are you sure you want to SEND the request to insert this marker?"
+msgstr "您確定要發送插入此標記的請求嗎？"
+
+#: viewer/index.php:722
+msgid ""
+"Thanks for inserting the marker! As soon as it is approved it will be "
+"visible on the map."
+msgstr "感謝您插入標記！一旦獲得批准，它將在地圖上可見。"
+
+#: viewer/index.php:723
+msgid "An error has occurred, please try again later."
+msgstr "發生錯誤，請稍後重試。"
+
+#: viewer/index.php:724
+msgid "reset"
+msgstr "重設"
+
+#: viewer/index.php:725
+msgid "Start, Scroll down"
+msgstr "開始，向下滾動"
+
+#: viewer/index.php:726
+msgid "End"
+msgstr "結束"
+
+#: viewer/index.php:727
+msgid "Searching"
+msgstr "搜尋中"
+
+#: viewer/index.php:728 backend/add_marker.php:692 backend/edit_map.php:653
+#: backend/edit_category.php:192 backend/edit_marker.php:801
+msgid "No results found."
+msgstr "沒有符合條件的結果。"
+
+#: viewer/index.php:729
+msgid "Add New Marker"
+msgstr "添加新標記"
+
+#: viewer/index.php:730
+msgid "Do you want to use my position to add the marker?"
+msgstr "你想用我的位置來添加標記嗎？"
+
+#: viewer/index.php:731 backend/publish.php:140
+msgid "No"
+msgstr "否"
+
+#: viewer/index.php:732 backend/publish.php:140
+msgid "Yes"
+msgstr "是"
+
+#: viewer/index.php:735
+msgid "Are you sure you want to insert this marker?"
+msgstr "您確定要插入此標記嗎？"
+
+#: viewer/index.php:736
+msgid "Thanks for inserting the marker! Please reload the map to view it."
+msgstr "感謝您插入標記！請重新加載地圖以查看它。"
+
+#: viewer/ajax/upload_new_marker_image.php:23
+msgid "Invalid image."
+msgstr "圖片無效。"
+
+#: viewer/ajax/upload_new_marker_image.php:31
+#: backend/ajax/upload_marker_image.php:38
+#: backend/ajax/upload_b_logo_image.php:51
+#: backend/ajax/upload_b_background_image.php:43
+msgid "Only jpg,png files are supported."
+msgstr "僅支援 jpg，png 檔。"
+
+#: viewer/ajax/upload_new_marker_image.php:35
+#: backend/ajax/upload_marker_image.php:42
+#: backend/ajax/upload_meta_image.php:69 backend/ajax/upload_file.php:32
+#: backend/ajax/upload_logo_image.php:41 backend/ajax/upload_icon_image.php:72
+#: backend/ajax/upload_b_logo_image.php:55
+#: backend/ajax/upload_b_background_image.php:47
+#: backend/ajax/upload_geojson.php:41
+msgid "File not provided."
+msgstr "未提供檔。"
+
+#: backend/login.php:68 backend/topbar.php:124
+msgid "Arabic"
+msgstr "阿拉伯文"
+
+#: backend/login.php:69 backend/topbar.php:125
+msgid "Chinese Simplified"
+msgstr "簡體中文"
+
+#: backend/login.php:70 backend/topbar.php:126
+msgid "Chinese Traditional (Hong Kong)"
+msgstr "中國傳統（香港）"
+
+#: backend/login.php:71 backend/topbar.php:127
+msgid "Chinese Traditional (Taiwan)"
+msgstr "中國傳統（臺灣）"
+
+#: backend/login.php:72 backend/topbar.php:128
+msgid "Czech"
+msgstr "捷克語"
+
+#: backend/login.php:73 backend/topbar.php:129
+msgid "Dutch"
+msgstr "荷蘭語"
+
+#: backend/login.php:74 backend/topbar.php:130
+msgid "English"
+msgstr "英文"
+
+#: backend/login.php:75 backend/topbar.php:131
+msgid "Filipino"
+msgstr "菲律賓文"
+
+#: backend/login.php:76 backend/topbar.php:132
+msgid "French"
+msgstr "法語"
+
+#: backend/login.php:77 backend/topbar.php:133
+msgid "German"
+msgstr "德語"
+
+#: backend/login.php:78 backend/topbar.php:134
+msgid "Hindi"
+msgstr "印地文"
+
+#: backend/login.php:79 backend/topbar.php:135
+msgid "Hungarian"
+msgstr "匈牙利語"
+
+#: backend/login.php:80 backend/topbar.php:136
+msgid "Kinyarwanda"
+msgstr "盧安達語"
+
+#: backend/login.php:81 backend/topbar.php:137
+msgid "Korean"
+msgstr "韓語"
+
+#: backend/login.php:82 backend/topbar.php:138
+msgid "Indonesian"
+msgstr "印度尼西亞"
+
+#: backend/login.php:83 backend/topbar.php:139
+msgid "Italian"
+msgstr "義大利文"
+
+#: backend/login.php:84 backend/topbar.php:140
+msgid "Japanese"
+msgstr "日語"
+
+#: backend/login.php:85 backend/topbar.php:141
+msgid "Persian"
+msgstr "波斯語"
+
+#: backend/login.php:86 backend/topbar.php:142
+msgid "Polish"
+msgstr "波蘭語"
+
+#: backend/login.php:87 backend/topbar.php:143
+msgid "Portuguese Brazilian"
+msgstr "葡萄牙巴西文"
+
+#: backend/login.php:88 backend/topbar.php:144
+msgid "Portuguese European"
+msgstr "葡萄牙歐洲"
+
+#: backend/login.php:89 backend/topbar.php:145
+msgid "Spanish"
+msgstr "西班牙語"
+
+#: backend/login.php:90 backend/topbar.php:146
+msgid "Romanian"
+msgstr "羅馬尼亞語"
+
+#: backend/login.php:91 backend/topbar.php:147
+msgid "Russian"
+msgstr "俄語"
+
+#: backend/login.php:92 backend/topbar.php:148
+msgid "Swedish"
+msgstr "瑞典語"
+
+#: backend/login.php:93 backend/topbar.php:149
+msgid "Tajik"
+msgstr "塔吉克語"
+
+#: backend/login.php:94 backend/topbar.php:150
+msgid "Thai"
+msgstr "泰文"
+
+#: backend/login.php:95 backend/topbar.php:151
+msgid "Turkish"
+msgstr "土耳其語"
+
+#: backend/login.php:96 backend/topbar.php:152
+msgid "Vietnamese"
+msgstr "越南語"
+
+#: backend/login.php:100
+msgid "Welcome Back!"
+msgstr "歡迎回來！"
+
+#: backend/login.php:104 backend/users.php:44 backend/users.php:68
+#: backend/edit_profile.php:20 backend/edit_user.php:41
+msgid "Username"
+msgstr "使用者名稱"
+
+#: backend/login.php:107 backend/users.php:84 backend/edit_profile.php:63
+#: backend/edit_profile.php:83 backend/edit_user.php:187 backend/publish.php:40
+msgid "Password"
+msgstr "密碼"
+
+#: backend/login.php:110
+msgid "Login"
+msgstr "登入"
+
+#: backend/reviews.php:16 backend/icons_library.php:16 backend/draw.php:18
+#: backend/add_marker.php:25 backend/edit_user.php:22
+#: backend/markers_connections.php:17 backend/categories.php:17
+#: backend/publish.php:24 backend/edit_map.php:26 backend/settings.php:15
+#: backend/story.php:17 backend/edit_category.php:16 backend/updater.php:42
+#: backend/import.php:40 backend/edit_marker.php:24
+msgid "Permission denied"
+msgstr "權限遭拒"
+
+#: backend/reviews.php:17 backend/icons_library.php:17 backend/draw.php:19
+#: backend/add_marker.php:26 backend/edit_user.php:23
+#: backend/markers_connections.php:18 backend/categories.php:18
+#: backend/publish.php:25 backend/edit_map.php:27 backend/story.php:18
+#: backend/edit_category.php:17 backend/import.php:41
+#: backend/edit_marker.php:25
+msgid "It looks like you found a glitch in the matrix..."
+msgstr "看起來你在矩陣里發現了一個小故障..."
+
+#: backend/reviews.php:18 backend/icons_library.php:18 backend/draw.php:20
+#: backend/add_marker.php:27 backend/edit_user.php:24
+#: backend/markers_connections.php:19 backend/categories.php:19
+#: backend/publish.php:26 backend/edit_map.php:28 backend/settings.php:17
+#: backend/story.php:19 backend/edit_category.php:18 backend/updater.php:44
+#: backend/import.php:42 backend/edit_marker.php:26
+msgid "Back to Dashboard"
+msgstr "返回用戶中心"
+
+#: backend/reviews.php:29
+msgid "Date"
+msgstr "日期"
+
+#: backend/reviews.php:30 backend/markers_connections.php:36
+#: backend/markers_connections.php:38 backend/markers_connections.php:60
+#: backend/markers_connections.php:68 backend/markers_connections.php:118
+#: backend/markers_connections.php:126 backend/story.php:36
+#: backend/story.php:60
+msgid "Marker"
+msgstr "標記"
+
+#: backend/reviews.php:33
+msgid "Rating"
+msgstr "評分"
+
+#: backend/reviews.php:34
+msgid "Comment"
+msgstr "評論"
+
+#: backend/reviews.php:62 backend/users.php:117 backend/edit_user.php:280
+#: backend/markers.php:149
+msgid "No data available in table"
+msgstr "表格中沒有可用的資料"
+
+#: backend/reviews.php:63 backend/users.php:118 backend/edit_user.php:281
+#: backend/markers.php:150
+#, php-format
+msgid "Showing %s to %s of %s entries"
+msgstr "顯示%s%s%s數"
+
+#: backend/reviews.php:64 backend/users.php:119 backend/edit_user.php:282
+#: backend/markers.php:151
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "顯示項目 0 到 0 （共 0）"
+
+#: backend/reviews.php:65 backend/users.php:120 backend/edit_user.php:283
+#: backend/markers.php:152
+#, php-format
+msgid "(filtered from %s total entries)"
+msgstr "（從%s個總條目中過濾）"
+
+#: backend/reviews.php:68 backend/users.php:123 backend/edit_user.php:286
+#: backend/markers.php:155
+#, php-format
+msgid "Show %s entries"
+msgstr "顯示 %s 項目"
+
+#: backend/reviews.php:69 backend/index.php:148 backend/users.php:124
+#: backend/edit_user.php:287 backend/markers.php:156
+msgid "Loading"
+msgstr "載入中"
+
+#: backend/reviews.php:70 backend/users.php:125 backend/edit_user.php:288
+#: backend/markers.php:157
+msgid "Processing"
+msgstr "處理中"
+
+#: backend/reviews.php:72 backend/users.php:127 backend/edit_user.php:290
+#: backend/markers.php:159
+msgid "No matching records found"
+msgstr "找不到符合的記錄"
+
+#: backend/reviews.php:74 backend/users.php:129 backend/edit_user.php:292
+#: backend/markers.php:161
+msgid "First"
+msgstr "第一個"
+
+#: backend/reviews.php:75 backend/users.php:130 backend/edit_user.php:293
+#: backend/markers.php:162
+msgid "Last"
+msgstr "最後"
+
+#: backend/reviews.php:76 backend/users.php:131 backend/edit_user.php:294
+#: backend/markers.php:163
+msgid "Next"
+msgstr "編輯下一個房間"
+
+#: backend/reviews.php:77 backend/users.php:132 backend/edit_user.php:295
+#: backend/markers.php:164
+msgid "Previous"
+msgstr "上一頁"
+
+#: backend/reviews.php:80 backend/users.php:135 backend/edit_user.php:298
+#: backend/markers.php:167
+msgid "activate to sort column ascending"
+msgstr "啟用以升序對列進行排序"
+
+#: backend/reviews.php:81 backend/users.php:136 backend/edit_user.php:299
+#: backend/markers.php:168
+msgid "activate to sort column descending"
+msgstr "啟用以降序對列進行排序"
+
+#: backend/icons_library.php:35
+msgid "Icons List"
+msgstr "圖示清單"
+
+#: backend/icons_library.php:39
+msgid "Loading icons"
+msgstr "載入圖示..."
+
+#: backend/index.php:146
+msgid "UPDATE IN PROGRESS"
+msgstr "正在更新"
+
+#: backend/index.php:150
+msgid "Not close this window"
+msgstr "不關閉此視窗"
+
+#: backend/index.php:198
+msgid "EDIT"
+msgstr "編輯"
+
+#: backend/index.php:199
+msgid "PUBLISH"
+msgstr "發表"
+
+#: backend/index.php:200
+msgid "PREVIEW"
+msgstr "預覽"
+
+#: backend/index.php:201 backend/edit_map.php:551 backend/edit_category.php:136
+#: backend/import.php:47
+msgid "MARKERS"
+msgstr "標記"
+
+#: backend/index.php:202 backend/add_marker.php:358 backend/edit_marker.php:424
+#: backend/topbar.php:46 backend/topbar.php:64 backend/topbar.php:97
+msgid "DELETE"
+msgstr "刪除"
+
+#: backend/index.php:203
+msgid "DUPLICATE"
+msgstr "重複"
+
+#: backend/index.php:204
+msgid "MAIN IMAGE"
+msgstr "主圖像"
+
+#: backend/index.php:205 backend/add_marker.php:355 backend/edit_marker.php:421
+msgid "SET AS MAIN"
+msgstr "設置為主"
+
+#: backend/index.php:206
+msgid "SEARCHING"
+msgstr "搜索"
+
+#: backend/index.php:207 backend/add_marker.php:288 backend/edit_marker.php:354
+msgid "GET GPS POSITION"
+msgstr "獲取 GPS 位置"
+
+#: backend/index.php:208
+msgid "No icon images in this library!"
+msgstr "此庫中沒有圖示圖像！"
+
+#: backend/index.php:209
+msgid "Are you sure you want to delete?"
+msgstr "你確定要刪除 %s 嗎？"
+
+#: backend/index.php:210
+msgid "Are you sure you want to assign this icon to all the markers?"
+msgstr "您確定要將此圖標分配給所有標記嗎？"
+
+#: backend/index.php:211
+msgid "copied"
+msgstr "已複製"
+
+#: backend/add_marker.php:32 backend/markers.php:24
+msgid "ADD MARKER"
+msgstr "添加標記"
+
+#: backend/add_marker.php:45 backend/add_category.php:20
+#: backend/edit_category.php:48 backend/edit_marker.php:95
+msgid "Details"
+msgstr "詳細資料"
+
+#: backend/add_marker.php:57 backend/users.php:46 backend/edit_user.php:100
+#: backend/markers.php:58 backend/edit_marker.php:107
+msgid "Active"
+msgstr "啟用"
+
+#: backend/add_marker.php:63 backend/markers.php:61 backend/edit_marker.php:125
+msgid "Featured"
+msgstr "精選"
+
+#: backend/add_marker.php:63 backend/edit_marker.php:125
+msgid "show this marker on featured list"
+msgstr "在精選列表上顯示此標記"
+
+#: backend/add_marker.php:69 backend/edit_map.php:157
+#: backend/edit_marker.php:131
+msgid "Directions"
+msgstr "路線規劃"
+
+#: backend/add_marker.php:69 backend/edit_marker.php:131
+msgid "enable the button 'directions' for this marker"
+msgstr "啟用此標記的“方向”按鈕"
+
+#: backend/add_marker.php:75 backend/edit_map.php:163
+#: backend/edit_marker.php:137
+msgid "Street View"
+msgstr "街景"
+
+#: backend/add_marker.php:75 backend/edit_marker.php:137
+msgid "enable the button 'street view' for this marker"
+msgstr "啟用此標記的“街景”按鈕"
+
+#: backend/add_marker.php:81 backend/edit_marker.php:143
+msgid "Review"
+msgstr "評論"
+
+#: backend/add_marker.php:81 backend/edit_marker.php:143
+msgid "enable the reviews for this marker"
+msgstr "啟用此標記的評論"
+
+#: backend/add_marker.php:87 backend/edit_map.php:175
+#: backend/edit_marker.php:149
+msgid "Share"
+msgstr "分享"
+
+#: backend/add_marker.php:87 backend/edit_marker.php:149
+msgid "enable share buttons for this marker"
+msgstr "啟用此標記的共享按鈕"
+
+#: backend/add_marker.php:93 backend/markers.php:56 backend/edit_marker.php:155
+msgid "Category"
+msgstr "類別"
+
+#: backend/add_marker.php:125 backend/edit_marker.php:187
+msgid "Website Link"
+msgstr "網站鏈結"
+
+#: backend/add_marker.php:131 backend/edit_marker.php:193
+msgid "Website Name"
+msgstr "網站名稱"
+
+#: backend/add_marker.php:175 backend/edit_map.php:440
+#: backend/edit_marker.php:237
+msgid "Style"
+msgstr "樣式"
+
+#: backend/add_marker.php:181 backend/edit_category.php:89
+#: backend/edit_marker.php:243
+msgid "Icon Type"
+msgstr "圖示類型"
+
+#: backend/add_marker.php:183 backend/edit_map.php:309 backend/edit_map.php:507
+#: backend/edit_category.php:91 backend/edit_marker.php:245
+msgid "None"
+msgstr "無"
+
+#: backend/add_marker.php:184 backend/edit_map.php:508
+#: backend/edit_category.php:92 backend/edit_marker.php:246
+msgid "Default"
+msgstr "預設"
+
+#: backend/add_marker.php:185 backend/edit_map.php:509
+#: backend/edit_category.php:93 backend/edit_marker.php:247
+msgid "Custom Icon Library"
+msgstr "自定義圖示庫"
+
+#: backend/add_marker.php:191 backend/add_marker.php:201
+#: backend/edit_category.php:99 backend/edit_category.php:109
+#: backend/edit_marker.php:253 backend/edit_marker.php:263
+msgid "Icon"
+msgstr "圖示"
+
+#: backend/add_marker.php:192 backend/add_marker.php:379
+#: backend/add_marker.php:419 backend/edit_map.php:516
+#: backend/edit_category.php:100 backend/edit_marker.php:254
+#: backend/edit_marker.php:445 backend/edit_marker.php:485
+msgid "Select Icon"
+msgstr "選擇圖標"
+
+#: backend/add_marker.php:202 backend/edit_map.php:526
+#: backend/edit_category.php:110 backend/edit_marker.php:264
+msgid "Select Library Icon"
+msgstr "選擇庫圖示"
+
+#: backend/add_marker.php:211 backend/edit_category.php:117
+#: backend/edit_marker.php:273
+msgid "Icon Background"
+msgstr "圖標背景"
+
+#: backend/add_marker.php:217 backend/edit_category.php:123
+#: backend/edit_marker.php:279
+msgid "Icon Color"
+msgstr "圖示顏色"
+
+#: backend/add_marker.php:223 backend/edit_marker.php:285
+msgid "Icon Size"
+msgstr "圖示大小"
+
+#: backend/add_marker.php:237 backend/edit_marker.php:299
+msgid "Position"
+msgstr "位置"
+
+#: backend/add_marker.php:255 backend/edit_marker.php:317
+msgid "Visible from Zoom Level"
+msgstr "從縮放級別可見"
+
+#: backend/add_marker.php:269 backend/edit_marker.php:335
+msgid "Geofence Radius"
+msgstr "地理圍欄半徑"
+
+#: backend/add_marker.php:275 backend/edit_marker.php:341
+msgid "Geofence Color"
+msgstr "地理圍欄顏色"
+
+#: backend/add_marker.php:282 backend/edit_marker.php:348
+msgid "ADDRESS"
+msgstr "地址"
+
+#: backend/add_marker.php:282 backend/edit_marker.php:348
+msgid "POSITION"
+msgstr "位置"
+
+#: backend/add_marker.php:285 backend/edit_marker.php:351
+msgid "SET POSITION"
+msgstr "設置位置"
+
+#: backend/add_marker.php:295 backend/edit_marker.php:361
+msgid "Zoom Level"
+msgstr "縮放級別"
+
+#: backend/add_marker.php:296 backend/edit_marker.php:362
+msgid "click/drag on map to change marker's position"
+msgstr "在地圖上單擊/拖動以更改標記的位置"
+
+#: backend/add_marker.php:307 backend/edit_marker.php:373
+msgid "Images"
+msgstr "圖片"
+
+#: backend/add_marker.php:321 backend/publish.php:81
+#: backend/edit_marker.php:387
+msgid "Upload Image"
+msgstr "上傳圖片"
+
+#: backend/add_marker.php:347 backend/edit_marker.php:413
+msgid "Image Action"
+msgstr "圖像操作"
+
+#: backend/add_marker.php:352 backend/edit_marker.php:418
+msgid "Select image first!"
+msgstr "先選擇圖像！"
+
+#: backend/add_marker.php:370 backend/edit_marker.php:436
+msgid "Extra Button"
+msgstr "額外按鈕"
+
+#: backend/add_marker.php:378 backend/edit_marker.php:444
+msgid "Button Icon"
+msgstr "按鈕圖示"
+
+#: backend/add_marker.php:388 backend/edit_marker.php:454
+msgid "Button Title"
+msgstr "按鈕標題"
+
+#: backend/add_marker.php:396 backend/edit_marker.php:462
+msgid "Custom Content"
+msgstr "自定內容"
+
+#: backend/add_marker.php:396 backend/add_marker.php:428
+#: backend/edit_map.php:369 backend/edit_marker.php:462
+#: backend/edit_marker.php:494
+msgid "link"
+msgstr "連結"
+
+#: backend/add_marker.php:396 backend/edit_marker.php:462
+msgid "embed link"
+msgstr "嵌入鏈接"
+
+#: backend/add_marker.php:396 backend/add_marker.php:428
+#: backend/edit_marker.php:462 backend/edit_marker.php:494
+msgid "text"
+msgstr "文字"
+
+#: backend/add_marker.php:410 backend/edit_marker.php:476
+msgid "Extra Fields"
+msgstr "額外欄位"
+
+#: backend/add_marker.php:418 backend/edit_marker.php:484
+msgid "Field Icon"
+msgstr "欄位圖示"
+
+#: backend/add_marker.php:428 backend/edit_marker.php:494
+msgid "Field Value"
+msgstr "字段值"
+
+#: backend/add_marker.php:428 backend/edit_marker.php:494
+msgid "download"
+msgstr "下載"
+
+#: backend/add_marker.php:443 backend/edit_map.php:602
+#: backend/edit_category.php:149 backend/edit_marker.php:509
+msgid "Library Icons"
+msgstr "庫圖示"
+
+#: backend/add_marker.php:449 backend/add_marker.php:476
+#: backend/add_marker.php:497 backend/add_marker.php:518
+#: backend/add_marker.php:539 backend/add_marker.php:595 backend/users.php:98
+#: backend/edit_profile.php:97 backend/edit_user.php:201
+#: backend/edit_user.php:219 backend/markers_connections.php:102
+#: backend/markers_connections.php:161 backend/publish.php:234
+#: backend/maps.php:64 backend/maps.php:81 backend/maps.php:98
+#: backend/edit_map.php:608 backend/story.php:101 backend/story.php:153
+#: backend/markers.php:92 backend/markers.php:109 backend/edit_category.php:155
+#: backend/edit_category.php:172 backend/edit_marker.php:515
+#: backend/edit_marker.php:542 backend/edit_marker.php:563
+#: backend/edit_marker.php:584 backend/edit_marker.php:605
+#: backend/edit_marker.php:661 backend/edit_marker.php:678
+msgid "Close"
+msgstr "關閉"
+
+#: backend/add_marker.php:462 backend/add_marker.php:552
+#: backend/edit_marker.php:528 backend/edit_marker.php:618
+msgid "Link Text"
+msgstr "連結文字"
+
+#: backend/add_marker.php:468 backend/add_marker.php:489
+#: backend/add_marker.php:510 backend/add_marker.php:587
+#: backend/edit_marker.php:534 backend/edit_marker.php:555
+#: backend/edit_marker.php:576 backend/edit_marker.php:653
+msgid "URL"
+msgstr "網址"
+
+#: backend/add_marker.php:475 backend/add_marker.php:496
+#: backend/add_marker.php:517 backend/add_marker.php:538
+#: backend/add_marker.php:594 backend/edit_marker.php:541
+#: backend/edit_marker.php:562 backend/edit_marker.php:583
+#: backend/edit_marker.php:604 backend/edit_marker.php:660
+msgid "Insert"
+msgstr "插入"
+
+#: backend/add_marker.php:531 backend/edit_marker.php:597
+msgid "Text"
+msgstr "文字"
+
+#: backend/add_marker.php:558 backend/edit_marker.php:624
+msgid "File"
+msgstr "檔案"
+
+#: backend/add_marker.php:568 backend/edit_marker.php:634
+msgid "Upload File"
+msgstr "上傳檔案"
+
+#: backend/add_marker.php:689 backend/edit_map.php:650
+#: backend/edit_category.php:189 backend/edit_marker.php:798
+msgid "Search Icon"
+msgstr "搜尋圖標"
+
+#: backend/add_marker.php:690 backend/edit_map.php:651
+#: backend/edit_category.php:190 backend/edit_marker.php:799
+msgid "Show All"
+msgstr "顯示所有"
+
+#: backend/add_marker.php:691 backend/edit_map.php:652 backend/settings.php:488
+#: backend/edit_category.php:191 backend/edit_marker.php:800
+#: backend/topbar.php:187
+msgid "Cancel"
+msgstr "取消"
+
+#: backend/ajax/duplicate_marker.php:44 backend/ajax/duplicate_map.php:35
+msgid "duplicated"
+msgstr "已複製"
+
+#: backend/ajax/upload_meta_image.php:57
+msgid "Retry."
+msgstr "重試。"
+
+#: backend/ajax/upload_meta_image.php:65
+msgid "Only jpg,png,webp files are supported."
+msgstr "僅支持 jpg、png、webp 文件。"
+
+#: backend/ajax/upload_logo_image.php:37
+msgid "Only png files are supported."
+msgstr "僅支援 jpg，png 檔。"
+
+#: backend/ajax/save_profile.php:28
+msgid "Username already registered!"
+msgstr "使用者名已經註冊！"
+
+#: backend/ajax/save_profile.php:57 backend/ajax/save_profile.php:60
+msgid "Error"
+msgstr "錯誤"
+
+#: backend/ajax/upload_geojson.php:37
+msgid "Only json, geojson files are supported."
+msgstr "僅支持 json、geojson 文件。"
+
+#: backend/users.php:20
+msgid "User's Role Permissions"
+msgstr "使用者的角色許可權"
+
+#: backend/users.php:23
+msgid "ADMINISTRATOR"
+msgstr "管理員"
+
+#: backend/users.php:23
+msgid "manage users | manage maps of all users"
+msgstr "管理使用者|管理所有使用者的地圖"
+
+#: backend/users.php:24
+msgid "EDITOR"
+msgstr "編輯器"
+
+#: backend/users.php:24
+msgid "they only manage the maps that are associated with them"
+msgstr "他們只管理與他們相關的地圖"
+
+#: backend/users.php:25
+msgid "CUSTOMER"
+msgstr "客戶"
+
+#: backend/users.php:25
+msgid "they only manage their own maps"
+msgstr "他們只管理自己的地圖"
+
+#: backend/users.php:33
+msgid "ADD USER"
+msgstr "添加使用者"
+
+#: backend/users.php:45 backend/users.php:74 backend/edit_user.php:84
+msgid "Role"
+msgstr "角色"
+
+#: backend/users.php:62
+msgid "New User"
+msgstr "新增用戶"
+
+#: backend/users.php:76 backend/edit_user.php:86
+msgid "Customer"
+msgstr "顧客"
+
+#: backend/users.php:77 backend/edit_user.php:87
+msgid "Administrator"
+msgstr "管理員"
+
+#: backend/users.php:78 backend/edit_user.php:88
+msgid "Editor"
+msgstr "編輯"
+
+#: backend/users.php:90 backend/edit_profile.php:89
+msgid "Repeat Password"
+msgstr "重複密碼"
+
+#: backend/users.php:97 backend/maps.php:63
+msgid "Create"
+msgstr "創建"
+
+#: backend/edit_profile.php:14 backend/edit_user.php:35
+msgid "Account"
+msgstr "帳戶"
+
+#: backend/edit_profile.php:26 backend/edit_user.php:47 backend/edit_map.php:60
+msgid "Language"
+msgstr "語言"
+
+#: backend/edit_profile.php:28 backend/edit_user.php:49 backend/edit_map.php:62
+#: backend/settings.php:195
+msgid "Default Language"
+msgstr "默認語言"
+
+#: backend/edit_profile.php:64
+msgid "CHANGE"
+msgstr "改變"
+
+#: backend/edit_profile.php:77 backend/edit_user.php:181
+msgid "Change Password"
+msgstr "更改密碼"
+
+#: backend/edit_profile.php:96 backend/edit_user.php:200
+msgid "Change"
+msgstr "更改"
+
+#: backend/edit_user.php:95
+msgid "CHANGE PASSWORD"
+msgstr "變更密碼"
+
+#: backend/edit_user.php:116 backend/dashboard.php:35 backend/dashboard.php:68
+#: backend/sidebar.php:120 backend/topbar.php:18
+msgid "Maps"
+msgstr "地圖"
+
+#: backend/edit_user.php:131 backend/dashboard.php:50 backend/sidebar.php:125
+#: backend/topbar.php:26
+msgid "Markers"
+msgstr "標記"
+
+#: backend/edit_user.php:147
+msgid "Assigned Maps"
+msgstr "分配的地圖"
+
+#: backend/edit_user.php:153
+msgid "Assign"
+msgstr "指派"
+
+#: backend/edit_user.php:154 backend/edit_map.php:328
+msgid "Map"
+msgstr "地圖"
+
+#: backend/edit_user.php:155 backend/topbar.php:22
+msgid "Edit Map"
+msgstr "編輯地圖"
+
+#: backend/edit_user.php:156
+msgid "Create Markers"
+msgstr "創建標記"
+
+#: backend/edit_user.php:157
+msgid "Edit Markers"
+msgstr "編輯標記"
+
+#: backend/edit_user.php:158
+msgid "Delete Markers"
+msgstr "刪除標記"
+
+#: backend/edit_user.php:159 backend/sidebar.php:130 backend/topbar.php:52
+msgid "Connections"
+msgstr "連結"
+
+#: backend/edit_user.php:160 backend/sidebar.php:135 backend/topbar.php:109
+msgid "Geometries"
+msgstr "幾何形狀"
+
+#: backend/edit_user.php:161 backend/sidebar.php:140 backend/edit_map.php:151
+#: backend/topbar.php:56
+msgid "Story"
+msgstr "限時動態"
+
+#: backend/edit_user.php:162 backend/sidebar.php:146 backend/edit_map.php:115
+#: backend/topbar.php:60
+msgid "Categories"
+msgstr "類別"
+
+#: backend/edit_user.php:163 backend/sidebar.php:151 backend/topbar.php:69
+msgid "Icons Library"
+msgstr "圖示庫"
+
+#: backend/edit_user.php:164 backend/sidebar.php:156 backend/edit_map.php:169
+#: backend/topbar.php:73
+msgid "Reviews"
+msgstr "評論"
+
+#: backend/edit_user.php:165 backend/sidebar.php:167 backend/topbar.php:81
+msgid "Publish"
+msgstr "發佈"
+
+#: backend/edit_user.php:193
+msgid "Repeat password"
+msgstr "重覆密碼"
+
+#: backend/edit_user.php:211
+msgid "Delete User"
+msgstr "刪除使用者"
+
+#: backend/edit_user.php:214
+msgid "Are you sure you want to delete the user?"
+msgstr "您確定要刪除這個場景嗎？"
+
+#: backend/edit_user.php:215
+msgid "Attention: all the maps of that user will be deleted!"
+msgstr "注意：該使用者的所有地圖將被刪除！"
+
+#: backend/edit_user.php:218 backend/maps.php:80 backend/markers.php:91
+#: backend/edit_category.php:171
+msgid "Yes, Delete"
+msgstr "是，刪除"
+
+#: backend/markers_connections.php:25
+msgid "ADD CONNECTION"
+msgstr "添加連接"
+
+#: backend/markers_connections.php:37
+msgid "Line"
+msgstr "線條"
+
+#: backend/markers_connections.php:54
+msgid "Add Connection"
+msgstr "添加連接"
+
+#: backend/markers_connections.php:76 backend/markers_connections.php:134
+msgid "Line Color"
+msgstr "線條顏色"
+
+#: backend/markers_connections.php:82 backend/markers_connections.php:140
+msgid "Line Width"
+msgstr "線度"
+
+#: backend/markers_connections.php:88 backend/markers_connections.php:146
+msgid "Popup Title"
+msgstr "彈出標題"
+
+#: backend/markers_connections.php:94 backend/markers_connections.php:152
+msgid "Popup Description"
+msgstr "彈出描述"
+
+#: backend/markers_connections.php:101 backend/story.php:100
+msgid "Yes, Add"
+msgstr "是的，添加"
+
+#: backend/markers_connections.php:112
+msgid "Edit Connection"
+msgstr "編輯連接"
+
+#: backend/markers_connections.php:159 backend/story.php:151
+msgid "Yes, Save"
+msgstr "是的，保存"
+
+#: backend/markers_connections.php:160 backend/story.php:152
+msgid "Delete"
+msgstr "刪除"
+
+#: backend/categories.php:25
+msgid "ADD CATEGORY"
+msgstr "新增分類"
+
+#: backend/categories.php:37 backend/add_category.php:41
+#: backend/edit_category.php:69
+msgid "Default selected"
+msgstr "選定預設值"
+
+#: backend/dashboard.php:12
+#, php-format
+msgid ""
+"Welcome to %s configuration panel, where you can create your virtual tours "
+"in a few simple steps."
+msgstr "歡迎使用%s面板，您可以在幾個簡單的步驟中創建虛擬旅遊。"
+
+#: backend/dashboard.php:20
+msgid "Welcome"
+msgstr "歡迎"
+
+#: backend/dashboard.php:65
+msgid "Visitors N."
+msgstr "訪客 N."
+
+#: backend/dashboard.php:68
+#, php-format
+msgid "No maps created yet. Go to %s and create a new one!"
+msgstr "尚未創建地圖。去%s，創造一個新的！"
+
+#: backend/dashboard.php:77
+msgid "Markers Count"
+msgstr "標記計數"
+
+#: backend/publish.php:34
+msgid "Protection"
+msgstr "保護"
+
+#: backend/publish.php:45 backend/topbar.php:21 backend/topbar.php:46
+#: backend/topbar.php:64 backend/topbar.php:84 backend/topbar.php:99
+#: backend/topbar.php:104
+msgid "SAVE"
+msgstr "儲存"
+
+#: backend/publish.php:56
+msgid "Meta Tag"
+msgstr "元標記"
+
+#: backend/publish.php:63
+msgid "Title"
+msgstr "標題"
+
+#: backend/publish.php:71
+msgid "Image"
+msgstr "圖片"
+
+#: backend/publish.php:73 backend/settings.php:109 backend/settings.php:147
+msgid "DELETE IMAGE"
+msgstr "刪除圖像"
+
+#: backend/publish.php:96 backend/sidebar.php:162 backend/topbar.php:77
+msgid "Preview"
+msgstr "預覽"
+
+#: backend/publish.php:129
+msgid "Share & Embed"
+msgstr "共用和嵌入"
+
+#: backend/publish.php:135 backend/settings.php:50
+msgid "Status"
+msgstr "狀態"
+
+#: backend/publish.php:136
+msgid "Activated"
+msgstr "已啟用"
+
+#: backend/publish.php:136
+msgid "Deactivated"
+msgstr "已停用"
+
+#: backend/publish.php:139
+msgid "Show as first page"
+msgstr "顯示為第一頁"
+
+#: backend/publish.php:139
+msgid "only visible to administrators"
+msgstr "只對管理員可見"
+
+#: backend/publish.php:145
+msgid "Link"
+msgstr "連結"
+
+#: backend/publish.php:146
+msgid "Url variables"
+msgstr "網址變數"
+
+#: backend/publish.php:150 backend/publish.php:191 backend/edit_marker.php:54
+msgid "OPEN LINK"
+msgstr "打開鏈接"
+
+#: backend/publish.php:153 backend/publish.php:194 backend/publish.php:210
+#: backend/edit_marker.php:57
+msgid "COPY TO CLIPBOARD"
+msgstr "複製到剪貼板"
+
+#: backend/publish.php:156 backend/publish.php:197 backend/edit_marker.php:60
+msgid "QR CODE"
+msgstr "二維碼"
+
+#: backend/publish.php:184
+msgid "Friendly Link"
+msgstr "友情鏈接"
+
+#: backend/publish.php:206
+msgid "Embed Code"
+msgstr "嵌入代碼"
+
+#: backend/publish.php:227 backend/edit_marker.php:671
+msgid "QR Code"
+msgstr "QR 碼"
+
+#: backend/maps.php:16
+msgid "CREATE NEW MAP"
+msgstr "創建新地圖"
+
+#: backend/maps.php:32
+msgid "LOADING MAPS"
+msgstr "載入地圖中..."
+
+#: backend/maps.php:50
+msgid "New Map"
+msgstr "新地圖"
+
+#: backend/maps.php:74
+msgid "Delete Map"
+msgstr "刪除地圖"
+
+#: backend/maps.php:77
+msgid ""
+"Are you sure you want to delete the entire map, included all the markers?"
+msgstr "您確定要刪除整個地圖，包括所有標記嗎？"
+
+#: backend/maps.php:91
+msgid "Duplicate Map"
+msgstr "複製地圖"
+
+#: backend/maps.php:94
+msgid ""
+"Are you sure you want to duplicate the entire map, included all the markers?"
+msgstr "您確定要複製整個地圖，包括所有標記嗎？"
+
+#: backend/maps.php:97 backend/markers.php:108
+msgid "Yes, Duplicate"
+msgstr "是，重複"
+
+#: backend/sidebar.php:96
+msgid "DEMO MODE"
+msgstr "演示模式"
+
+#: backend/sidebar.php:96
+msgid "ADD / SAVE features are disabled."
+msgstr "添加/保存功能被禁用。"
+
+#: backend/sidebar.php:109 backend/topbar.php:11
+msgid "Dashboard"
+msgstr "控制台"
+
+#: backend/sidebar.php:114 backend/topbar.php:15
+msgid "Statistics"
+msgstr "統計"
+
+#: backend/sidebar.php:174 backend/edit_map.php:40 backend/topbar.php:85
+msgid "Settings"
+msgstr "設定"
+
+#: backend/sidebar.php:179 backend/topbar.php:88
+msgid "Upgrade"
+msgstr "升級"
+
+#: backend/sidebar.php:184 backend/topbar.php:91
+msgid "Users"
+msgstr "使用者"
+
+#: backend/statistics.php:17
+msgid "Map Accesses"
+msgstr "地圖訪問"
+
+#: backend/statistics.php:27
+msgid "Marker views"
+msgstr "標記檢視"
+
+#: backend/statistics.php:48
+msgid "Loading..."
+msgstr "讀取中..."
+
+#: backend/statistics.php:49
+msgid "January"
+msgstr "一月"
+
+#: backend/statistics.php:49
+msgid "February"
+msgstr "二月"
+
+#: backend/statistics.php:49
+msgid "March"
+msgstr "三月"
+
+#: backend/statistics.php:49
+msgid "April"
+msgstr "四月"
+
+#: backend/statistics.php:49
+msgid "May"
+msgstr "五月"
+
+#: backend/statistics.php:49
+msgid "June"
+msgstr "六月"
+
+#: backend/statistics.php:49
+msgid "July"
+msgstr "7月"
+
+#: backend/statistics.php:49
+msgid "August"
+msgstr "八月"
+
+#: backend/statistics.php:49
+msgid "September"
+msgstr "九月"
+
+#: backend/statistics.php:49
+msgid "October"
+msgstr "十月"
+
+#: backend/statistics.php:49
+msgid "November"
+msgstr "十一月"
+
+#: backend/statistics.php:49
+msgid "December"
+msgstr "十二月"
+
+#: backend/statistics.php:50
+msgid "Sunday"
+msgstr "星期日"
+
+#: backend/statistics.php:50
+msgid "Monday"
+msgstr "星期一"
+
+#: backend/statistics.php:50
+msgid "Tuesday"
+msgstr "星期二"
+
+#: backend/statistics.php:50
+msgid "Wednesday"
+msgstr "星期三"
+
+#: backend/statistics.php:50
+msgid "Thursday"
+msgstr "星期四"
+
+#: backend/statistics.php:50
+msgid "Friday"
+msgstr "星期五"
+
+#: backend/statistics.php:50
+msgid "Saturday"
+msgstr "星期六"
+
+#: backend/statistics.php:52
+msgid "Export"
+msgstr "匯出"
+
+#: backend/statistics.php:53
+msgid "Import"
+msgstr "匯入"
+
+#: backend/statistics.php:54
+msgid "From"
+msgstr "從"
+
+#: backend/statistics.php:55
+msgid "To"
+msgstr "到"
+
+#: backend/statistics.php:56
+msgid "Period"
+msgstr "期間"
+
+#: backend/statistics.php:57
+msgid "Download image PNG"
+msgstr "下載圖片PNG"
+
+#: backend/statistics.php:58
+msgid "Download image JPEG"
+msgstr "下載圖像 JPEG"
+
+#: backend/statistics.php:59
+msgid "Download document PDF"
+msgstr "下載文檔 PDF"
+
+#: backend/statistics.php:60
+msgid "Download image SVG"
+msgstr "下載圖像 SVG"
+
+#: backend/statistics.php:61
+msgid "Print"
+msgstr "列印"
+
+#: backend/edit_map.php:52
+msgid "User"
+msgstr "使用者"
+
+#: backend/edit_map.php:52
+msgid "owner of the map"
+msgstr "地圖擁有者"
+
+#: backend/edit_map.php:97
+msgid "enable the search box in the map"
+msgstr "啟用地圖中的搜索框"
+
+#: backend/edit_map.php:103
+msgid "Search Locations"
+msgstr "搜尋地點"
+
+#: backend/edit_map.php:103
+msgid "enables the search for a location / city"
+msgstr "啟用位置/城市搜索"
+
+#: backend/edit_map.php:109
+msgid "List"
+msgstr "清單"
+
+#: backend/edit_map.php:109
+msgid "enables the list of markers in the map"
+msgstr "啟用地圖中的標記列表"
+
+#: backend/edit_map.php:115
+msgid "enable the category filter in the map"
+msgstr "在地圖中啟用類別過濾器"
+
+#: backend/edit_map.php:121
+msgid "Auto show List"
+msgstr "車展清單"
+
+#: backend/edit_map.php:121
+msgid "automatically open the marker's list at first map loading"
+msgstr "在第一個地圖載入時自動打開標記清單"
+
+#: backend/edit_map.php:127
+msgid "Auto show Categories"
+msgstr "車展分類"
+
+#: backend/edit_map.php:127
+msgid "automatically open the categories filter"
+msgstr "自動打開類別過濾器"
+
+#: backend/edit_map.php:133
+msgid "Auto show My Location"
+msgstr "自動顯示我的位置"
+
+#: backend/edit_map.php:133
+msgid "automatically geolocate and show the location"
+msgstr "自動地理定位並顯示位置"
+
+#: backend/edit_map.php:139
+msgid "Sheet Details"
+msgstr "工作表詳細信息"
+
+#: backend/edit_map.php:139
+msgid "enable sheet detail when click on markers"
+msgstr "單擊標記時啟用工作表詳細信息"
+
+#: backend/edit_map.php:145
+msgid "Control Arrows Markers"
+msgstr "控制箭頭標記"
+
+#: backend/edit_map.php:145
+msgid "show controls arrows to loop through the markers"
+msgstr "顯示控制箭頭以循環標記"
+
+#: backend/edit_map.php:151
+msgid "enables the story feature in the map"
+msgstr "啟用地圖中的故事功能"
+
+#: backend/edit_map.php:157
+msgid "enable the button 'directions' for markers"
+msgstr "啟用標記的“方向”按鈕"
+
+#: backend/edit_map.php:163
+msgid "enable the button 'street view' for markers"
+msgstr "為標記啟用按鈕“街景”"
+
+#: backend/edit_map.php:169
+msgid "enable the reviews for markers"
+msgstr "啟用對標記的評論"
+
+#: backend/edit_map.php:175
+msgid "enable share buttons for markers"
+msgstr "啟用標記的共享按鈕"
+
+#: backend/edit_map.php:181
+msgid "Add Markers from Map"
+msgstr "從地圖添加標記"
+
+#: backend/edit_map.php:181
+msgid "enables adding markers directly from the map"
+msgstr "允許直接從地圖添加標記"
+
+#: backend/edit_map.php:183 backend/edit_map.php:262 backend/edit_map.php:426
+msgid "Disabled"
+msgstr "停用"
+
+#: backend/edit_map.php:184 backend/edit_map.php:427
+msgid "Enabled"
+msgstr "啟用"
+
+#: backend/edit_map.php:185
+msgid "Enabled (Automatic Approval)"
+msgstr "已啟用（自動批准）"
+
+#: backend/edit_map.php:191
+msgid "Density color"
+msgstr "密度顏色"
+
+#: backend/edit_map.php:191
+msgid "displays different colors based on the density of marker grouping"
+msgstr "根據標記分組的密度顯示不同的顏色"
+
+#: backend/edit_map.php:197
+msgid "Density Color Tolerance"
+msgstr "密度顏色容差"
+
+#: backend/edit_map.php:197
+msgid "tolerance to color the grouped markers"
+msgstr "為分組標記著色的容差"
+
+#: backend/edit_map.php:203
+msgid "Density Distance"
+msgstr "密度距離"
+
+#: backend/edit_map.php:203
+msgid ""
+"distance in pixels within which features will be clustered together. 0 to "
+"disable clustering"
+msgstr "像素距離，其中功能將聚集在一起。0 禁用聚類"
+
+#: backend/edit_map.php:209
+msgid "Initial Zoom"
+msgstr "初始縮放"
+
+#: backend/edit_map.php:209
+msgid "initial zoom when the map is loaded (1 far - 20 near)"
+msgstr "加載地圖時的初始縮放（1 遠 - 20 近）"
+
+#: backend/edit_map.php:211
+msgid "Fit Markers"
+msgstr "適合標記"
+
+#: backend/edit_map.php:226
+msgid "Marker Zoom"
+msgstr "標記縮放"
+
+#: backend/edit_map.php:226
+msgid "zoom level when the marker is clicked (1 far - 20 near)"
+msgstr "單擊標記時的縮放級別（1 遠 - 20 近）"
+
+#: backend/edit_map.php:228 backend/edit_map.php:245
+msgid "No change"
+msgstr "沒有變更"
+
+#: backend/edit_map.php:243
+msgid "My Location Zoom"
+msgstr "我的位置縮放"
+
+#: backend/edit_map.php:243
+msgid "zoom level when enabling geolocation (1 far - 20 near)"
+msgstr "啟用地理定位時的縮放級別（1 遠 - 20 近）"
+
+#: backend/edit_map.php:260
+msgid "Highlight Markers (Search)"
+msgstr "突出顯示標記（搜索）"
+
+#: backend/edit_map.php:260
+msgid ""
+"highlights the position of the marker when you hover over the search results "
+"(1 far - 20 near)"
+msgstr "將鼠標懸停在搜索結果上時突出顯示標記的位置（1 遠 - 20 近）"
+
+#: backend/edit_map.php:263
+msgid "Keep Zoom Level"
+msgstr "保持縮放級別"
+
+#: backend/edit_map.php:278
+msgid "Markers Order by"
+msgstr "標記順序"
+
+#: backend/edit_map.php:280
+msgid "Priority"
+msgstr "優先度"
+
+#: backend/edit_map.php:288
+msgid "Categories Filter Type"
+msgstr "類別過濾器類型"
+
+#: backend/edit_map.php:290
+msgid "OR"
+msgstr "或"
+
+#: backend/edit_map.php:291
+msgid "AND"
+msgstr "和"
+
+#: backend/edit_map.php:297
+msgid "Quality"
+msgstr "質量"
+
+#: backend/edit_map.php:297
+msgid "map quality (high can slow movement)"
+msgstr "地圖質量（高可以減慢移動）"
+
+#: backend/edit_map.php:299
+msgid "Low"
+msgstr "低"
+
+#: backend/edit_map.php:300
+msgid "Medium"
+msgstr "中"
+
+#: backend/edit_map.php:301
+msgid "High"
+msgstr "高"
+
+#: backend/edit_map.php:307
+msgid "Weather"
+msgstr "天氣"
+
+#: backend/edit_map.php:310
+msgid "Celsius"
+msgstr "攝氏"
+
+#: backend/edit_map.php:311
+msgid "Fahrenheit"
+msgstr "華氏"
+
+#: backend/edit_map.php:317
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: backend/edit_map.php:317
+msgid ""
+"Google Analytics Tracking ID. Note: Use the Friendly URL in Google "
+"Analytics's property url setting."
+msgstr "谷歌分析跟蹤 ID. 注意： 在 Google 分析的屬性 Url 設置中使用友好網址。"
+
+#: backend/edit_map.php:369
+msgid "only needed if map style is different from default or custom version"
+msgstr "僅當地圖樣式與預設或自定義版本不同時才需要"
+
+#: backend/edit_map.php:377
+msgid "Street Url"
+msgstr "街道網址"
+
+#: backend/edit_map.php:383
+msgid "Street Max Zoom"
+msgstr "街道最大縮放"
+
+#: backend/edit_map.php:389
+msgid "Street Attributions"
+msgstr "街道歸因"
+
+#: backend/edit_map.php:395
+msgid "Satellite Url"
+msgstr "衛星網址"
+
+#: backend/edit_map.php:401
+msgid "Satellite Max Zoom"
+msgstr "衛星最大變焦"
+
+#: backend/edit_map.php:407
+msgid "Satellite Attributions"
+msgstr "衛星歸因"
+
+#: backend/edit_map.php:415
+msgid "Default view"
+msgstr "預設視圖"
+
+#: backend/edit_map.php:418
+msgid "Satellite"
+msgstr "衛星"
+
+#: backend/edit_map.php:424
+msgid "Globe view"
+msgstr "全球視野"
+
+#: backend/edit_map.php:428
+msgid "Enabled (autostart)"
+msgstr "啟用（自動啟動）"
+
+#: backend/edit_map.php:445
+msgid "Main color"
+msgstr "主色調"
+
+#: backend/edit_map.php:451
+msgid "Font Viewer"
+msgstr "字體查看器"
+
+#: backend/edit_map.php:459 backend/settings.php:104
+msgid "Logo"
+msgstr "Logo"
+
+#: backend/edit_map.php:467
+msgid "DELETE LOGO"
+msgstr "刪除徽標"
+
+#: backend/edit_map.php:479 backend/settings.php:124
+msgid "Upload Logo Image"
+msgstr "上傳徽標圖片"
+
+#: backend/edit_map.php:500
+msgid "Markers Icon"
+msgstr "標記圖標"
+
+#: backend/edit_map.php:505
+msgid "Default Markers Icon Type"
+msgstr "默認標記圖標類型"
+
+#: backend/edit_map.php:515 backend/edit_map.php:525
+msgid "Default Markers Icon"
+msgstr "默認標記圖標"
+
+#: backend/edit_map.php:533
+msgid "Default Markers Icon Background"
+msgstr "默認標記圖標背景"
+
+#: backend/edit_map.php:539
+msgid "Default Markers Icon Color"
+msgstr "默認標記圖標顏色"
+
+#: backend/edit_map.php:545
+msgid "Default Markers Size"
+msgstr "默認標記大小"
+
+#: backend/edit_map.php:551 backend/edit_category.php:136
+msgid "ASSIGN ICON TO"
+msgstr "將圖標分配給"
+
+#: backend/edit_map.php:563
+msgid "Link or upload Json"
+msgstr "鏈接或上傳 Json"
+
+#: backend/edit_map.php:576
+msgid "Upload Json"
+msgstr "上傳 Json"
+
+#: backend/settings.php:16 backend/updater.php:43
+msgid "It looks like that you do not have permission to access this page"
+msgstr "看起來您沒有訪問此頁面的許可權"
+
+#: backend/settings.php:24
+msgid "Please enter a valid purchase code to continue using the application."
+msgstr "請輸入有效的購買代碼，繼續使用應用程式。"
+
+#: backend/settings.php:33
+msgid "License"
+msgstr "授權"
+
+#: backend/settings.php:39
+msgid "Purchase Code"
+msgstr "購買代碼"
+
+#: backend/settings.php:39
+msgid "Where i can find it?"
+msgstr "我在哪裡可以找到它？"
+
+#: backend/settings.php:46
+msgid "CHECK"
+msgstr "檢查"
+
+#: backend/settings.php:75
+msgid "Branding"
+msgstr "品牌"
+
+#: backend/settings.php:81
+msgid "Application Name"
+msgstr "應用程式名稱"
+
+#: backend/settings.php:87
+msgid "Theme Color"
+msgstr "主題顏色"
+
+#: backend/settings.php:93
+msgid "Font Backend"
+msgstr "字體後端"
+
+#: backend/settings.php:99
+msgid "Welcome Message"
+msgstr "歡迎訊息："
+
+#: backend/settings.php:99
+msgid "leave empty for default welcome message"
+msgstr "為默認歡迎消息留空"
+
+#: backend/settings.php:118 backend/settings.php:156
+msgid "Choose file"
+msgstr "選擇檔案"
+
+#: backend/settings.php:142
+msgid "Login image"
+msgstr "登錄圖像"
+
+#: backend/settings.php:162
+msgid "Upload Login Image"
+msgstr "上傳登錄圖像"
+
+#: backend/settings.php:189
+msgid "Localization"
+msgstr "本地化"
+
+#: backend/settings.php:231
+msgid "Translation Type"
+msgstr "翻譯類型"
+
+#: backend/settings.php:240
+msgid "Languages Enabled"
+msgstr "啟用語言"
+
+#: backend/settings.php:241
+msgid "items selected"
+msgstr "項目已選中"
+
+#: backend/settings.php:241
+msgid "Deselect All"
+msgstr "取消全選"
+
+#: backend/settings.php:241
+msgid "Select All"
+msgstr "全選"
+
+#: backend/settings.php:241
+msgid "Nothing selected"
+msgstr "未選擇任何內容"
+
+#: backend/settings.php:241 backend/functions.php:677
+msgid "No results matched"
+msgstr "沒有匹配的結果"
+
+#: backend/settings.php:296
+msgid "Footer"
+msgstr "頁尾"
+
+#: backend/settings.php:302
+msgid "Name Item 1"
+msgstr "名稱專案 1"
+
+#: backend/settings.php:308
+msgid "Content Item 1"
+msgstr "內容專案 1"
+
+#: backend/settings.php:308 backend/settings.php:323 backend/settings.php:338
+msgid "insert a textual content or a link to an external site"
+msgstr "插入文本內容或指向外部網站的連結"
+
+#: backend/settings.php:317
+msgid "Name Item 2"
+msgstr "名稱專案 2"
+
+#: backend/settings.php:323
+msgid "Content Item 2"
+msgstr "內容專案 2"
+
+#: backend/settings.php:332
+msgid "Name Item 3"
+msgstr "名稱專案 3"
+
+#: backend/settings.php:338
+msgid "Content Item 3"
+msgstr "內容專案 3"
+
+#: backend/settings.php:352
+msgid "Custom Viewer CSS"
+msgstr "自定義查看器 CSS"
+
+#: backend/settings.php:358
+msgid "General (affects all maps)"
+msgstr "一般（影響所有地圖）"
+
+#: backend/settings.php:376
+msgid "Custom Backend CSS"
+msgstr "自定義後端 CSS"
+
+#: backend/settings.php:489
+msgid "Choose"
+msgstr "選擇"
+
+#: backend/story.php:25
+msgid "ADD MARKER TO STORY"
+msgstr "在故事中添加標記"
+
+#: backend/story.php:37 backend/story.php:66 backend/story.php:117
+msgid "Zoom"
+msgstr "縮放"
+
+#: backend/story.php:38 backend/markers.php:62
+msgid "Order"
+msgstr "訂單"
+
+#: backend/story.php:54
+msgid "Add Marker to Story"
+msgstr "將標記添加到故事"
+
+#: backend/story.php:111 backend/topbar.php:48
+msgid "Edit Marker"
+msgstr "编辑标记"
+
+#: backend/markers.php:27
+msgid "IMPORT EXCEL"
+msgstr "進口EXCEL"
+
+#: backend/markers.php:32
+msgid "BULK SELETE"
+msgstr "批量選擇"
+
+#: backend/markers.php:38
+msgid "SELECTED MARKERS"
+msgstr "選定的標記"
+
+#: backend/markers.php:38
+msgid "select all"
+msgstr "全部選取"
+
+#: backend/markers.php:38
+msgid "deselect all"
+msgstr "取消全選"
+
+#: backend/markers.php:41
+msgid "SELETE"
+msgstr "選擇"
+
+#: backend/markers.php:57
+msgid "Address"
+msgstr "地址"
+
+#: backend/markers.php:59 backend/edit_marker.php:113
+msgid "Validated"
+msgstr "已批准"
+
+#: backend/markers.php:60 backend/edit_marker.php:119
+msgid "Centered"
+msgstr "置中"
+
+#: backend/markers.php:77
+msgid "export markers"
+msgstr "出口標記"
+
+#: backend/markers.php:85
+msgid "Delete Marker"
+msgstr "刪除標記"
+
+#: backend/markers.php:88
+msgid "Are you sure you want to delete the marker?"
+msgstr "是否確實要刪除標記？"
+
+#: backend/markers.php:102
+msgid "Duplicate Marker"
+msgstr "重複標記"
+
+#: backend/markers.php:105
+msgid "Are you sure you want to duplicate the marker?"
+msgstr "您確定要復制標記嗎？"
+
+#: backend/add_category.php:7
+msgid "ADD CATEGOR"
+msgstr "添加分類"
+
+#: backend/add_category.php:32 backend/edit_category.php:60
+msgid "Parent Category"
+msgstr "上層分類"
+
+#: backend/functions.php:558
+msgid "administrator"
+msgstr "管理員"
+
+#: backend/edit_category.php:29 backend/edit_marker.php:44
+msgid "Direct Link"
+msgstr "直接連結"
+
+#: backend/edit_category.php:83
+msgid "Markers Icons"
+msgstr "標記圖標"
+
+#: backend/edit_category.php:129
+msgid "Size"
+msgstr "尺寸"
+
+#: backend/edit_category.php:165
+msgid "Delete Category"
+msgstr "刪除分類"
+
+#: backend/edit_category.php:168
+msgid "Are you sure you want to delete the category?"
+msgstr "您確定要刪除此分類嗎？"
+
+#: backend/updater.php:52
+msgid "Version Check"
+msgstr "版本檢查"
+
+#: backend/updater.php:57
+msgid "Current Version"
+msgstr "目前版本"
+
+#: backend/updater.php:57
+msgid "Latest Version"
+msgstr "最新版本"
+
+#: backend/updater.php:61
+msgid "Changelog"
+msgstr "更新日誌"
+
+#: backend/updater.php:75
+msgid "Download and Update"
+msgstr "下載和更新"
+
+#: backend/updater.php:83
+msgid "Can't upgrade, please enable php zip extension."
+msgstr "無法升級，請啟用 php 拉鍊擴展。"
+
+#: backend/updater.php:91
+msgid ""
+"Be sure to perform a full manual backup of your current files and database "
+"before upgrading."
+msgstr "在升級之前，請務必對當前文件和資料庫進行完整的手動備份。"
+
+#: backend/updater.php:94
+msgid "I made the backup, continue"
+msgstr "我做了備份， 繼續"
+
+#: backend/updater.php:100
+msgid "UPGRADE NOW!"
+msgstr "現在升級！"
+
+#: backend/updater.php:103
+msgid "click upgrade now to start"
+msgstr "按兩下升級現在開始"
+
+#: backend/updater.php:134
+msgid "downloading ..."
+msgstr "下載。。。"
+
+#: backend/updater.php:150 backend/updater.php:157 backend/updater.php:181
+#: backend/updater.php:188
+msgid "error, please retry"
+msgstr "錯誤， 請重試"
+
+#: backend/updater.php:164
+msgid "installing ... do not close this window!"
+msgstr "安裝。。。不要關閉這個視窗！"
+
+#: backend/updater.php:174
+msgid "upgrade completed successfully, you will now be logged out in 5 seconds"
+msgstr "升級成功完成，您將在 5 秒內註銷"
+
+#: backend/updater.php:198
+msgid "checking license"
+msgstr "檢查許可證"
+
+#: backend/updater.php:232
+msgid "invalid license, unable to update"
+msgstr "許可證無效，無法更新"
+
+#: backend/import.php:61
+#, php-format
+msgid ""
+"Use %s template excel or the exported csv to import multiple markers at once."
+msgstr "使用%s範本 excel 或導出的 csv 同時導入多個標記。"
+
+#: backend/import.php:61
+msgid "this"
+msgstr "這"
+
+#: backend/import.php:71 backend/import.php:98
+msgid "Import Markers"
+msgstr "匯入標記"
+
+#: backend/import.php:104
+msgid "Ok"
+msgstr "確定"
+
+#: backend/import.php:160
+msgid "IMPORTING MARKERS ... DO NOT CLOSE THIS WINDOW!!!!"
+msgstr "匯入標記...不要關閉此視窗!!!!"
+
+#: backend/edit_marker.php:36
+msgid ""
+"This marker was added by a person outside the system. Check the data entered "
+"before approving it."
+msgstr "這個標記是由系統外的人添加的。在批准之前檢查輸入的數據。"
+
+#: backend/edit_marker.php:113
+msgid "it must be validated to be visible on the map"
+msgstr "它必須經過驗證才能在地圖上可見"
+
+#: backend/edit_marker.php:119
+msgid "center the map on this marker"
+msgstr "將地圖置於此標記的中心"
+
+#: backend/topbar.php:36
+msgid "EDIT PREVIOUS MARKER"
+msgstr "編輯上一個標記"
+
+#: backend/topbar.php:41
+msgid "EDIT NEXT MARKER"
+msgstr "編輯下一個標記"
+
+#: backend/topbar.php:65
+msgid "Edit Category"
+msgstr "編輯分類"
+
+#: backend/topbar.php:100
+msgid "Edit User"
+msgstr "編輯使用者"
+
+#: backend/topbar.php:105
+msgid "Edit Profile"
+msgstr "編輯個人資料"
+
+#: backend/topbar.php:164
+msgid "Edit profile"
+msgstr "編輯個人資料"
+
+#: backend/topbar.php:168 backend/topbar.php:188
+msgid "Logout"
+msgstr "登出"
+
+#: backend/topbar.php:180
+msgid "Ready to Leave?"
+msgstr "準備好離開了嗎？"
+
+#: backend/topbar.php:185
+msgid "Select Logout below if you are ready to end your current session."
+msgstr "如果您已準備好結束當前會話，請選擇下面的註銷。"
+
+#~ msgid "Select Category"
+#~ msgstr "選擇類別"
+
+#~ msgid "REVIEWS"
+#~ msgstr "評論"
+
+#~ msgid "ICONS LIBRARY"
+#~ msgstr "圖示庫"
+
+#~ msgid "USERS"
+#~ msgstr "使用者"
+
+#~ msgid "EDIT PROFILE"
+#~ msgstr "編輯設定檔"
+
+#~ msgid "EDIT USER"
+#~ msgstr "編輯使用者"
+
+#~ msgid "CONNECTIONS"
+#~ msgstr "連接"
+
+#~ msgid "CATEGORIES"
+#~ msgstr "類別"
+
+#~ msgid "DASHBOARD"
+#~ msgstr "儀表板"
+
+#~ msgid "Password Protection"
+#~ msgstr "密碼保護。"
+
+#~ msgid ""
+#~ "If you decide to protect your map with a password, at the first access it "
+#~ "will be required to visit it."
+#~ msgstr "如果您決定使用密碼保護地圖，在第一次訪問時需要訪問地圖。"
+
+#~ msgid "PROTECT MAP"
+#~ msgstr "保護地圖"
+
+#~ msgid ""
+#~ "Your map is now protected with a password, click UNPROTECT to remove it."
+#~ msgstr "您的地圖現在使用密碼進行保護，按兩下 UNPROTECT 將其刪除。"
+
+#~ msgid "UNPROTECT MAP"
+#~ msgstr "未保護地圖"
+
+#~ msgid "Current status"
+#~ msgstr "現狀"
+
+#~ msgid "DEACTIVATE"
+#~ msgstr "關閉"
+
+#~ msgid "ACTIVATE"
+#~ msgstr "啟用"
+
+#~ msgid "SET FRIENDLY URL"
+#~ msgstr "設置友好 URL"
+
+#~ msgid "Map Friendly Url Link"
+#~ msgstr "地圖友好網址連結"
+
+#~ msgid "MAPS"
+#~ msgstr "地圖"
+
+#~ msgid "STATISTICS"
+#~ msgstr "統計"
+
+#~ msgid "EDIT MAP"
+#~ msgstr "編輯地圖"
+
+#~ msgid "SETTINGS"
+#~ msgstr "設置"
+
+#~ msgid "STORY"
+#~ msgstr "故事"
+
+#~ msgid "EDIT CATEGORY"
+#~ msgstr "編輯類別"
+
+#~ msgid "UPGRADE"
+#~ msgstr "升級"
+
+#~ msgid "End, Go back to the beginning"
+#~ msgstr "結束，回到開始"
+
+#~ msgid "categories"
+#~ msgstr "類別"
+
+#~ msgid "DEMO MODE: Add / Save functionality are disabled."
+#~ msgstr "演示模式：禁用添加/保存功能。"
+
+#~ msgid "Marker 1"
+#~ msgstr "標記 1"
+
+#~ msgid "Marker 2"
+#~ msgstr "標記 2"
+
+#~ msgid "enable reviews"
+#~ msgstr "啟用評論"
+
+#~ msgid "enable directions"
+#~ msgstr "啟用方向"
+
+#~ msgid "enable street view"
+#~ msgstr "啟用街景"
+
+#~ msgid "Pinned"
+#~ msgstr "寄託"
+
+#~ msgid "put on top of the marker's list"
+#~ msgstr "放在標記清單的頂部"
+
+#~ msgid "Background Color"
+#~ msgstr "背景色彩"
+
+#~ msgid "Color"
+#~ msgstr "顏色"
+
+#~ msgid "Library Icon"
+#~ msgstr "庫圖示"
+
+#~ msgid "1 zoomed in - 20 zoomed out"
+#~ msgstr "1 放大縮小字體功能 放大縮小字體功能"

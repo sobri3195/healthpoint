@@ -1,0 +1,2271 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Map Locator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-18 21:16+0100\n"
+"PO-Revision-Date: 2023-02-18 21:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: viewer/index.php:314
+msgid "This Map is password protected"
+msgstr "Peta ini dilindungi kata sandi"
+
+#: viewer/index.php:315
+msgid "Input password"
+msgstr "Masukkan kata sandi"
+
+#: viewer/index.php:360
+msgid "add new marker"
+msgstr "tambahkan penanda baru"
+
+#: viewer/index.php:364
+msgid "click on the map and place your marker"
+msgstr "klik pada peta dan tempatkan penanda Anda"
+
+#: viewer/index.php:367
+msgid "drag the marker to adjust the position"
+msgstr "seret penanda untuk menyesuaikan posisi"
+
+#: viewer/index.php:367
+msgid "confirm"
+msgstr "konfirmasi"
+
+#: viewer/index.php:378
+msgid "DIRECTIONS"
+msgstr "ARAH"
+
+#: viewer/index.php:379
+msgid "STREET VIEW"
+msgstr "PEMANDANGAN JALAN"
+
+#: viewer/index.php:380
+msgid "WRITE A REVIEW"
+msgstr "TULIS ULASAN"
+
+#: viewer/index.php:440
+msgid "Average Rating"
+msgstr "Rating rata-rata"
+
+#: viewer/index.php:494 backend/reviews.php:31 backend/add_marker.php:51
+#: backend/categories.php:36 backend/maps.php:56 backend/edit_map.php:46
+#: backend/edit_map.php:281 backend/markers.php:55 backend/add_category.php:26
+#: backend/edit_category.php:54 backend/edit_marker.php:101
+msgid "Name"
+msgstr "Nama"
+
+#: viewer/index.php:497 backend/markers.php:44
+msgid "CANCEL"
+msgstr "BATALKAN"
+
+#: viewer/index.php:498 backend/add_marker.php:37 backend/add_category.php:12
+msgid "ADD"
+msgstr "TAMBAHKAN"
+
+#: viewer/index.php:504 backend/add_marker.php:243 backend/add_marker.php:293
+#: backend/edit_marker.php:305 backend/edit_marker.php:359
+msgid "Latitude"
+msgstr "Latitude"
+
+#: viewer/index.php:505 backend/add_marker.php:249 backend/add_marker.php:294
+#: backend/edit_marker.php:311 backend/edit_marker.php:360
+msgid "Longitude"
+msgstr "Longitude"
+
+#: viewer/index.php:519 backend/add_marker.php:101 backend/edit_map.php:417
+#: backend/edit_marker.php:163
+msgid "Street"
+msgstr "Jalan"
+
+#: viewer/index.php:525 backend/add_marker.php:107 backend/edit_map.php:282
+#: backend/edit_marker.php:169
+msgid "City"
+msgstr "Kota"
+
+#: viewer/index.php:531 backend/add_marker.php:113 backend/edit_marker.php:175
+msgid "Postal Code"
+msgstr "Kode Pos"
+
+#: viewer/index.php:537 backend/add_marker.php:119 backend/edit_marker.php:181
+msgid "Country"
+msgstr "Negara"
+
+#: viewer/index.php:543
+msgid "Website"
+msgstr "Website"
+
+#: viewer/index.php:549 backend/reviews.php:32 backend/add_marker.php:149
+#: backend/edit_marker.php:211
+msgid "E-mail"
+msgstr "E-mail"
+
+#: viewer/index.php:555 backend/add_marker.php:137 backend/edit_marker.php:199
+msgid "Phone"
+msgstr "Telepon"
+
+#: viewer/index.php:561 backend/add_marker.php:143 backend/edit_marker.php:205
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: viewer/index.php:567 backend/add_marker.php:155 backend/edit_marker.php:217
+msgid "Hours"
+msgstr "Jam"
+
+#: viewer/index.php:573 backend/add_marker.php:161 backend/publish.php:67
+#: backend/story.php:93 backend/story.php:144 backend/edit_marker.php:223
+msgid "Description"
+msgstr "Deskripsi"
+
+#: viewer/index.php:589
+msgid "delete images"
+msgstr "hapus gambar"
+
+#: viewer/index.php:598
+msgid "Your Rating"
+msgstr "Penilaian Kamu"
+
+#: viewer/index.php:606
+msgid "Your Name"
+msgstr "Nama Anda"
+
+#: viewer/index.php:609
+msgid "Your Email Address (optional)"
+msgstr "Alamat Email Anda (opsional)"
+
+#: viewer/index.php:612
+msgid "Type your Review here"
+msgstr "Ketik Ulasan Anda di sini"
+
+#: viewer/index.php:616
+msgid "Type the code above"
+msgstr "Ketik kode di atas"
+
+#: viewer/index.php:619
+msgid "Submit"
+msgstr "Kirim"
+
+#: viewer/index.php:622
+msgid "Thanks for your review!"
+msgstr "Terima kasih atas ulasan Anda!"
+
+#: viewer/index.php:625 backend/reviews.php:71 backend/users.php:126
+#: backend/edit_user.php:289 backend/edit_map.php:97 backend/markers.php:158
+msgid "Search"
+msgstr "Cari"
+
+#: viewer/index.php:720
+msgid "Are you sure you want to CANCEL the request to insert this marker?"
+msgstr "Anda yakin ingin MEMBATALKAN permintaan untuk menyisipkan penanda ini?"
+
+#: viewer/index.php:721
+msgid "Are you sure you want to SEND the request to insert this marker?"
+msgstr ""
+"Apakah Anda yakin ingin MENGIRIM permintaan untuk menyisipkan penanda ini?"
+
+#: viewer/index.php:722
+msgid ""
+"Thanks for inserting the marker! As soon as it is approved it will be "
+"visible on the map."
+msgstr ""
+"Terima kasih telah memasukkan penanda! Segera setelah disetujui, itu akan "
+"terlihat di peta."
+
+#: viewer/index.php:723
+msgid "An error has occurred, please try again later."
+msgstr "Terjadi kesalahan, coba lagi nanti."
+
+#: viewer/index.php:724
+msgid "reset"
+msgstr "set ulang"
+
+#: viewer/index.php:725
+msgid "Start, Scroll down"
+msgstr "Mulai, Gulir ke bawah"
+
+#: viewer/index.php:726
+msgid "End"
+msgstr "Selesai"
+
+#: viewer/index.php:727
+msgid "Searching"
+msgstr "Mencari"
+
+#: viewer/index.php:728 backend/add_marker.php:692 backend/edit_map.php:653
+#: backend/edit_category.php:192 backend/edit_marker.php:801
+msgid "No results found."
+msgstr "Tidak ada hasil yang ditemukan."
+
+#: viewer/index.php:729
+msgid "Add New Marker"
+msgstr "Tambahkan Penanda Baru"
+
+#: viewer/index.php:730
+msgid "Do you want to use my position to add the marker?"
+msgstr "Apakah Anda ingin menggunakan posisi saya untuk menambahkan penanda?"
+
+#: viewer/index.php:731 backend/publish.php:140
+msgid "No"
+msgstr "Tidak"
+
+#: viewer/index.php:732 backend/publish.php:140
+msgid "Yes"
+msgstr "Iya"
+
+#: viewer/index.php:735
+msgid "Are you sure you want to insert this marker?"
+msgstr "Yakin ingin menyisipkan penanda ini?"
+
+#: viewer/index.php:736
+msgid "Thanks for inserting the marker! Please reload the map to view it."
+msgstr ""
+"Terima kasih telah memasukkan penanda! Muat ulang peta untuk melihatnya."
+
+#: viewer/ajax/upload_new_marker_image.php:23
+msgid "Invalid image."
+msgstr "Gambar tidak valid."
+
+#: viewer/ajax/upload_new_marker_image.php:31
+#: backend/ajax/upload_marker_image.php:38
+#: backend/ajax/upload_b_logo_image.php:51
+#: backend/ajax/upload_b_background_image.php:43
+msgid "Only jpg,png files are supported."
+msgstr "Hanya file jpg, png yang didukung."
+
+#: viewer/ajax/upload_new_marker_image.php:35
+#: backend/ajax/upload_marker_image.php:42
+#: backend/ajax/upload_meta_image.php:69 backend/ajax/upload_file.php:32
+#: backend/ajax/upload_logo_image.php:41 backend/ajax/upload_icon_image.php:72
+#: backend/ajax/upload_b_logo_image.php:55
+#: backend/ajax/upload_b_background_image.php:47
+#: backend/ajax/upload_geojson.php:41
+msgid "File not provided."
+msgstr "Berkas tidak disediakan."
+
+#: backend/login.php:68 backend/topbar.php:124
+msgid "Arabic"
+msgstr "Arab"
+
+#: backend/login.php:69 backend/topbar.php:125
+msgid "Chinese Simplified"
+msgstr "Bahasa Tiongkok yang disederhanakan"
+
+#: backend/login.php:70 backend/topbar.php:126
+msgid "Chinese Traditional (Hong Kong)"
+msgstr "Tradisional Cina (Hong Kong)"
+
+#: backend/login.php:71 backend/topbar.php:127
+msgid "Chinese Traditional (Taiwan)"
+msgstr "Tradisional Cina (Taiwan)"
+
+#: backend/login.php:72 backend/topbar.php:128
+msgid "Czech"
+msgstr "Ceko"
+
+#: backend/login.php:73 backend/topbar.php:129
+msgid "Dutch"
+msgstr "Belanda"
+
+#: backend/login.php:74 backend/topbar.php:130
+msgid "English"
+msgstr "Inggris (English)"
+
+#: backend/login.php:75 backend/topbar.php:131
+msgid "Filipino"
+msgstr "Filipina"
+
+#: backend/login.php:76 backend/topbar.php:132
+msgid "French"
+msgstr "Perancis"
+
+#: backend/login.php:77 backend/topbar.php:133
+msgid "German"
+msgstr "Jerman"
+
+#: backend/login.php:78 backend/topbar.php:134
+msgid "Hindi"
+msgstr "Hindi"
+
+#: backend/login.php:79 backend/topbar.php:135
+msgid "Hungarian"
+msgstr "Hongaria"
+
+#: backend/login.php:80 backend/topbar.php:136
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda"
+
+#: backend/login.php:81 backend/topbar.php:137
+msgid "Korean"
+msgstr "Korea"
+
+#: backend/login.php:82 backend/topbar.php:138
+msgid "Indonesian"
+msgstr "Bahasa Indonesia"
+
+#: backend/login.php:83 backend/topbar.php:139
+msgid "Italian"
+msgstr "Italia"
+
+#: backend/login.php:84 backend/topbar.php:140
+msgid "Japanese"
+msgstr "Jepang (日本語)"
+
+#: backend/login.php:85 backend/topbar.php:141
+msgid "Persian"
+msgstr "Orang Persia"
+
+#: backend/login.php:86 backend/topbar.php:142
+msgid "Polish"
+msgstr "Poalndia"
+
+#: backend/login.php:87 backend/topbar.php:143
+msgid "Portuguese Brazilian"
+msgstr "Portugis Brasil"
+
+#: backend/login.php:88 backend/topbar.php:144
+msgid "Portuguese European"
+msgstr "Portugis Eropa"
+
+#: backend/login.php:89 backend/topbar.php:145
+msgid "Spanish"
+msgstr "Spanyol"
+
+#: backend/login.php:90 backend/topbar.php:146
+msgid "Romanian"
+msgstr "Rumania"
+
+#: backend/login.php:91 backend/topbar.php:147
+msgid "Russian"
+msgstr "Rusia (Pусский)"
+
+#: backend/login.php:92 backend/topbar.php:148
+msgid "Swedish"
+msgstr "Orang Swedia"
+
+#: backend/login.php:93 backend/topbar.php:149
+msgid "Tajik"
+msgstr "Tajiki"
+
+#: backend/login.php:94 backend/topbar.php:150
+msgid "Thai"
+msgstr "Thai"
+
+#: backend/login.php:95 backend/topbar.php:151
+msgid "Turkish"
+msgstr "Turki"
+
+#: backend/login.php:96 backend/topbar.php:152
+msgid "Vietnamese"
+msgstr "Vietnam"
+
+#: backend/login.php:100
+msgid "Welcome Back!"
+msgstr "Selamat Datang kembali!"
+
+#: backend/login.php:104 backend/users.php:44 backend/users.php:68
+#: backend/edit_profile.php:20 backend/edit_user.php:41
+msgid "Username"
+msgstr "Nama Pengguna"
+
+#: backend/login.php:107 backend/users.php:84 backend/edit_profile.php:63
+#: backend/edit_profile.php:83 backend/edit_user.php:187 backend/publish.php:40
+msgid "Password"
+msgstr "Password"
+
+#: backend/login.php:110
+msgid "Login"
+msgstr "Masuk"
+
+#: backend/reviews.php:16 backend/icons_library.php:16 backend/draw.php:18
+#: backend/add_marker.php:25 backend/edit_user.php:22
+#: backend/markers_connections.php:17 backend/categories.php:17
+#: backend/publish.php:24 backend/edit_map.php:26 backend/settings.php:15
+#: backend/story.php:17 backend/edit_category.php:16 backend/updater.php:42
+#: backend/import.php:40 backend/edit_marker.php:24
+msgid "Permission denied"
+msgstr "Izin ditolak"
+
+#: backend/reviews.php:17 backend/icons_library.php:17 backend/draw.php:19
+#: backend/add_marker.php:26 backend/edit_user.php:23
+#: backend/markers_connections.php:18 backend/categories.php:18
+#: backend/publish.php:25 backend/edit_map.php:27 backend/story.php:18
+#: backend/edit_category.php:17 backend/import.php:41
+#: backend/edit_marker.php:25
+msgid "It looks like you found a glitch in the matrix..."
+msgstr "Sepertinya Anda menemukan kesalahan dalam matriks..."
+
+#: backend/reviews.php:18 backend/icons_library.php:18 backend/draw.php:20
+#: backend/add_marker.php:27 backend/edit_user.php:24
+#: backend/markers_connections.php:19 backend/categories.php:19
+#: backend/publish.php:26 backend/edit_map.php:28 backend/settings.php:17
+#: backend/story.php:19 backend/edit_category.php:18 backend/updater.php:44
+#: backend/import.php:42 backend/edit_marker.php:26
+msgid "Back to Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: backend/reviews.php:29
+msgid "Date"
+msgstr "Tanggal"
+
+#: backend/reviews.php:30 backend/markers_connections.php:36
+#: backend/markers_connections.php:38 backend/markers_connections.php:60
+#: backend/markers_connections.php:68 backend/markers_connections.php:118
+#: backend/markers_connections.php:126 backend/story.php:36
+#: backend/story.php:60
+msgid "Marker"
+msgstr "Penanda"
+
+#: backend/reviews.php:33
+msgid "Rating"
+msgstr "Penilaian"
+
+#: backend/reviews.php:34
+msgid "Comment"
+msgstr "Komentar"
+
+#: backend/reviews.php:62 backend/users.php:117 backend/edit_user.php:280
+#: backend/markers.php:149
+msgid "No data available in table"
+msgstr "Tidak ada data di dalam tabel"
+
+#: backend/reviews.php:63 backend/users.php:118 backend/edit_user.php:281
+#: backend/markers.php:150
+#, php-format
+msgid "Showing %s to %s of %s entries"
+msgstr "Menampilkan %s hingga %s dari %s entri"
+
+#: backend/reviews.php:64 backend/users.php:119 backend/edit_user.php:282
+#: backend/markers.php:151
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Menampilkan 0 hingga 0 dari 0 entri"
+
+#: backend/reviews.php:65 backend/users.php:120 backend/edit_user.php:283
+#: backend/markers.php:152
+#, php-format
+msgid "(filtered from %s total entries)"
+msgstr "(difilter dari %s total entri)"
+
+#: backend/reviews.php:68 backend/users.php:123 backend/edit_user.php:286
+#: backend/markers.php:155
+#, php-format
+msgid "Show %s entries"
+msgstr "Tampilkan %s entri"
+
+#: backend/reviews.php:69 backend/index.php:148 backend/users.php:124
+#: backend/edit_user.php:287 backend/markers.php:156
+msgid "Loading"
+msgstr "Memuat"
+
+#: backend/reviews.php:70 backend/users.php:125 backend/edit_user.php:288
+#: backend/markers.php:157
+msgid "Processing"
+msgstr "Diproses"
+
+#: backend/reviews.php:72 backend/users.php:127 backend/edit_user.php:290
+#: backend/markers.php:159
+msgid "No matching records found"
+msgstr "Data tidak ditemukan"
+
+#: backend/reviews.php:74 backend/users.php:129 backend/edit_user.php:292
+#: backend/markers.php:161
+msgid "First"
+msgstr "Pertama"
+
+#: backend/reviews.php:75 backend/users.php:130 backend/edit_user.php:293
+#: backend/markers.php:162
+msgid "Last"
+msgstr "Terakhir"
+
+#: backend/reviews.php:76 backend/users.php:131 backend/edit_user.php:294
+#: backend/markers.php:163
+msgid "Next"
+msgstr "Berikutnya"
+
+#: backend/reviews.php:77 backend/users.php:132 backend/edit_user.php:295
+#: backend/markers.php:164
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: backend/reviews.php:80 backend/users.php:135 backend/edit_user.php:298
+#: backend/markers.php:167
+msgid "activate to sort column ascending"
+msgstr "aktifkan untuk mengurutkan kolom menaik"
+
+#: backend/reviews.php:81 backend/users.php:136 backend/edit_user.php:299
+#: backend/markers.php:168
+msgid "activate to sort column descending"
+msgstr "aktifkan untuk mengurutkan kolom secara turun"
+
+#: backend/icons_library.php:35
+msgid "Icons List"
+msgstr "Icons List"
+
+#: backend/icons_library.php:39
+msgid "Loading icons"
+msgstr "Memuat ikon"
+
+#: backend/index.php:146
+msgid "UPDATE IN PROGRESS"
+msgstr "PEMBARUAN DALAM PROGRES"
+
+#: backend/index.php:150
+msgid "Not close this window"
+msgstr "Jangan tutup jendela ini"
+
+#: backend/index.php:198
+msgid "EDIT"
+msgstr "EDIT"
+
+#: backend/index.php:199
+msgid "PUBLISH"
+msgstr "MENERBITKAN"
+
+#: backend/index.php:200
+msgid "PREVIEW"
+msgstr "Pratinjau"
+
+#: backend/index.php:201 backend/edit_map.php:551 backend/edit_category.php:136
+#: backend/import.php:47
+msgid "MARKERS"
+msgstr "PENANDA"
+
+#: backend/index.php:202 backend/add_marker.php:358 backend/edit_marker.php:424
+#: backend/topbar.php:46 backend/topbar.php:64 backend/topbar.php:97
+msgid "DELETE"
+msgstr "HAPUS"
+
+#: backend/index.php:203
+msgid "DUPLICATE"
+msgstr "DUPLIKAT"
+
+#: backend/index.php:204
+msgid "MAIN IMAGE"
+msgstr "GAMBAR UTAMA"
+
+#: backend/index.php:205 backend/add_marker.php:355 backend/edit_marker.php:421
+msgid "SET AS MAIN"
+msgstr "TETAPKAN SEBAGAI UTAMA"
+
+#: backend/index.php:206
+msgid "SEARCHING"
+msgstr "MENCARI"
+
+#: backend/index.php:207 backend/add_marker.php:288 backend/edit_marker.php:354
+msgid "GET GPS POSITION"
+msgstr "DAPATKAN POSISI GPS"
+
+#: backend/index.php:208
+msgid "No icon images in this library!"
+msgstr "Tidak ada gambar ikon di perpustakaan ini!"
+
+#: backend/index.php:209
+msgid "Are you sure you want to delete?"
+msgstr "Yakin ingin menghapus?"
+
+#: backend/index.php:210
+msgid "Are you sure you want to assign this icon to all the markers?"
+msgstr "Yakin ingin menetapkan ikon ini ke semua penanda?"
+
+#: backend/index.php:211
+msgid "copied"
+msgstr "disalin"
+
+#: backend/add_marker.php:32 backend/markers.php:24
+msgid "ADD MARKER"
+msgstr "TAMBAHKAN PENANDA"
+
+#: backend/add_marker.php:45 backend/add_category.php:20
+#: backend/edit_category.php:48 backend/edit_marker.php:95
+msgid "Details"
+msgstr "Detail"
+
+#: backend/add_marker.php:57 backend/users.php:46 backend/edit_user.php:100
+#: backend/markers.php:58 backend/edit_marker.php:107
+msgid "Active"
+msgstr "Aktif"
+
+#: backend/add_marker.php:63 backend/markers.php:61 backend/edit_marker.php:125
+msgid "Featured"
+msgstr "Unggulan"
+
+#: backend/add_marker.php:63 backend/edit_marker.php:125
+msgid "show this marker on featured list"
+msgstr "tunjukkan penanda ini di daftar unggulan"
+
+#: backend/add_marker.php:69 backend/edit_map.php:157
+#: backend/edit_marker.php:131
+msgid "Directions"
+msgstr "Petunjuk Arah"
+
+#: backend/add_marker.php:69 backend/edit_marker.php:131
+msgid "enable the button 'directions' for this marker"
+msgstr "aktifkan tombol 'petunjuk' untuk penanda ini"
+
+#: backend/add_marker.php:75 backend/edit_map.php:163
+#: backend/edit_marker.php:137
+msgid "Street View"
+msgstr "Street View"
+
+#: backend/add_marker.php:75 backend/edit_marker.php:137
+msgid "enable the button 'street view' for this marker"
+msgstr "aktifkan tombol 'street view' untuk penanda ini"
+
+#: backend/add_marker.php:81 backend/edit_marker.php:143
+msgid "Review"
+msgstr "Ulasan"
+
+#: backend/add_marker.php:81 backend/edit_marker.php:143
+msgid "enable the reviews for this marker"
+msgstr "aktifkan ulasan untuk penanda ini"
+
+#: backend/add_marker.php:87 backend/edit_map.php:175
+#: backend/edit_marker.php:149
+msgid "Share"
+msgstr "Bagikan"
+
+#: backend/add_marker.php:87 backend/edit_marker.php:149
+msgid "enable share buttons for this marker"
+msgstr "aktifkan tombol bagikan untuk penanda ini"
+
+#: backend/add_marker.php:93 backend/markers.php:56 backend/edit_marker.php:155
+msgid "Category"
+msgstr "Kategori"
+
+#: backend/add_marker.php:125 backend/edit_marker.php:187
+msgid "Website Link"
+msgstr "Tautan Situs Web"
+
+#: backend/add_marker.php:131 backend/edit_marker.php:193
+msgid "Website Name"
+msgstr "Nama Website"
+
+#: backend/add_marker.php:175 backend/edit_map.php:440
+#: backend/edit_marker.php:237
+msgid "Style"
+msgstr "Style"
+
+#: backend/add_marker.php:181 backend/edit_category.php:89
+#: backend/edit_marker.php:243
+msgid "Icon Type"
+msgstr "Icon Type"
+
+#: backend/add_marker.php:183 backend/edit_map.php:309 backend/edit_map.php:507
+#: backend/edit_category.php:91 backend/edit_marker.php:245
+msgid "None"
+msgstr "Nihil"
+
+#: backend/add_marker.php:184 backend/edit_map.php:508
+#: backend/edit_category.php:92 backend/edit_marker.php:246
+msgid "Default"
+msgstr "Default"
+
+#: backend/add_marker.php:185 backend/edit_map.php:509
+#: backend/edit_category.php:93 backend/edit_marker.php:247
+msgid "Custom Icon Library"
+msgstr "Perpustakaan Ikon Kustom"
+
+#: backend/add_marker.php:191 backend/add_marker.php:201
+#: backend/edit_category.php:99 backend/edit_category.php:109
+#: backend/edit_marker.php:253 backend/edit_marker.php:263
+msgid "Icon"
+msgstr "Ikon"
+
+#: backend/add_marker.php:192 backend/add_marker.php:379
+#: backend/add_marker.php:419 backend/edit_map.php:516
+#: backend/edit_category.php:100 backend/edit_marker.php:254
+#: backend/edit_marker.php:445 backend/edit_marker.php:485
+msgid "Select Icon"
+msgstr "Pilih Ikon"
+
+#: backend/add_marker.php:202 backend/edit_map.php:526
+#: backend/edit_category.php:110 backend/edit_marker.php:264
+msgid "Select Library Icon"
+msgstr "Pilih Ikon Perpustakaan"
+
+#: backend/add_marker.php:211 backend/edit_category.php:117
+#: backend/edit_marker.php:273
+msgid "Icon Background"
+msgstr "Latar Belakang Ikon"
+
+#: backend/add_marker.php:217 backend/edit_category.php:123
+#: backend/edit_marker.php:279
+msgid "Icon Color"
+msgstr "Warna Icon"
+
+#: backend/add_marker.php:223 backend/edit_marker.php:285
+msgid "Icon Size"
+msgstr "Ukuran Ikon"
+
+#: backend/add_marker.php:237 backend/edit_marker.php:299
+msgid "Position"
+msgstr "Posisi"
+
+#: backend/add_marker.php:255 backend/edit_marker.php:317
+msgid "Visible from Zoom Level"
+msgstr "Terlihat dari Tingkat Zoom"
+
+#: backend/add_marker.php:269 backend/edit_marker.php:335
+msgid "Geofence Radius"
+msgstr "Jari-jari Geofence"
+
+#: backend/add_marker.php:275 backend/edit_marker.php:341
+msgid "Geofence Color"
+msgstr "Warna Geofence"
+
+#: backend/add_marker.php:282 backend/edit_marker.php:348
+msgid "ADDRESS"
+msgstr "ALAMAT"
+
+#: backend/add_marker.php:282 backend/edit_marker.php:348
+msgid "POSITION"
+msgstr "POSISI"
+
+#: backend/add_marker.php:285 backend/edit_marker.php:351
+msgid "SET POSITION"
+msgstr "SET POSISI"
+
+#: backend/add_marker.php:295 backend/edit_marker.php:361
+msgid "Zoom Level"
+msgstr "Tingkat Zoom"
+
+#: backend/add_marker.php:296 backend/edit_marker.php:362
+msgid "click/drag on map to change marker's position"
+msgstr "klik/seret pada peta untuk mengubah posisi penanda"
+
+#: backend/add_marker.php:307 backend/edit_marker.php:373
+msgid "Images"
+msgstr "Gambar"
+
+#: backend/add_marker.php:321 backend/publish.php:81
+#: backend/edit_marker.php:387
+msgid "Upload Image"
+msgstr "Unggah Gambar"
+
+#: backend/add_marker.php:347 backend/edit_marker.php:413
+msgid "Image Action"
+msgstr "Tindakan Gambar"
+
+#: backend/add_marker.php:352 backend/edit_marker.php:418
+msgid "Select image first!"
+msgstr "Pilih gambar terlebih dahulu!"
+
+#: backend/add_marker.php:370 backend/edit_marker.php:436
+msgid "Extra Button"
+msgstr "Tombol Ekstra"
+
+#: backend/add_marker.php:378 backend/edit_marker.php:444
+msgid "Button Icon"
+msgstr "Button Icon"
+
+#: backend/add_marker.php:388 backend/edit_marker.php:454
+msgid "Button Title"
+msgstr "Judul Tombol"
+
+#: backend/add_marker.php:396 backend/edit_marker.php:462
+msgid "Custom Content"
+msgstr "Konten kustom"
+
+#: backend/add_marker.php:396 backend/add_marker.php:428
+#: backend/edit_map.php:369 backend/edit_marker.php:462
+#: backend/edit_marker.php:494
+msgid "link"
+msgstr "link"
+
+#: backend/add_marker.php:396 backend/edit_marker.php:462
+msgid "embed link"
+msgstr "menyematkan tautan"
+
+#: backend/add_marker.php:396 backend/add_marker.php:428
+#: backend/edit_marker.php:462 backend/edit_marker.php:494
+msgid "text"
+msgstr "teks"
+
+#: backend/add_marker.php:410 backend/edit_marker.php:476
+msgid "Extra Fields"
+msgstr "Field tambahan"
+
+#: backend/add_marker.php:418 backend/edit_marker.php:484
+msgid "Field Icon"
+msgstr "Ikon Lapangan"
+
+#: backend/add_marker.php:428 backend/edit_marker.php:494
+msgid "Field Value"
+msgstr "Nilai Kolom"
+
+#: backend/add_marker.php:428 backend/edit_marker.php:494
+msgid "download"
+msgstr "Unduhan"
+
+#: backend/add_marker.php:443 backend/edit_map.php:602
+#: backend/edit_category.php:149 backend/edit_marker.php:509
+msgid "Library Icons"
+msgstr "Ikon Perpustakaan"
+
+#: backend/add_marker.php:449 backend/add_marker.php:476
+#: backend/add_marker.php:497 backend/add_marker.php:518
+#: backend/add_marker.php:539 backend/add_marker.php:595 backend/users.php:98
+#: backend/edit_profile.php:97 backend/edit_user.php:201
+#: backend/edit_user.php:219 backend/markers_connections.php:102
+#: backend/markers_connections.php:161 backend/publish.php:234
+#: backend/maps.php:64 backend/maps.php:81 backend/maps.php:98
+#: backend/edit_map.php:608 backend/story.php:101 backend/story.php:153
+#: backend/markers.php:92 backend/markers.php:109 backend/edit_category.php:155
+#: backend/edit_category.php:172 backend/edit_marker.php:515
+#: backend/edit_marker.php:542 backend/edit_marker.php:563
+#: backend/edit_marker.php:584 backend/edit_marker.php:605
+#: backend/edit_marker.php:661 backend/edit_marker.php:678
+msgid "Close"
+msgstr "Tutup"
+
+#: backend/add_marker.php:462 backend/add_marker.php:552
+#: backend/edit_marker.php:528 backend/edit_marker.php:618
+msgid "Link Text"
+msgstr "Tautkan Teks"
+
+#: backend/add_marker.php:468 backend/add_marker.php:489
+#: backend/add_marker.php:510 backend/add_marker.php:587
+#: backend/edit_marker.php:534 backend/edit_marker.php:555
+#: backend/edit_marker.php:576 backend/edit_marker.php:653
+msgid "URL"
+msgstr "URL"
+
+#: backend/add_marker.php:475 backend/add_marker.php:496
+#: backend/add_marker.php:517 backend/add_marker.php:538
+#: backend/add_marker.php:594 backend/edit_marker.php:541
+#: backend/edit_marker.php:562 backend/edit_marker.php:583
+#: backend/edit_marker.php:604 backend/edit_marker.php:660
+msgid "Insert"
+msgstr "Sisipkan"
+
+#: backend/add_marker.php:531 backend/edit_marker.php:597
+msgid "Text"
+msgstr "Teks"
+
+#: backend/add_marker.php:558 backend/edit_marker.php:624
+msgid "File"
+msgstr "Berkas"
+
+#: backend/add_marker.php:568 backend/edit_marker.php:634
+msgid "Upload File"
+msgstr "Unggah File"
+
+#: backend/add_marker.php:689 backend/edit_map.php:650
+#: backend/edit_category.php:189 backend/edit_marker.php:798
+msgid "Search Icon"
+msgstr "Ikon Cari"
+
+#: backend/add_marker.php:690 backend/edit_map.php:651
+#: backend/edit_category.php:190 backend/edit_marker.php:799
+msgid "Show All"
+msgstr "Tampilkan Semua"
+
+#: backend/add_marker.php:691 backend/edit_map.php:652 backend/settings.php:488
+#: backend/edit_category.php:191 backend/edit_marker.php:800
+#: backend/topbar.php:187
+msgid "Cancel"
+msgstr "Batal"
+
+#: backend/ajax/duplicate_marker.php:44 backend/ajax/duplicate_map.php:35
+msgid "duplicated"
+msgstr "Duplikasi"
+
+#: backend/ajax/upload_meta_image.php:57
+msgid "Retry."
+msgstr "Mencoba kembali."
+
+#: backend/ajax/upload_meta_image.php:65
+msgid "Only jpg,png,webp files are supported."
+msgstr "Hanya file jpg, png, webp yang didukung."
+
+#: backend/ajax/upload_logo_image.php:37
+msgid "Only png files are supported."
+msgstr "Hanya file png yang didukung."
+
+#: backend/ajax/save_profile.php:28
+msgid "Username already registered!"
+msgstr "Nama pengguna sudah terdaftar!"
+
+#: backend/ajax/save_profile.php:57 backend/ajax/save_profile.php:60
+msgid "Error"
+msgstr "Kesalahan"
+
+#: backend/ajax/upload_geojson.php:37
+msgid "Only json, geojson files are supported."
+msgstr "Hanya file json, geojson yang didukung."
+
+#: backend/users.php:20
+msgid "User's Role Permissions"
+msgstr "Izin Peran Pengguna"
+
+#: backend/users.php:23
+msgid "ADMINISTRATOR"
+msgstr "ADMINISTRATOR"
+
+#: backend/users.php:23
+msgid "manage users | manage maps of all users"
+msgstr "kelola pengguna | kelola peta semua pengguna"
+
+#: backend/users.php:24
+msgid "EDITOR"
+msgstr "EDITOR"
+
+#: backend/users.php:24
+msgid "they only manage the maps that are associated with them"
+msgstr "mereka hanya mengelola peta yang terkait dengan mereka"
+
+#: backend/users.php:25
+msgid "CUSTOMER"
+msgstr "PELANGGAN"
+
+#: backend/users.php:25
+msgid "they only manage their own maps"
+msgstr "mereka hanya mengelola peta mereka sendiri"
+
+#: backend/users.php:33
+msgid "ADD USER"
+msgstr "TAMBAHKAN PENGGUNA"
+
+#: backend/users.php:45 backend/users.php:74 backend/edit_user.php:84
+msgid "Role"
+msgstr "Peran"
+
+#: backend/users.php:62
+msgid "New User"
+msgstr "Pengguna baru"
+
+#: backend/users.php:76 backend/edit_user.php:86
+msgid "Customer"
+msgstr "Pelanggan"
+
+#: backend/users.php:77 backend/edit_user.php:87
+msgid "Administrator"
+msgstr "Administrator"
+
+#: backend/users.php:78 backend/edit_user.php:88
+msgid "Editor"
+msgstr "Penyunting"
+
+#: backend/users.php:90 backend/edit_profile.php:89
+msgid "Repeat Password"
+msgstr "Ulangi Password"
+
+#: backend/users.php:97 backend/maps.php:63
+msgid "Create"
+msgstr "Buat"
+
+#: backend/edit_profile.php:14 backend/edit_user.php:35
+msgid "Account"
+msgstr "Akun"
+
+#: backend/edit_profile.php:26 backend/edit_user.php:47 backend/edit_map.php:60
+msgid "Language"
+msgstr "Bahasa"
+
+#: backend/edit_profile.php:28 backend/edit_user.php:49 backend/edit_map.php:62
+#: backend/settings.php:195
+msgid "Default Language"
+msgstr "Bahasa Bawaan"
+
+#: backend/edit_profile.php:64
+msgid "CHANGE"
+msgstr "Ganti"
+
+#: backend/edit_profile.php:77 backend/edit_user.php:181
+msgid "Change Password"
+msgstr "Ubah Password"
+
+#: backend/edit_profile.php:96 backend/edit_user.php:200
+msgid "Change"
+msgstr "Ubah"
+
+#: backend/edit_user.php:95
+msgid "CHANGE PASSWORD"
+msgstr "GANTI KATA SANDI"
+
+#: backend/edit_user.php:116 backend/dashboard.php:35 backend/dashboard.php:68
+#: backend/sidebar.php:120 backend/topbar.php:18
+msgid "Maps"
+msgstr "Peta"
+
+#: backend/edit_user.php:131 backend/dashboard.php:50 backend/sidebar.php:125
+#: backend/topbar.php:26
+msgid "Markers"
+msgstr "penanda"
+
+#: backend/edit_user.php:147
+msgid "Assigned Maps"
+msgstr "Peta yang Ditugaskan"
+
+#: backend/edit_user.php:153
+msgid "Assign"
+msgstr "Tentukan"
+
+#: backend/edit_user.php:154 backend/edit_map.php:328
+msgid "Map"
+msgstr "Peta"
+
+#: backend/edit_user.php:155 backend/topbar.php:22
+msgid "Edit Map"
+msgstr "Edit Peta"
+
+#: backend/edit_user.php:156
+msgid "Create Markers"
+msgstr "Buat Penanda"
+
+#: backend/edit_user.php:157
+msgid "Edit Markers"
+msgstr "Edit Penanda"
+
+#: backend/edit_user.php:158
+msgid "Delete Markers"
+msgstr "Hapus Penanda"
+
+#: backend/edit_user.php:159 backend/sidebar.php:130 backend/topbar.php:52
+msgid "Connections"
+msgstr "Koneksi"
+
+#: backend/edit_user.php:160 backend/sidebar.php:135 backend/topbar.php:109
+msgid "Geometries"
+msgstr "Geometri"
+
+#: backend/edit_user.php:161 backend/sidebar.php:140 backend/edit_map.php:151
+#: backend/topbar.php:56
+msgid "Story"
+msgstr "Cerita"
+
+#: backend/edit_user.php:162 backend/sidebar.php:146 backend/edit_map.php:115
+#: backend/topbar.php:60
+msgid "Categories"
+msgstr "Kategori"
+
+#: backend/edit_user.php:163 backend/sidebar.php:151 backend/topbar.php:69
+msgid "Icons Library"
+msgstr "Perpustakaan Ikon"
+
+#: backend/edit_user.php:164 backend/sidebar.php:156 backend/edit_map.php:169
+#: backend/topbar.php:73
+msgid "Reviews"
+msgstr "Ulasan"
+
+#: backend/edit_user.php:165 backend/sidebar.php:167 backend/topbar.php:81
+msgid "Publish"
+msgstr "Publikasikan"
+
+#: backend/edit_user.php:193
+msgid "Repeat password"
+msgstr "Ulangi kata sandi"
+
+#: backend/edit_user.php:211
+msgid "Delete User"
+msgstr "Hapus pengguna"
+
+#: backend/edit_user.php:214
+msgid "Are you sure you want to delete the user?"
+msgstr "Apakah Anda yakin ingin menghapus pengguna?"
+
+#: backend/edit_user.php:215
+msgid "Attention: all the maps of that user will be deleted!"
+msgstr "Perhatian: semua peta pengguna itu akan dihapus!"
+
+#: backend/edit_user.php:218 backend/maps.php:80 backend/markers.php:91
+#: backend/edit_category.php:171
+msgid "Yes, Delete"
+msgstr "Ya, Hapus"
+
+#: backend/markers_connections.php:25
+msgid "ADD CONNECTION"
+msgstr "TAMBAHKAN KONEKSI"
+
+#: backend/markers_connections.php:37
+msgid "Line"
+msgstr "Baris"
+
+#: backend/markers_connections.php:54
+msgid "Add Connection"
+msgstr "Tambahkan Koneksi"
+
+#: backend/markers_connections.php:76 backend/markers_connections.php:134
+msgid "Line Color"
+msgstr "Warna garis"
+
+#: backend/markers_connections.php:82 backend/markers_connections.php:140
+msgid "Line Width"
+msgstr "Line Width"
+
+#: backend/markers_connections.php:88 backend/markers_connections.php:146
+msgid "Popup Title"
+msgstr "Judul Popup"
+
+#: backend/markers_connections.php:94 backend/markers_connections.php:152
+msgid "Popup Description"
+msgstr "Deskripsi Munculan"
+
+#: backend/markers_connections.php:101 backend/story.php:100
+msgid "Yes, Add"
+msgstr "Ya, Tambahkan"
+
+#: backend/markers_connections.php:112
+msgid "Edit Connection"
+msgstr "Edit Koneksi"
+
+#: backend/markers_connections.php:159 backend/story.php:151
+msgid "Yes, Save"
+msgstr "Ya, Simpan"
+
+#: backend/markers_connections.php:160 backend/story.php:152
+msgid "Delete"
+msgstr "Hapus"
+
+#: backend/categories.php:25
+msgid "ADD CATEGORY"
+msgstr "TAMBAHKAN KATEGORI"
+
+#: backend/categories.php:37 backend/add_category.php:41
+#: backend/edit_category.php:69
+msgid "Default selected"
+msgstr "Default dipilih"
+
+#: backend/dashboard.php:12
+#, php-format
+msgid ""
+"Welcome to %s configuration panel, where you can create your virtual tours "
+"in a few simple steps."
+msgstr ""
+"Selamat datang di %s panel konfigurasi, tempat Anda dapat membuat tur "
+"virtual dalam beberapa langkah sederhana."
+
+#: backend/dashboard.php:20
+msgid "Welcome"
+msgstr "Selamat Datang"
+
+#: backend/dashboard.php:65
+msgid "Visitors N."
+msgstr "Pengunjung N"
+
+#: backend/dashboard.php:68
+#, php-format
+msgid "No maps created yet. Go to %s and create a new one!"
+msgstr "Belum ada peta yang dibuat. Buka %s dan buat yang baru!"
+
+#: backend/dashboard.php:77
+msgid "Markers Count"
+msgstr "Jumlah penanda"
+
+#: backend/publish.php:34
+msgid "Protection"
+msgstr "Perlindungan"
+
+#: backend/publish.php:45 backend/topbar.php:21 backend/topbar.php:46
+#: backend/topbar.php:64 backend/topbar.php:84 backend/topbar.php:99
+#: backend/topbar.php:104
+msgid "SAVE"
+msgstr "SIMPAN"
+
+#: backend/publish.php:56
+msgid "Meta Tag"
+msgstr "Tag Meta"
+
+#: backend/publish.php:63
+msgid "Title"
+msgstr "Judul"
+
+#: backend/publish.php:71
+msgid "Image"
+msgstr "Gambar"
+
+#: backend/publish.php:73 backend/settings.php:109 backend/settings.php:147
+msgid "DELETE IMAGE"
+msgstr "HAPUS GAMBAR"
+
+#: backend/publish.php:96 backend/sidebar.php:162 backend/topbar.php:77
+msgid "Preview"
+msgstr "Pratinjau"
+
+#: backend/publish.php:129
+msgid "Share & Embed"
+msgstr "Bagikan & Sematkan"
+
+#: backend/publish.php:135 backend/settings.php:50
+msgid "Status"
+msgstr "Status"
+
+#: backend/publish.php:136
+msgid "Activated"
+msgstr "Diaktifkan"
+
+#: backend/publish.php:136
+msgid "Deactivated"
+msgstr "Dinonaktifkan"
+
+#: backend/publish.php:139
+msgid "Show as first page"
+msgstr "Tampilkan sebagai halaman pertama"
+
+#: backend/publish.php:139
+msgid "only visible to administrators"
+msgstr "hanya dapat dilihat oleh administrator"
+
+#: backend/publish.php:145
+msgid "Link"
+msgstr "Tautan"
+
+#: backend/publish.php:146
+msgid "Url variables"
+msgstr "Variabel url"
+
+#: backend/publish.php:150 backend/publish.php:191 backend/edit_marker.php:54
+msgid "OPEN LINK"
+msgstr "BUKA TAUTAN"
+
+#: backend/publish.php:153 backend/publish.php:194 backend/publish.php:210
+#: backend/edit_marker.php:57
+msgid "COPY TO CLIPBOARD"
+msgstr "MENYALIN KE CLIPBOARD"
+
+#: backend/publish.php:156 backend/publish.php:197 backend/edit_marker.php:60
+msgid "QR CODE"
+msgstr "KODE QR"
+
+#: backend/publish.php:184
+msgid "Friendly Link"
+msgstr "Tautan Persahabatan"
+
+#: backend/publish.php:206
+msgid "Embed Code"
+msgstr "Kode Embed"
+
+#: backend/publish.php:227 backend/edit_marker.php:671
+msgid "QR Code"
+msgstr "Kode QR"
+
+#: backend/maps.php:16
+msgid "CREATE NEW MAP"
+msgstr "BUAT PETA BARU"
+
+#: backend/maps.php:32
+msgid "LOADING MAPS"
+msgstr "MEMuat PETA"
+
+#: backend/maps.php:50
+msgid "New Map"
+msgstr "Peta Baru"
+
+#: backend/maps.php:74
+msgid "Delete Map"
+msgstr "Hapus Peta"
+
+#: backend/maps.php:77
+msgid ""
+"Are you sure you want to delete the entire map, included all the markers?"
+msgstr ""
+"Apakah Anda yakin ingin menghapus seluruh peta, termasuk semua penanda?"
+
+#: backend/maps.php:91
+msgid "Duplicate Map"
+msgstr "Duplikat Peta"
+
+#: backend/maps.php:94
+msgid ""
+"Are you sure you want to duplicate the entire map, included all the markers?"
+msgstr ""
+"Apakah Anda yakin ingin menduplikasi seluruh peta, termasuk semua penanda?"
+
+#: backend/maps.php:97 backend/markers.php:108
+msgid "Yes, Duplicate"
+msgstr "Ya, Duplikat"
+
+#: backend/sidebar.php:96
+msgid "DEMO MODE"
+msgstr "MODE DEMO"
+
+#: backend/sidebar.php:96
+msgid "ADD / SAVE features are disabled."
+msgstr "Fitur TAMBAH / SIMPAN dinonaktifkan."
+
+#: backend/sidebar.php:109 backend/topbar.php:11
+msgid "Dashboard"
+msgstr "Dasbor"
+
+#: backend/sidebar.php:114 backend/topbar.php:15
+msgid "Statistics"
+msgstr "Statistik"
+
+#: backend/sidebar.php:174 backend/edit_map.php:40 backend/topbar.php:85
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: backend/sidebar.php:179 backend/topbar.php:88
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: backend/sidebar.php:184 backend/topbar.php:91
+msgid "Users"
+msgstr "Pengguna"
+
+#: backend/statistics.php:17
+msgid "Map Accesses"
+msgstr "Akses Peta"
+
+#: backend/statistics.php:27
+msgid "Marker views"
+msgstr "Tampilan penanda"
+
+#: backend/statistics.php:48
+msgid "Loading..."
+msgstr "Memuat..."
+
+#: backend/statistics.php:49
+msgid "January"
+msgstr "Januari"
+
+#: backend/statistics.php:49
+msgid "February"
+msgstr "Februari"
+
+#: backend/statistics.php:49
+msgid "March"
+msgstr "Berbaris"
+
+#: backend/statistics.php:49
+msgid "April"
+msgstr "April"
+
+#: backend/statistics.php:49
+msgid "May"
+msgstr "Mei"
+
+#: backend/statistics.php:49
+msgid "June"
+msgstr "Juni"
+
+#: backend/statistics.php:49
+msgid "July"
+msgstr "Juli"
+
+#: backend/statistics.php:49
+msgid "August"
+msgstr "Agustus"
+
+#: backend/statistics.php:49
+msgid "September"
+msgstr "September"
+
+#: backend/statistics.php:49
+msgid "October"
+msgstr "Oktober"
+
+#: backend/statistics.php:49
+msgid "November"
+msgstr "November"
+
+#: backend/statistics.php:49
+msgid "December"
+msgstr "Desember"
+
+#: backend/statistics.php:50
+msgid "Sunday"
+msgstr "Minggu"
+
+#: backend/statistics.php:50
+msgid "Monday"
+msgstr "Senin"
+
+#: backend/statistics.php:50
+msgid "Tuesday"
+msgstr "Selasa"
+
+#: backend/statistics.php:50
+msgid "Wednesday"
+msgstr "Rabu"
+
+#: backend/statistics.php:50
+msgid "Thursday"
+msgstr "Kamis"
+
+#: backend/statistics.php:50
+msgid "Friday"
+msgstr "Jumat"
+
+#: backend/statistics.php:50
+msgid "Saturday"
+msgstr "Sabtu"
+
+#: backend/statistics.php:52
+msgid "Export"
+msgstr "Ekspor"
+
+#: backend/statistics.php:53
+msgid "Import"
+msgstr "Impor"
+
+#: backend/statistics.php:54
+msgid "From"
+msgstr "Dari"
+
+#: backend/statistics.php:55
+msgid "To"
+msgstr "Kepada"
+
+#: backend/statistics.php:56
+msgid "Period"
+msgstr "Periode"
+
+#: backend/statistics.php:57
+msgid "Download image PNG"
+msgstr "Unduh gambar PNG"
+
+#: backend/statistics.php:58
+msgid "Download image JPEG"
+msgstr "Unduh gambar JPEG"
+
+#: backend/statistics.php:59
+msgid "Download document PDF"
+msgstr "Unduh dokumen PDF"
+
+#: backend/statistics.php:60
+msgid "Download image SVG"
+msgstr "Unduh gambar SVG"
+
+#: backend/statistics.php:61
+msgid "Print"
+msgstr "Cetak"
+
+#: backend/edit_map.php:52
+msgid "User"
+msgstr "Pengguna"
+
+#: backend/edit_map.php:52
+msgid "owner of the map"
+msgstr "pemilik peta"
+
+#: backend/edit_map.php:97
+msgid "enable the search box in the map"
+msgstr "aktifkan kotak pencarian di peta"
+
+#: backend/edit_map.php:103
+msgid "Search Locations"
+msgstr "Cari Lokasi"
+
+#: backend/edit_map.php:103
+msgid "enables the search for a location / city"
+msgstr "memungkinkan pencarian lokasi / kota"
+
+#: backend/edit_map.php:109
+msgid "List"
+msgstr "Daftar"
+
+#: backend/edit_map.php:109
+msgid "enables the list of markers in the map"
+msgstr "mengaktifkan daftar penanda di peta"
+
+#: backend/edit_map.php:115
+msgid "enable the category filter in the map"
+msgstr "aktifkan filter kategori di peta"
+
+#: backend/edit_map.php:121
+msgid "Auto show List"
+msgstr "Daftar pertunjukan otomatis"
+
+#: backend/edit_map.php:121
+msgid "automatically open the marker's list at first map loading"
+msgstr "secara otomatis membuka daftar penanda pada pemuatan peta pertama"
+
+#: backend/edit_map.php:127
+msgid "Auto show Categories"
+msgstr "Kategori pameran otomatis"
+
+#: backend/edit_map.php:127
+msgid "automatically open the categories filter"
+msgstr "secara otomatis membuka filter kategori"
+
+#: backend/edit_map.php:133
+msgid "Auto show My Location"
+msgstr "Tampilkan otomatis Lokasiku"
+
+#: backend/edit_map.php:133
+msgid "automatically geolocate and show the location"
+msgstr "secara otomatis melakukan geolokasi dan menunjukkan lokasi"
+
+#: backend/edit_map.php:139
+msgid "Sheet Details"
+msgstr "Detail Lembar"
+
+#: backend/edit_map.php:139
+msgid "enable sheet detail when click on markers"
+msgstr "aktifkan detail lembar saat mengklik penanda"
+
+#: backend/edit_map.php:145
+msgid "Control Arrows Markers"
+msgstr "Kontrol Penanda Panah"
+
+#: backend/edit_map.php:145
+msgid "show controls arrows to loop through the markers"
+msgstr "tampilkan panah kontrol untuk melewati penanda"
+
+#: backend/edit_map.php:151
+msgid "enables the story feature in the map"
+msgstr "mengaktifkan fitur cerita di peta"
+
+#: backend/edit_map.php:157
+msgid "enable the button 'directions' for markers"
+msgstr "aktifkan tombol 'petunjuk' untuk penanda"
+
+#: backend/edit_map.php:163
+msgid "enable the button 'street view' for markers"
+msgstr "aktifkan tombol 'street view' untuk penanda"
+
+#: backend/edit_map.php:169
+msgid "enable the reviews for markers"
+msgstr "aktifkan ulasan untuk penanda"
+
+#: backend/edit_map.php:175
+msgid "enable share buttons for markers"
+msgstr "aktifkan tombol bagikan untuk penanda"
+
+#: backend/edit_map.php:181
+msgid "Add Markers from Map"
+msgstr "Tambahkan Penanda dari Peta"
+
+#: backend/edit_map.php:181
+msgid "enables adding markers directly from the map"
+msgstr "memungkinkan menambahkan penanda langsung dari peta"
+
+#: backend/edit_map.php:183 backend/edit_map.php:262 backend/edit_map.php:426
+msgid "Disabled"
+msgstr "Dinonaktifkan"
+
+#: backend/edit_map.php:184 backend/edit_map.php:427
+msgid "Enabled"
+msgstr "Diaktifkan"
+
+#: backend/edit_map.php:185
+msgid "Enabled (Automatic Approval)"
+msgstr "Diaktifkan (Persetujuan Otomatis)"
+
+#: backend/edit_map.php:191
+msgid "Density color"
+msgstr "Warna kepadatan"
+
+#: backend/edit_map.php:191
+msgid "displays different colors based on the density of marker grouping"
+msgstr ""
+"menampilkan warna yang berbeda berdasarkan kepadatan pengelompokan penanda"
+
+#: backend/edit_map.php:197
+msgid "Density Color Tolerance"
+msgstr "Toleransi Warna Kepadatan"
+
+#: backend/edit_map.php:197
+msgid "tolerance to color the grouped markers"
+msgstr "toleransi untuk mewarnai spidol yang dikelompokkan"
+
+#: backend/edit_map.php:203
+msgid "Density Distance"
+msgstr "Jarak Kepadatan"
+
+#: backend/edit_map.php:203
+msgid ""
+"distance in pixels within which features will be clustered together. 0 to "
+"disable clustering"
+msgstr ""
+"jarak dalam piksel di mana fitur akan dikelompokkan bersama. 0 untuk "
+"menonaktifkan pengelompokan"
+
+#: backend/edit_map.php:209
+msgid "Initial Zoom"
+msgstr "Zoom Awal"
+
+#: backend/edit_map.php:209
+msgid "initial zoom when the map is loaded (1 far - 20 near)"
+msgstr "zoom awal saat peta dimuat (1 jauh - 20 dekat)"
+
+#: backend/edit_map.php:211
+msgid "Fit Markers"
+msgstr "Penanda Fit"
+
+#: backend/edit_map.php:226
+msgid "Marker Zoom"
+msgstr "Zoom penanda"
+
+#: backend/edit_map.php:226
+msgid "zoom level when the marker is clicked (1 far - 20 near)"
+msgstr "tingkat zoom saat penanda diklik (1 jauh - 20 dekat)"
+
+#: backend/edit_map.php:228 backend/edit_map.php:245
+msgid "No change"
+msgstr "Tidak ada perubahan"
+
+#: backend/edit_map.php:243
+msgid "My Location Zoom"
+msgstr "Zoom Lokasiku"
+
+#: backend/edit_map.php:243
+msgid "zoom level when enabling geolocation (1 far - 20 near)"
+msgstr "tingkat zoom saat mengaktifkan geolokasi (1 jauh - 20 dekat)"
+
+#: backend/edit_map.php:260
+msgid "Highlight Markers (Search)"
+msgstr "Penanda Sorotan (Penelusuran)"
+
+#: backend/edit_map.php:260
+msgid ""
+"highlights the position of the marker when you hover over the search results "
+"(1 far - 20 near)"
+msgstr ""
+"menyoroti posisi penanda saat Anda mengarahkan kursor ke hasil pencarian (1 "
+"jauh - 20 dekat)"
+
+#: backend/edit_map.php:263
+msgid "Keep Zoom Level"
+msgstr "Pertahankan Tingkat Zoom"
+
+#: backend/edit_map.php:278
+msgid "Markers Order by"
+msgstr "Penanda Diurutkan oleh"
+
+#: backend/edit_map.php:280
+msgid "Priority"
+msgstr "Prioritas"
+
+#: backend/edit_map.php:288
+msgid "Categories Filter Type"
+msgstr "Kategori Jenis Filter"
+
+#: backend/edit_map.php:290
+msgid "OR"
+msgstr "ATAU"
+
+#: backend/edit_map.php:291
+msgid "AND"
+msgstr "DAN"
+
+#: backend/edit_map.php:297
+msgid "Quality"
+msgstr "Kualitas"
+
+#: backend/edit_map.php:297
+msgid "map quality (high can slow movement)"
+msgstr "kualitas peta (tinggi dapat memperlambat gerakan)"
+
+#: backend/edit_map.php:299
+msgid "Low"
+msgstr "Rendah"
+
+#: backend/edit_map.php:300
+msgid "Medium"
+msgstr "Sedang"
+
+#: backend/edit_map.php:301
+msgid "High"
+msgstr "Tinggi"
+
+#: backend/edit_map.php:307
+msgid "Weather"
+msgstr "Cuaca"
+
+#: backend/edit_map.php:310
+msgid "Celsius"
+msgstr "Celsius"
+
+#: backend/edit_map.php:311
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+#: backend/edit_map.php:317
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: backend/edit_map.php:317
+msgid ""
+"Google Analytics Tracking ID. Note: Use the Friendly URL in Google "
+"Analytics's property url setting."
+msgstr ""
+"ID Pelacakan Google Analytics. Catatan: Gunakan URL Ramah di setelan url "
+"properti Google Analytics."
+
+#: backend/edit_map.php:369
+msgid "only needed if map style is different from default or custom version"
+msgstr "hanya diperlukan jika gaya peta berbeda dari versi default atau kustom"
+
+#: backend/edit_map.php:377
+msgid "Street Url"
+msgstr "Url Jalanan"
+
+#: backend/edit_map.php:383
+msgid "Street Max Zoom"
+msgstr "Zoom Maks Jalan"
+
+#: backend/edit_map.php:389
+msgid "Street Attributions"
+msgstr "Atribusi Jalan"
+
+#: backend/edit_map.php:395
+msgid "Satellite Url"
+msgstr "Url Satelit"
+
+#: backend/edit_map.php:401
+msgid "Satellite Max Zoom"
+msgstr "Zoom Maks Satelit"
+
+#: backend/edit_map.php:407
+msgid "Satellite Attributions"
+msgstr "Atribusi Satelit"
+
+#: backend/edit_map.php:415
+msgid "Default view"
+msgstr "Tampilan baku"
+
+#: backend/edit_map.php:418
+msgid "Satellite"
+msgstr "Satelit"
+
+#: backend/edit_map.php:424
+msgid "Globe view"
+msgstr "Tampilan bola dunia"
+
+#: backend/edit_map.php:428
+msgid "Enabled (autostart)"
+msgstr "Diaktifkan (mulai otomatis)"
+
+#: backend/edit_map.php:445
+msgid "Main color"
+msgstr "Warna utama"
+
+#: backend/edit_map.php:451
+msgid "Font Viewer"
+msgstr "Penampil Font"
+
+#: backend/edit_map.php:459 backend/settings.php:104
+msgid "Logo"
+msgstr "Logo"
+
+#: backend/edit_map.php:467
+msgid "DELETE LOGO"
+msgstr "HAPUS LOGO"
+
+#: backend/edit_map.php:479 backend/settings.php:124
+msgid "Upload Logo Image"
+msgstr "Unggah Gambar Logo"
+
+#: backend/edit_map.php:500
+msgid "Markers Icon"
+msgstr "Ikon Penanda"
+
+#: backend/edit_map.php:505
+msgid "Default Markers Icon Type"
+msgstr "Jenis Ikon Penanda Default"
+
+#: backend/edit_map.php:515 backend/edit_map.php:525
+msgid "Default Markers Icon"
+msgstr "Ikon Penanda Default"
+
+#: backend/edit_map.php:533
+msgid "Default Markers Icon Background"
+msgstr "Latar Belakang Ikon Penanda Default"
+
+#: backend/edit_map.php:539
+msgid "Default Markers Icon Color"
+msgstr "Warna Ikon Penanda Default"
+
+#: backend/edit_map.php:545
+msgid "Default Markers Size"
+msgstr "Ukuran Penanda Default"
+
+#: backend/edit_map.php:551 backend/edit_category.php:136
+msgid "ASSIGN ICON TO"
+msgstr "TETAPKAN IKON KE"
+
+#: backend/edit_map.php:563
+msgid "Link or upload Json"
+msgstr "Tautkan atau unggah Json"
+
+#: backend/edit_map.php:576
+msgid "Upload Json"
+msgstr "Unggah Json"
+
+#: backend/settings.php:16 backend/updater.php:43
+msgid "It looks like that you do not have permission to access this page"
+msgstr "Sepertinya Anda tidak memiliki izin untuk mengakses halaman ini"
+
+#: backend/settings.php:24
+msgid "Please enter a valid purchase code to continue using the application."
+msgstr ""
+"Silakan masukkan kode pembelian yang valid untuk terus menggunakan aplikasi."
+
+#: backend/settings.php:33
+msgid "License"
+msgstr "Lisensi"
+
+#: backend/settings.php:39
+msgid "Purchase Code"
+msgstr "Kode Pembelian"
+
+#: backend/settings.php:39
+msgid "Where i can find it?"
+msgstr "Dimana saya bisa menemukannya?"
+
+#: backend/settings.php:46
+msgid "CHECK"
+msgstr "CEK"
+
+#: backend/settings.php:75
+msgid "Branding"
+msgstr "merek"
+
+#: backend/settings.php:81
+msgid "Application Name"
+msgstr "Nama Aplikasi"
+
+#: backend/settings.php:87
+msgid "Theme Color"
+msgstr "Warna Tema"
+
+#: backend/settings.php:93
+msgid "Font Backend"
+msgstr "Latar Belakang Font"
+
+#: backend/settings.php:99
+msgid "Welcome Message"
+msgstr "Pesan Selamat Datang"
+
+#: backend/settings.php:99
+msgid "leave empty for default welcome message"
+msgstr "biarkan kosong untuk pesan selamat datang default"
+
+#: backend/settings.php:118 backend/settings.php:156
+msgid "Choose file"
+msgstr "Pilih berkas"
+
+#: backend/settings.php:142
+msgid "Login image"
+msgstr "Gambar masuk"
+
+#: backend/settings.php:162
+msgid "Upload Login Image"
+msgstr "Unggah Gambar Masuk"
+
+#: backend/settings.php:189
+msgid "Localization"
+msgstr "Pelokalan"
+
+#: backend/settings.php:231
+msgid "Translation Type"
+msgstr "Jenis Terjemahan"
+
+#: backend/settings.php:240
+msgid "Languages Enabled"
+msgstr "Bahasa Diaktifkan"
+
+#: backend/settings.php:241
+msgid "items selected"
+msgstr "item yang dipilih"
+
+#: backend/settings.php:241
+msgid "Deselect All"
+msgstr "Batal Semua Pilihan"
+
+#: backend/settings.php:241
+msgid "Select All"
+msgstr "Pilih Semua"
+
+#: backend/settings.php:241
+msgid "Nothing selected"
+msgstr "Tidak ada yang dipilih"
+
+#: backend/settings.php:241 backend/functions.php:677
+msgid "No results matched"
+msgstr "Tidak ada hasil yang cocok"
+
+#: backend/settings.php:296
+msgid "Footer"
+msgstr "Footer"
+
+#: backend/settings.php:302
+msgid "Name Item 1"
+msgstr "Nama Barang 1"
+
+#: backend/settings.php:308
+msgid "Content Item 1"
+msgstr "Konten Butir 1"
+
+#: backend/settings.php:308 backend/settings.php:323 backend/settings.php:338
+msgid "insert a textual content or a link to an external site"
+msgstr "menyisipkan konten tekstual atau tautan ke situs eksternal"
+
+#: backend/settings.php:317
+msgid "Name Item 2"
+msgstr "Nama Barang 2"
+
+#: backend/settings.php:323
+msgid "Content Item 2"
+msgstr "Konten Butir 2"
+
+#: backend/settings.php:332
+msgid "Name Item 3"
+msgstr "Nama Barang 3"
+
+#: backend/settings.php:338
+msgid "Content Item 3"
+msgstr "Konten Butir 3"
+
+#: backend/settings.php:352
+msgid "Custom Viewer CSS"
+msgstr "CSS Penampil Kustom"
+
+#: backend/settings.php:358
+msgid "General (affects all maps)"
+msgstr "Umum (mempengaruhi semua peta)"
+
+#: backend/settings.php:376
+msgid "Custom Backend CSS"
+msgstr "CSS Backend Kustom"
+
+#: backend/settings.php:489
+msgid "Choose"
+msgstr "Pilih"
+
+#: backend/story.php:25
+msgid "ADD MARKER TO STORY"
+msgstr "TAMBAHKAN PENANDA KE CERITA"
+
+#: backend/story.php:37 backend/story.php:66 backend/story.php:117
+msgid "Zoom"
+msgstr "Zoom"
+
+#: backend/story.php:38 backend/markers.php:62
+msgid "Order"
+msgstr "Pesanan"
+
+#: backend/story.php:54
+msgid "Add Marker to Story"
+msgstr "Tambahkan Penanda ke Cerita"
+
+#: backend/story.php:111 backend/topbar.php:48
+msgid "Edit Marker"
+msgstr "Sunting Penanda"
+
+#: backend/markers.php:27
+msgid "IMPORT EXCEL"
+msgstr "IMPOR EXCEL"
+
+#: backend/markers.php:32
+msgid "BULK SELETE"
+msgstr "PILIH MASSAL"
+
+#: backend/markers.php:38
+msgid "SELECTED MARKERS"
+msgstr "MARKER TERPILIH"
+
+#: backend/markers.php:38
+msgid "select all"
+msgstr "Pilih Semua"
+
+#: backend/markers.php:38
+msgid "deselect all"
+msgstr "batalkan pilihan semua"
+
+#: backend/markers.php:41
+msgid "SELETE"
+msgstr "PILIH"
+
+#: backend/markers.php:57
+msgid "Address"
+msgstr "Alamat"
+
+#: backend/markers.php:59 backend/edit_marker.php:113
+msgid "Validated"
+msgstr "Telah divalidasi"
+
+#: backend/markers.php:60 backend/edit_marker.php:119
+msgid "Centered"
+msgstr "Terpusat"
+
+#: backend/markers.php:77
+msgid "export markers"
+msgstr "spidol ekspor"
+
+#: backend/markers.php:85
+msgid "Delete Marker"
+msgstr "Hapus Penanda"
+
+#: backend/markers.php:88
+msgid "Are you sure you want to delete the marker?"
+msgstr "Anda yakin ingin menghapus penanda?"
+
+#: backend/markers.php:102
+msgid "Duplicate Marker"
+msgstr "Penanda Duplikat"
+
+#: backend/markers.php:105
+msgid "Are you sure you want to duplicate the marker?"
+msgstr "Apakah Anda yakin ingin menduplikasi penanda?"
+
+#: backend/add_category.php:7
+msgid "ADD CATEGOR"
+msgstr "TAMBAHKAN KATEGOR"
+
+#: backend/add_category.php:32 backend/edit_category.php:60
+msgid "Parent Category"
+msgstr "Kategori Induk"
+
+#: backend/functions.php:558
+msgid "administrator"
+msgstr "administrator"
+
+#: backend/edit_category.php:29 backend/edit_marker.php:44
+msgid "Direct Link"
+msgstr "Tautan Langsung"
+
+#: backend/edit_category.php:83
+msgid "Markers Icons"
+msgstr "Ikon Penanda"
+
+#: backend/edit_category.php:129
+msgid "Size"
+msgstr "Ukuran"
+
+#: backend/edit_category.php:165
+msgid "Delete Category"
+msgstr "Hapus Kategori"
+
+#: backend/edit_category.php:168
+msgid "Are you sure you want to delete the category?"
+msgstr "Anda yakin ingin menghapus kategori?"
+
+#: backend/updater.php:52
+msgid "Version Check"
+msgstr "Periksa Versi"
+
+#: backend/updater.php:57
+msgid "Current Version"
+msgstr "Versi Terkini"
+
+#: backend/updater.php:57
+msgid "Latest Version"
+msgstr "Versi terbaru"
+
+#: backend/updater.php:61
+msgid "Changelog"
+msgstr "Catatan perubahan"
+
+#: backend/updater.php:75
+msgid "Download and Update"
+msgstr "Unduh dan Perbarui"
+
+#: backend/updater.php:83
+msgid "Can't upgrade, please enable php zip extension."
+msgstr "Tidak dapat memutakhirkan, harap aktifkan ekstensi zip php."
+
+#: backend/updater.php:91
+msgid ""
+"Be sure to perform a full manual backup of your current files and database "
+"before upgrading."
+msgstr ""
+"Pastikan untuk melakukan pencadangan manual penuh file dan database Anda "
+"saat ini sebelum memutakhirkan."
+
+#: backend/updater.php:94
+msgid "I made the backup, continue"
+msgstr "Saya membuat cadangan, lanjutkan"
+
+#: backend/updater.php:100
+msgid "UPGRADE NOW!"
+msgstr "TINGKATKAN SEKARANG!"
+
+#: backend/updater.php:103
+msgid "click upgrade now to start"
+msgstr "klik tingkatkan sekarang untuk memulai"
+
+#: backend/updater.php:134
+msgid "downloading ..."
+msgstr "mengunduh ..."
+
+#: backend/updater.php:150 backend/updater.php:157 backend/updater.php:181
+#: backend/updater.php:188
+msgid "error, please retry"
+msgstr "kesalahan, silakan coba lagi"
+
+#: backend/updater.php:164
+msgid "installing ... do not close this window!"
+msgstr "menginstal ... jangan tutup jendela ini!"
+
+#: backend/updater.php:174
+msgid "upgrade completed successfully, you will now be logged out in 5 seconds"
+msgstr "upgrade selesai dengan sukses, Anda sekarang akan logout dalam 5 detik"
+
+#: backend/updater.php:198
+msgid "checking license"
+msgstr "memeriksa lisensi"
+
+#: backend/updater.php:232
+msgid "invalid license, unable to update"
+msgstr "lisensi tidak valid, tidak dapat memperbarui"
+
+#: backend/import.php:61
+#, php-format
+msgid ""
+"Use %s template excel or the exported csv to import multiple markers at once."
+msgstr ""
+"Gunakan %s template excel atau csv yang diekspor untuk mengimpor beberapa "
+"penanda sekaligus."
+
+#: backend/import.php:61
+msgid "this"
+msgstr "ini"
+
+#: backend/import.php:71 backend/import.php:98
+msgid "Import Markers"
+msgstr "Impor Penanda"
+
+#: backend/import.php:104
+msgid "Ok"
+msgstr "Oke"
+
+#: backend/import.php:160
+msgid "IMPORTING MARKERS ... DO NOT CLOSE THIS WINDOW!!!!"
+msgstr "IMPORT MARKER...JANGAN TUTUP WINDOW INI!!!!"
+
+#: backend/edit_marker.php:36
+msgid ""
+"This marker was added by a person outside the system. Check the data entered "
+"before approving it."
+msgstr ""
+"Penanda ini ditambahkan oleh seseorang di luar sistem. Periksa data yang "
+"dimasukkan sebelum menyetujuinya."
+
+#: backend/edit_marker.php:113
+msgid "it must be validated to be visible on the map"
+msgstr "itu harus divalidasi agar terlihat di peta"
+
+#: backend/edit_marker.php:119
+msgid "center the map on this marker"
+msgstr "pusatkan peta pada penanda ini"
+
+#: backend/topbar.php:36
+msgid "EDIT PREVIOUS MARKER"
+msgstr "EDIT PENANDA SEBELUMNYA"
+
+#: backend/topbar.php:41
+msgid "EDIT NEXT MARKER"
+msgstr "EDIT PENANDA BERIKUTNYA"
+
+#: backend/topbar.php:65
+msgid "Edit Category"
+msgstr "Mengedit Kategori"
+
+#: backend/topbar.php:100
+msgid "Edit User"
+msgstr "Edit Pengguna"
+
+#: backend/topbar.php:105
+msgid "Edit Profile"
+msgstr "Edit Profil"
+
+#: backend/topbar.php:164
+msgid "Edit profile"
+msgstr "Edit Profil"
+
+#: backend/topbar.php:168 backend/topbar.php:188
+msgid "Logout"
+msgstr "Keluar"
+
+#: backend/topbar.php:180
+msgid "Ready to Leave?"
+msgstr "Siap untuk Meninggalkan?"
+
+#: backend/topbar.php:185
+msgid "Select Logout below if you are ready to end your current session."
+msgstr ""
+"Pilih Logout di bawah ini jika Anda siap untuk mengakhiri sesi Anda saat ini."
+
+#~ msgid "Select Category"
+#~ msgstr "Pilih Kategori"
+
+#~ msgid "REVIEWS"
+#~ msgstr "ULASAN"
+
+#~ msgid "ICONS LIBRARY"
+#~ msgstr "PERPUSTAKAAN IKON"
+
+#~ msgid "USERS"
+#~ msgstr "PENGGUNA"
+
+#~ msgid "EDIT PROFILE"
+#~ msgstr "Edit Profil"
+
+#~ msgid "EDIT USER"
+#~ msgstr "EDIT PENGGUNA"
+
+#~ msgid "CONNECTIONS"
+#~ msgstr "KONEKSI"
+
+#~ msgid "CATEGORIES"
+#~ msgstr "KATEGORI"
+
+#~ msgid "DASHBOARD"
+#~ msgstr "DASBOR"
+
+#~ msgid "Password Protection"
+#~ msgstr "Perlindungan Kata Sandi"
+
+#~ msgid ""
+#~ "If you decide to protect your map with a password, at the first access it "
+#~ "will be required to visit it."
+#~ msgstr ""
+#~ "Jika Anda memutuskan untuk melindungi peta Anda dengan kata sandi, pada "
+#~ "akses pertama itu akan diminta untuk mengunjunginya."
+
+#~ msgid "PROTECT MAP"
+#~ msgstr "MELINDUNGI PETA"
+
+#~ msgid ""
+#~ "Your map is now protected with a password, click UNPROTECT to remove it."
+#~ msgstr ""
+#~ "Peta Anda sekarang dilindungi dengan kata sandi, klik UNPROTECT untuk "
+#~ "menghapusnya."
+
+#~ msgid "UNPROTECT MAP"
+#~ msgstr "TANPA LINDUNGI PETA"
+
+#~ msgid "Current status"
+#~ msgstr "Status terkini"
+
+#~ msgid "DEACTIVATE"
+#~ msgstr "MENONAKTIFKAN"
+
+#~ msgid "ACTIVATE"
+#~ msgstr "MENGAKTIFKAN"
+
+#~ msgid "SET FRIENDLY URL"
+#~ msgstr "SET URL RAMAH"
+
+#~ msgid "Map Friendly Url Link"
+#~ msgstr "Tautan Url Ramah Peta"
+
+#~ msgid "MAPS"
+#~ msgstr "PETA"
+
+#~ msgid "STATISTICS"
+#~ msgstr "STATISTIK"
+
+#~ msgid "EDIT MAP"
+#~ msgstr "EDIT PETA"
+
+#~ msgid "SETTINGS"
+#~ msgstr "PENGATURAN"
+
+#~ msgid "STORY"
+#~ msgstr "CERITA"
+
+#~ msgid "EDIT CATEGORY"
+#~ msgstr "EDIT KATEGORI"

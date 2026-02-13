@@ -1,0 +1,2320 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-18 21:16+0100\n"
+"PO-Revision-Date: 2023-02-18 21:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: viewer/index.php:314
+msgid "This Map is password protected"
+msgstr "Bu Harita parola korumalı"
+
+#: viewer/index.php:315
+msgid "Input password"
+msgstr "Erişim Parolası"
+
+#: viewer/index.php:360
+msgid "add new marker"
+msgstr "yeni işaretleyici ekle"
+
+#: viewer/index.php:364
+msgid "click on the map and place your marker"
+msgstr "haritaya tıklayın ve işaretçinizi yerleştirin"
+
+#: viewer/index.php:367
+msgid "drag the marker to adjust the position"
+msgstr "konumu ayarlamak için işaretçiyi sürükleyin"
+
+#: viewer/index.php:367
+msgid "confirm"
+msgstr "Onay"
+
+#: viewer/index.php:378
+msgid "DIRECTIONS"
+msgstr "TALİMATLAR"
+
+#: viewer/index.php:379
+msgid "STREET VIEW"
+msgstr "SOKAK GÖRÜNÜMÜ"
+
+#: viewer/index.php:380
+msgid "WRITE A REVIEW"
+msgstr "BİR DEĞERLENDİRME YAZIN"
+
+#: viewer/index.php:440
+msgid "Average Rating"
+msgstr "Ortalama puanı"
+
+#: viewer/index.php:494 backend/reviews.php:31 backend/add_marker.php:51
+#: backend/categories.php:36 backend/maps.php:56 backend/edit_map.php:46
+#: backend/edit_map.php:281 backend/markers.php:55 backend/add_category.php:26
+#: backend/edit_category.php:54 backend/edit_marker.php:101
+msgid "Name"
+msgstr "Ad"
+
+#: viewer/index.php:497 backend/markers.php:44
+msgid "CANCEL"
+msgstr "İPTAL ETMEK"
+
+#: viewer/index.php:498 backend/add_marker.php:37 backend/add_category.php:12
+msgid "ADD"
+msgstr "EKLE"
+
+#: viewer/index.php:504 backend/add_marker.php:243 backend/add_marker.php:293
+#: backend/edit_marker.php:305 backend/edit_marker.php:359
+msgid "Latitude"
+msgstr "Enlem"
+
+#: viewer/index.php:505 backend/add_marker.php:249 backend/add_marker.php:294
+#: backend/edit_marker.php:311 backend/edit_marker.php:360
+msgid "Longitude"
+msgstr "Boylam"
+
+#: viewer/index.php:519 backend/add_marker.php:101 backend/edit_map.php:417
+#: backend/edit_marker.php:163
+msgid "Street"
+msgstr "Sokak"
+
+#: viewer/index.php:525 backend/add_marker.php:107 backend/edit_map.php:282
+#: backend/edit_marker.php:169
+msgid "City"
+msgstr "Şehir"
+
+#: viewer/index.php:531 backend/add_marker.php:113 backend/edit_marker.php:175
+msgid "Postal Code"
+msgstr "Posta Kodu"
+
+#: viewer/index.php:537 backend/add_marker.php:119 backend/edit_marker.php:181
+msgid "Country"
+msgstr "Ülke"
+
+#: viewer/index.php:543
+msgid "Website"
+msgstr "Website"
+
+#: viewer/index.php:549 backend/reviews.php:32 backend/add_marker.php:149
+#: backend/edit_marker.php:211
+msgid "E-mail"
+msgstr "E-posta"
+
+#: viewer/index.php:555 backend/add_marker.php:137 backend/edit_marker.php:199
+msgid "Phone"
+msgstr "Telefon"
+
+#: viewer/index.php:561 backend/add_marker.php:143 backend/edit_marker.php:205
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: viewer/index.php:567 backend/add_marker.php:155 backend/edit_marker.php:217
+msgid "Hours"
+msgstr "Saat"
+
+#: viewer/index.php:573 backend/add_marker.php:161 backend/publish.php:67
+#: backend/story.php:93 backend/story.php:144 backend/edit_marker.php:223
+msgid "Description"
+msgstr "Açıklama"
+
+#: viewer/index.php:589
+msgid "delete images"
+msgstr "resimleri sil"
+
+#: viewer/index.php:598
+msgid "Your Rating"
+msgstr "Sizin dereceniz"
+
+#: viewer/index.php:606
+msgid "Your Name"
+msgstr "Adınız"
+
+#: viewer/index.php:609
+msgid "Your Email Address (optional)"
+msgstr "E-posta Adresiniz (isteğe bağlı)"
+
+#: viewer/index.php:612
+msgid "Type your Review here"
+msgstr "Yorumunuzu buraya yazın"
+
+#: viewer/index.php:616
+msgid "Type the code above"
+msgstr "Yukarıdaki kodu yazın"
+
+#: viewer/index.php:619
+msgid "Submit"
+msgstr "Gönder"
+
+#: viewer/index.php:622
+msgid "Thanks for your review!"
+msgstr "Yorumunuz için teşekkürler!"
+
+#: viewer/index.php:625 backend/reviews.php:71 backend/users.php:126
+#: backend/edit_user.php:289 backend/edit_map.php:97 backend/markers.php:158
+msgid "Search"
+msgstr "Arama"
+
+#: viewer/index.php:720
+msgid "Are you sure you want to CANCEL the request to insert this marker?"
+msgstr "Bu işaretçiyi ekleme isteğini İPTAL etmek istediğinizden emin misiniz?"
+
+#: viewer/index.php:721
+msgid "Are you sure you want to SEND the request to insert this marker?"
+msgstr ""
+"Bu işaretçiyi eklemek için isteği GÖNDERMEK istediğinizden emin misiniz?"
+
+#: viewer/index.php:722
+msgid ""
+"Thanks for inserting the marker! As soon as it is approved it will be "
+"visible on the map."
+msgstr ""
+"İşaretçiyi eklediğiniz için teşekkürler! Onaylanır onaylanmaz haritada "
+"görünecektir."
+
+#: viewer/index.php:723
+msgid "An error has occurred, please try again later."
+msgstr "Bir hata oluştu, lütfen tekrar deneyin."
+
+#: viewer/index.php:724
+msgid "reset"
+msgstr "Sıfırlar"
+
+#: viewer/index.php:725
+msgid "Start, Scroll down"
+msgstr "Başlat, Aşağı kaydır"
+
+#: viewer/index.php:726
+msgid "End"
+msgstr "Son"
+
+#: viewer/index.php:727
+msgid "Searching"
+msgstr "Aranıyor"
+
+#: viewer/index.php:728 backend/add_marker.php:692 backend/edit_map.php:653
+#: backend/edit_category.php:192 backend/edit_marker.php:801
+msgid "No results found."
+msgstr "Sonuç bulunamadı."
+
+#: viewer/index.php:729
+msgid "Add New Marker"
+msgstr "Yeni İşaret Ekle"
+
+#: viewer/index.php:730
+msgid "Do you want to use my position to add the marker?"
+msgstr "İşaretçiyi eklemek için konumumu kullanmak istiyor musunuz?"
+
+#: viewer/index.php:731 backend/publish.php:140
+msgid "No"
+msgstr "Hayır"
+
+#: viewer/index.php:732 backend/publish.php:140
+msgid "Yes"
+msgstr "Evet"
+
+#: viewer/index.php:735
+msgid "Are you sure you want to insert this marker?"
+msgstr "Bu işaretçiyi eklemek istediğinizden emin misiniz?"
+
+#: viewer/index.php:736
+msgid "Thanks for inserting the marker! Please reload the map to view it."
+msgstr ""
+"İşaretçiyi eklediğiniz için teşekkürler! Lütfen görüntülemek için haritayı "
+"yeniden yükleyin."
+
+#: viewer/ajax/upload_new_marker_image.php:23
+msgid "Invalid image."
+msgstr "Geçersiz resim."
+
+#: viewer/ajax/upload_new_marker_image.php:31
+#: backend/ajax/upload_marker_image.php:38
+#: backend/ajax/upload_b_logo_image.php:51
+#: backend/ajax/upload_b_background_image.php:43
+msgid "Only jpg,png files are supported."
+msgstr "Sadece jpg, png dosyaları desteklenir."
+
+#: viewer/ajax/upload_new_marker_image.php:35
+#: backend/ajax/upload_marker_image.php:42
+#: backend/ajax/upload_meta_image.php:69 backend/ajax/upload_file.php:32
+#: backend/ajax/upload_logo_image.php:41 backend/ajax/upload_icon_image.php:72
+#: backend/ajax/upload_b_logo_image.php:55
+#: backend/ajax/upload_b_background_image.php:47
+#: backend/ajax/upload_geojson.php:41
+msgid "File not provided."
+msgstr "Dosya sağlanmadı."
+
+#: backend/login.php:68 backend/topbar.php:124
+msgid "Arabic"
+msgstr "Arapça"
+
+#: backend/login.php:69 backend/topbar.php:125
+msgid "Chinese Simplified"
+msgstr "Basitleştirilmiş Çince"
+
+#: backend/login.php:70 backend/topbar.php:126
+msgid "Chinese Traditional (Hong Kong)"
+msgstr "Çin Geleneksel (Hong Kong)"
+
+#: backend/login.php:71 backend/topbar.php:127
+msgid "Chinese Traditional (Taiwan)"
+msgstr "Çin Geleneksel (Tayvan)"
+
+#: backend/login.php:72 backend/topbar.php:128
+msgid "Czech"
+msgstr "Çekçe"
+
+#: backend/login.php:73 backend/topbar.php:129
+msgid "Dutch"
+msgstr "Flemenkçe"
+
+#: backend/login.php:74 backend/topbar.php:130
+msgid "English"
+msgstr "İngilizce"
+
+#: backend/login.php:75 backend/topbar.php:131
+msgid "Filipino"
+msgstr "Filipince"
+
+#: backend/login.php:76 backend/topbar.php:132
+msgid "French"
+msgstr "Fransızca"
+
+#: backend/login.php:77 backend/topbar.php:133
+msgid "German"
+msgstr "Almanca"
+
+#: backend/login.php:78 backend/topbar.php:134
+msgid "Hindi"
+msgstr "Hintçe"
+
+#: backend/login.php:79 backend/topbar.php:135
+msgid "Hungarian"
+msgstr "Macarca"
+
+#: backend/login.php:80 backend/topbar.php:136
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda"
+
+#: backend/login.php:81 backend/topbar.php:137
+msgid "Korean"
+msgstr "Korece"
+
+#: backend/login.php:82 backend/topbar.php:138
+msgid "Indonesian"
+msgstr "Endonezya"
+
+#: backend/login.php:83 backend/topbar.php:139
+msgid "Italian"
+msgstr "İtalyanca"
+
+#: backend/login.php:84 backend/topbar.php:140
+msgid "Japanese"
+msgstr "Japonca"
+
+#: backend/login.php:85 backend/topbar.php:141
+msgid "Persian"
+msgstr "Farsça"
+
+#: backend/login.php:86 backend/topbar.php:142
+msgid "Polish"
+msgstr "Lehçe"
+
+#: backend/login.php:87 backend/topbar.php:143
+msgid "Portuguese Brazilian"
+msgstr "Portekizce Brezilya dili"
+
+#: backend/login.php:88 backend/topbar.php:144
+msgid "Portuguese European"
+msgstr "Portekizce Avrupa"
+
+#: backend/login.php:89 backend/topbar.php:145
+msgid "Spanish"
+msgstr "İspanyolca"
+
+#: backend/login.php:90 backend/topbar.php:146
+msgid "Romanian"
+msgstr "Romence"
+
+#: backend/login.php:91 backend/topbar.php:147
+msgid "Russian"
+msgstr "Rusça"
+
+#: backend/login.php:92 backend/topbar.php:148
+msgid "Swedish"
+msgstr "İsveççe"
+
+#: backend/login.php:93 backend/topbar.php:149
+msgid "Tajik"
+msgstr "Tacikçe"
+
+#: backend/login.php:94 backend/topbar.php:150
+msgid "Thai"
+msgstr "Thai"
+
+#: backend/login.php:95 backend/topbar.php:151
+msgid "Turkish"
+msgstr "Türkçe"
+
+#: backend/login.php:96 backend/topbar.php:152
+msgid "Vietnamese"
+msgstr "Vietnam"
+
+#: backend/login.php:100
+msgid "Welcome Back!"
+msgstr "Tekrar hoş geldin!"
+
+#: backend/login.php:104 backend/users.php:44 backend/users.php:68
+#: backend/edit_profile.php:20 backend/edit_user.php:41
+msgid "Username"
+msgstr "Kullanıcı Adı"
+
+#: backend/login.php:107 backend/users.php:84 backend/edit_profile.php:63
+#: backend/edit_profile.php:83 backend/edit_user.php:187 backend/publish.php:40
+msgid "Password"
+msgstr "Şifre"
+
+#: backend/login.php:110
+msgid "Login"
+msgstr "Giriş"
+
+#: backend/reviews.php:16 backend/icons_library.php:16 backend/draw.php:18
+#: backend/add_marker.php:25 backend/edit_user.php:22
+#: backend/markers_connections.php:17 backend/categories.php:17
+#: backend/publish.php:24 backend/edit_map.php:26 backend/settings.php:15
+#: backend/story.php:17 backend/edit_category.php:16 backend/updater.php:42
+#: backend/import.php:40 backend/edit_marker.php:24
+msgid "Permission denied"
+msgstr "İzin Reddedildi"
+
+#: backend/reviews.php:17 backend/icons_library.php:17 backend/draw.php:19
+#: backend/add_marker.php:26 backend/edit_user.php:23
+#: backend/markers_connections.php:18 backend/categories.php:18
+#: backend/publish.php:25 backend/edit_map.php:27 backend/story.php:18
+#: backend/edit_category.php:17 backend/import.php:41
+#: backend/edit_marker.php:25
+msgid "It looks like you found a glitch in the matrix..."
+msgstr "Matriste bir aksaklık bulmuşsunuz gibi görünüyor..."
+
+#: backend/reviews.php:18 backend/icons_library.php:18 backend/draw.php:20
+#: backend/add_marker.php:27 backend/edit_user.php:24
+#: backend/markers_connections.php:19 backend/categories.php:19
+#: backend/publish.php:26 backend/edit_map.php:28 backend/settings.php:17
+#: backend/story.php:19 backend/edit_category.php:18 backend/updater.php:44
+#: backend/import.php:42 backend/edit_marker.php:26
+msgid "Back to Dashboard"
+msgstr "Genel Bakış"
+
+#: backend/reviews.php:29
+msgid "Date"
+msgstr "Tarih"
+
+#: backend/reviews.php:30 backend/markers_connections.php:36
+#: backend/markers_connections.php:38 backend/markers_connections.php:60
+#: backend/markers_connections.php:68 backend/markers_connections.php:118
+#: backend/markers_connections.php:126 backend/story.php:36
+#: backend/story.php:60
+msgid "Marker"
+msgstr "İşaretleyici"
+
+#: backend/reviews.php:33
+msgid "Rating"
+msgstr "Değerlendirme"
+
+#: backend/reviews.php:34
+msgid "Comment"
+msgstr "Yorum"
+
+#: backend/reviews.php:62 backend/users.php:117 backend/edit_user.php:280
+#: backend/markers.php:149
+msgid "No data available in table"
+msgstr "Tabloda veri yok"
+
+#: backend/reviews.php:63 backend/users.php:118 backend/edit_user.php:281
+#: backend/markers.php:150
+#, php-format
+msgid "Showing %s to %s of %s entries"
+msgstr "%s giriş %s %s gösterim"
+
+#: backend/reviews.php:64 backend/users.php:119 backend/edit_user.php:282
+#: backend/markers.php:151
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "0 dan 0 a 0 girdileri gösteriliyor"
+
+#: backend/reviews.php:65 backend/users.php:120 backend/edit_user.php:283
+#: backend/markers.php:152
+#, php-format
+msgid "(filtered from %s total entries)"
+msgstr "(toplam %s giriş filtrelenmiştir)"
+
+#: backend/reviews.php:68 backend/users.php:123 backend/edit_user.php:286
+#: backend/markers.php:155
+#, php-format
+msgid "Show %s entries"
+msgstr "%s Kayıt görüntülendi"
+
+#: backend/reviews.php:69 backend/index.php:148 backend/users.php:124
+#: backend/edit_user.php:287 backend/markers.php:156
+msgid "Loading"
+msgstr "Yükleniyor"
+
+#: backend/reviews.php:70 backend/users.php:125 backend/edit_user.php:288
+#: backend/markers.php:157
+msgid "Processing"
+msgstr "İşleniyor"
+
+#: backend/reviews.php:72 backend/users.php:127 backend/edit_user.php:290
+#: backend/markers.php:159
+msgid "No matching records found"
+msgstr "Kayıt Bulunamadı"
+
+#: backend/reviews.php:74 backend/users.php:129 backend/edit_user.php:292
+#: backend/markers.php:161
+msgid "First"
+msgstr "İlk"
+
+#: backend/reviews.php:75 backend/users.php:130 backend/edit_user.php:293
+#: backend/markers.php:162
+msgid "Last"
+msgstr "Son"
+
+#: backend/reviews.php:76 backend/users.php:131 backend/edit_user.php:294
+#: backend/markers.php:163
+msgid "Next"
+msgstr "Sonraki"
+
+#: backend/reviews.php:77 backend/users.php:132 backend/edit_user.php:295
+#: backend/markers.php:164
+msgid "Previous"
+msgstr "Önceki"
+
+#: backend/reviews.php:80 backend/users.php:135 backend/edit_user.php:298
+#: backend/markers.php:167
+msgid "activate to sort column ascending"
+msgstr "Artan Sıralama"
+
+#: backend/reviews.php:81 backend/users.php:136 backend/edit_user.php:299
+#: backend/markers.php:168
+msgid "activate to sort column descending"
+msgstr "Azalan Sırlama"
+
+#: backend/icons_library.php:35
+msgid "Icons List"
+msgstr "Simgeler"
+
+#: backend/icons_library.php:39
+msgid "Loading icons"
+msgstr "Yükleme simgeleri ..."
+
+#: backend/index.php:146
+msgid "UPDATE IN PROGRESS"
+msgstr "Güncelleştirme Devam Ediyor."
+
+#: backend/index.php:150
+msgid "Not close this window"
+msgstr "Bu pencereyi kapatma"
+
+#: backend/index.php:198
+msgid "EDIT"
+msgstr "Düzenle"
+
+#: backend/index.php:199
+msgid "PUBLISH"
+msgstr "Yayınla"
+
+#: backend/index.php:200
+msgid "PREVIEW"
+msgstr "Önizleme"
+
+#: backend/index.php:201 backend/edit_map.php:551 backend/edit_category.php:136
+#: backend/import.php:47
+msgid "MARKERS"
+msgstr "Bağlantılar"
+
+#: backend/index.php:202 backend/add_marker.php:358 backend/edit_marker.php:424
+#: backend/topbar.php:46 backend/topbar.php:64 backend/topbar.php:97
+msgid "DELETE"
+msgstr "Sil"
+
+#: backend/index.php:203
+msgid "DUPLICATE"
+msgstr "Yine -lenen"
+
+#: backend/index.php:204
+msgid "MAIN IMAGE"
+msgstr "ANA GÖRÜNTÜ"
+
+#: backend/index.php:205 backend/add_marker.php:355 backend/edit_marker.php:421
+msgid "SET AS MAIN"
+msgstr "ANA OLARAK AYARLA"
+
+#: backend/index.php:206
+msgid "SEARCHING"
+msgstr "ARAŞTIRICI"
+
+#: backend/index.php:207 backend/add_marker.php:288 backend/edit_marker.php:354
+msgid "GET GPS POSITION"
+msgstr "GPS KONUMUNU AL"
+
+#: backend/index.php:208
+msgid "No icon images in this library!"
+msgstr "Bu kütüphanede simge görüntüsü yok!"
+
+#: backend/index.php:209
+msgid "Are you sure you want to delete?"
+msgstr "Silmek istediğine emin misin?"
+
+#: backend/index.php:210
+msgid "Are you sure you want to assign this icon to all the markers?"
+msgstr "Bu simgeyi tüm işaretçilere atamak istediğinizden emin misiniz?"
+
+#: backend/index.php:211
+msgid "copied"
+msgstr "kopyalanmış"
+
+#: backend/add_marker.php:32 backend/markers.php:24
+msgid "ADD MARKER"
+msgstr "Panorama Bağlantı Noktası Eke"
+
+#: backend/add_marker.php:45 backend/add_category.php:20
+#: backend/edit_category.php:48 backend/edit_marker.php:95
+msgid "Details"
+msgstr "Detaylar"
+
+#: backend/add_marker.php:57 backend/users.php:46 backend/edit_user.php:100
+#: backend/markers.php:58 backend/edit_marker.php:107
+msgid "Active"
+msgstr "Aktif"
+
+#: backend/add_marker.php:63 backend/markers.php:61 backend/edit_marker.php:125
+msgid "Featured"
+msgstr "Öne Çıkan"
+
+#: backend/add_marker.php:63 backend/edit_marker.php:125
+msgid "show this marker on featured list"
+msgstr "bu işaretçiyi öne çıkanlar listesinde göster"
+
+#: backend/add_marker.php:69 backend/edit_map.php:157
+#: backend/edit_marker.php:131
+msgid "Directions"
+msgstr "Talimatlar"
+
+#: backend/add_marker.php:69 backend/edit_marker.php:131
+msgid "enable the button 'directions' for this marker"
+msgstr "bu işaretçi için 'yol tarifi' düğmesini etkinleştirin"
+
+#: backend/add_marker.php:75 backend/edit_map.php:163
+#: backend/edit_marker.php:137
+msgid "Street View"
+msgstr "Sokak Görünümü"
+
+#: backend/add_marker.php:75 backend/edit_marker.php:137
+msgid "enable the button 'street view' for this marker"
+msgstr "bu işaretçi için 'sokak görünümü' düğmesini etkinleştirin"
+
+#: backend/add_marker.php:81 backend/edit_marker.php:143
+msgid "Review"
+msgstr "İnceleme"
+
+#: backend/add_marker.php:81 backend/edit_marker.php:143
+msgid "enable the reviews for this marker"
+msgstr "bu işaretçi için incelemeleri etkinleştir"
+
+#: backend/add_marker.php:87 backend/edit_map.php:175
+#: backend/edit_marker.php:149
+msgid "Share"
+msgstr "Paylaş"
+
+#: backend/add_marker.php:87 backend/edit_marker.php:149
+msgid "enable share buttons for this marker"
+msgstr "bu işaretçi için paylaşım düğmelerini etkinleştir"
+
+#: backend/add_marker.php:93 backend/markers.php:56 backend/edit_marker.php:155
+msgid "Category"
+msgstr "Kategori"
+
+#: backend/add_marker.php:125 backend/edit_marker.php:187
+msgid "Website Link"
+msgstr "Web Sitesi Bağlantısı"
+
+#: backend/add_marker.php:131 backend/edit_marker.php:193
+msgid "Website Name"
+msgstr "Web sitesi adı"
+
+#: backend/add_marker.php:175 backend/edit_map.php:440
+#: backend/edit_marker.php:237
+msgid "Style"
+msgstr "Stil"
+
+#: backend/add_marker.php:181 backend/edit_category.php:89
+#: backend/edit_marker.php:243
+msgid "Icon Type"
+msgstr "Simge Türü"
+
+#: backend/add_marker.php:183 backend/edit_map.php:309 backend/edit_map.php:507
+#: backend/edit_category.php:91 backend/edit_marker.php:245
+msgid "None"
+msgstr "Yok"
+
+#: backend/add_marker.php:184 backend/edit_map.php:508
+#: backend/edit_category.php:92 backend/edit_marker.php:246
+msgid "Default"
+msgstr "Varsayılan"
+
+#: backend/add_marker.php:185 backend/edit_map.php:509
+#: backend/edit_category.php:93 backend/edit_marker.php:247
+msgid "Custom Icon Library"
+msgstr "Özel Simge Kitaplığı"
+
+#: backend/add_marker.php:191 backend/add_marker.php:201
+#: backend/edit_category.php:99 backend/edit_category.php:109
+#: backend/edit_marker.php:253 backend/edit_marker.php:263
+msgid "Icon"
+msgstr "İkon"
+
+#: backend/add_marker.php:192 backend/add_marker.php:379
+#: backend/add_marker.php:419 backend/edit_map.php:516
+#: backend/edit_category.php:100 backend/edit_marker.php:254
+#: backend/edit_marker.php:445 backend/edit_marker.php:485
+msgid "Select Icon"
+msgstr "Simge Seç"
+
+#: backend/add_marker.php:202 backend/edit_map.php:526
+#: backend/edit_category.php:110 backend/edit_marker.php:264
+msgid "Select Library Icon"
+msgstr "Kitaplık Simgesini Seçin"
+
+#: backend/add_marker.php:211 backend/edit_category.php:117
+#: backend/edit_marker.php:273
+msgid "Icon Background"
+msgstr "İkon Arkaplanı"
+
+#: backend/add_marker.php:217 backend/edit_category.php:123
+#: backend/edit_marker.php:279
+msgid "Icon Color"
+msgstr "Simge Rengi"
+
+#: backend/add_marker.php:223 backend/edit_marker.php:285
+msgid "Icon Size"
+msgstr "Simge Boyutu"
+
+#: backend/add_marker.php:237 backend/edit_marker.php:299
+msgid "Position"
+msgstr "Pozisyon"
+
+#: backend/add_marker.php:255 backend/edit_marker.php:317
+msgid "Visible from Zoom Level"
+msgstr "Yakınlaştırma Düzeyinden Görünür"
+
+#: backend/add_marker.php:269 backend/edit_marker.php:335
+msgid "Geofence Radius"
+msgstr "Coğrafi Sınır Yarıçapı"
+
+#: backend/add_marker.php:275 backend/edit_marker.php:341
+msgid "Geofence Color"
+msgstr "Coğrafi Sınır Rengi"
+
+#: backend/add_marker.php:282 backend/edit_marker.php:348
+msgid "ADDRESS"
+msgstr "ADRES"
+
+#: backend/add_marker.php:282 backend/edit_marker.php:348
+msgid "POSITION"
+msgstr "DURUM"
+
+#: backend/add_marker.php:285 backend/edit_marker.php:351
+msgid "SET POSITION"
+msgstr "KONUM AYARLA"
+
+#: backend/add_marker.php:295 backend/edit_marker.php:361
+msgid "Zoom Level"
+msgstr "Zoom Seviyesi"
+
+#: backend/add_marker.php:296 backend/edit_marker.php:362
+msgid "click/drag on map to change marker's position"
+msgstr "işaretçinin konumunu değiştirmek için haritaya tıklayın/sürükleyin"
+
+#: backend/add_marker.php:307 backend/edit_marker.php:373
+msgid "Images"
+msgstr "Resimler"
+
+#: backend/add_marker.php:321 backend/publish.php:81
+#: backend/edit_marker.php:387
+msgid "Upload Image"
+msgstr "Resim Yükle"
+
+#: backend/add_marker.php:347 backend/edit_marker.php:413
+msgid "Image Action"
+msgstr "Resim Eylemi"
+
+#: backend/add_marker.php:352 backend/edit_marker.php:418
+msgid "Select image first!"
+msgstr "Önce görüntüyü seçin!"
+
+#: backend/add_marker.php:370 backend/edit_marker.php:436
+msgid "Extra Button"
+msgstr "Ekstra Düğme"
+
+#: backend/add_marker.php:378 backend/edit_marker.php:444
+msgid "Button Icon"
+msgstr "Düğme Simgesi"
+
+#: backend/add_marker.php:388 backend/edit_marker.php:454
+msgid "Button Title"
+msgstr "Buton Başlığı"
+
+#: backend/add_marker.php:396 backend/edit_marker.php:462
+msgid "Custom Content"
+msgstr "Özel İçerik"
+
+#: backend/add_marker.php:396 backend/add_marker.php:428
+#: backend/edit_map.php:369 backend/edit_marker.php:462
+#: backend/edit_marker.php:494
+msgid "link"
+msgstr "link"
+
+#: backend/add_marker.php:396 backend/edit_marker.php:462
+msgid "embed link"
+msgstr "bağlantı ekle"
+
+#: backend/add_marker.php:396 backend/add_marker.php:428
+#: backend/edit_marker.php:462 backend/edit_marker.php:494
+msgid "text"
+msgstr "yazı"
+
+#: backend/add_marker.php:410 backend/edit_marker.php:476
+msgid "Extra Fields"
+msgstr "Ekstra Alanlar"
+
+#: backend/add_marker.php:418 backend/edit_marker.php:484
+msgid "Field Icon"
+msgstr "Alan Simge"
+
+#: backend/add_marker.php:428 backend/edit_marker.php:494
+msgid "Field Value"
+msgstr "Alan Değeri"
+
+#: backend/add_marker.php:428 backend/edit_marker.php:494
+msgid "download"
+msgstr "indir"
+
+#: backend/add_marker.php:443 backend/edit_map.php:602
+#: backend/edit_category.php:149 backend/edit_marker.php:509
+msgid "Library Icons"
+msgstr "Kütüphane Simgeleri"
+
+#: backend/add_marker.php:449 backend/add_marker.php:476
+#: backend/add_marker.php:497 backend/add_marker.php:518
+#: backend/add_marker.php:539 backend/add_marker.php:595 backend/users.php:98
+#: backend/edit_profile.php:97 backend/edit_user.php:201
+#: backend/edit_user.php:219 backend/markers_connections.php:102
+#: backend/markers_connections.php:161 backend/publish.php:234
+#: backend/maps.php:64 backend/maps.php:81 backend/maps.php:98
+#: backend/edit_map.php:608 backend/story.php:101 backend/story.php:153
+#: backend/markers.php:92 backend/markers.php:109 backend/edit_category.php:155
+#: backend/edit_category.php:172 backend/edit_marker.php:515
+#: backend/edit_marker.php:542 backend/edit_marker.php:563
+#: backend/edit_marker.php:584 backend/edit_marker.php:605
+#: backend/edit_marker.php:661 backend/edit_marker.php:678
+msgid "Close"
+msgstr "Kapat"
+
+#: backend/add_marker.php:462 backend/add_marker.php:552
+#: backend/edit_marker.php:528 backend/edit_marker.php:618
+msgid "Link Text"
+msgstr "Bağlantı Metni"
+
+#: backend/add_marker.php:468 backend/add_marker.php:489
+#: backend/add_marker.php:510 backend/add_marker.php:587
+#: backend/edit_marker.php:534 backend/edit_marker.php:555
+#: backend/edit_marker.php:576 backend/edit_marker.php:653
+msgid "URL"
+msgstr "URL"
+
+#: backend/add_marker.php:475 backend/add_marker.php:496
+#: backend/add_marker.php:517 backend/add_marker.php:538
+#: backend/add_marker.php:594 backend/edit_marker.php:541
+#: backend/edit_marker.php:562 backend/edit_marker.php:583
+#: backend/edit_marker.php:604 backend/edit_marker.php:660
+msgid "Insert"
+msgstr "Ekle"
+
+#: backend/add_marker.php:531 backend/edit_marker.php:597
+msgid "Text"
+msgstr "Metin"
+
+#: backend/add_marker.php:558 backend/edit_marker.php:624
+msgid "File"
+msgstr "Dosya"
+
+#: backend/add_marker.php:568 backend/edit_marker.php:634
+msgid "Upload File"
+msgstr "Dosya Yükle"
+
+#: backend/add_marker.php:689 backend/edit_map.php:650
+#: backend/edit_category.php:189 backend/edit_marker.php:798
+msgid "Search Icon"
+msgstr "Arama Simgesi"
+
+#: backend/add_marker.php:690 backend/edit_map.php:651
+#: backend/edit_category.php:190 backend/edit_marker.php:799
+msgid "Show All"
+msgstr "Tümünü Göster"
+
+#: backend/add_marker.php:691 backend/edit_map.php:652 backend/settings.php:488
+#: backend/edit_category.php:191 backend/edit_marker.php:800
+#: backend/topbar.php:187
+msgid "Cancel"
+msgstr "İptal"
+
+#: backend/ajax/duplicate_marker.php:44 backend/ajax/duplicate_map.php:35
+msgid "duplicated"
+msgstr "Kopyalanmış"
+
+#: backend/ajax/upload_meta_image.php:57
+msgid "Retry."
+msgstr "Yeniden Dene."
+
+#: backend/ajax/upload_meta_image.php:65
+msgid "Only jpg,png,webp files are supported."
+msgstr "Yalnızca jpg,png,webp dosyaları desteklenir."
+
+#: backend/ajax/upload_logo_image.php:37
+msgid "Only png files are supported."
+msgstr "Sadece jpg, png dosyaları desteklenir."
+
+#: backend/ajax/save_profile.php:28
+msgid "Username already registered!"
+msgstr "Kullanıcı adı zaten kayıtlı!"
+
+#: backend/ajax/save_profile.php:57 backend/ajax/save_profile.php:60
+msgid "Error"
+msgstr "Hata"
+
+#: backend/ajax/upload_geojson.php:37
+msgid "Only json, geojson files are supported."
+msgstr "Yalnızca json, geojson dosyaları desteklenir."
+
+#: backend/users.php:20
+msgid "User's Role Permissions"
+msgstr "Kullanıcının Rol İzinleri"
+
+#: backend/users.php:23
+msgid "ADMINISTRATOR"
+msgstr "Yönetici"
+
+#: backend/users.php:23
+msgid "manage users | manage maps of all users"
+msgstr "kullanıcıları yönetme | tüm kullanıcıların haritalarını yönetme"
+
+#: backend/users.php:24
+msgid "EDITOR"
+msgstr "Düzenleyicisi"
+
+#: backend/users.php:24
+msgid "they only manage the maps that are associated with them"
+msgstr "yalnızca kendileriyle ilişkili eşlemeleri yönetirler"
+
+#: backend/users.php:25
+msgid "CUSTOMER"
+msgstr "Müşteri"
+
+#: backend/users.php:25
+msgid "they only manage their own maps"
+msgstr "sadece kendi haritalarını yönetirler"
+
+#: backend/users.php:33
+msgid "ADD USER"
+msgstr "Kullanıcı Ekle"
+
+#: backend/users.php:45 backend/users.php:74 backend/edit_user.php:84
+msgid "Role"
+msgstr "Rol"
+
+#: backend/users.php:62
+msgid "New User"
+msgstr "Yeni Kullanıcı"
+
+#: backend/users.php:76 backend/edit_user.php:86
+msgid "Customer"
+msgstr "Müşteri"
+
+#: backend/users.php:77 backend/edit_user.php:87
+msgid "Administrator"
+msgstr "Yönetici"
+
+#: backend/users.php:78 backend/edit_user.php:88
+msgid "Editor"
+msgstr "Editör"
+
+#: backend/users.php:90 backend/edit_profile.php:89
+msgid "Repeat Password"
+msgstr "Şifreyi Tekrar Girin"
+
+#: backend/users.php:97 backend/maps.php:63
+msgid "Create"
+msgstr "Oluştur"
+
+#: backend/edit_profile.php:14 backend/edit_user.php:35
+msgid "Account"
+msgstr "Hesap"
+
+#: backend/edit_profile.php:26 backend/edit_user.php:47 backend/edit_map.php:60
+msgid "Language"
+msgstr "Dil"
+
+#: backend/edit_profile.php:28 backend/edit_user.php:49 backend/edit_map.php:62
+#: backend/settings.php:195
+msgid "Default Language"
+msgstr "Varsayılan Dil"
+
+#: backend/edit_profile.php:64
+msgid "CHANGE"
+msgstr "Değiştirmek"
+
+#: backend/edit_profile.php:77 backend/edit_user.php:181
+msgid "Change Password"
+msgstr "Şifre Değiştir"
+
+#: backend/edit_profile.php:96 backend/edit_user.php:200
+msgid "Change"
+msgstr "Değiştir"
+
+#: backend/edit_user.php:95
+msgid "CHANGE PASSWORD"
+msgstr "Şifre Değiştir"
+
+#: backend/edit_user.php:116 backend/dashboard.php:35 backend/dashboard.php:68
+#: backend/sidebar.php:120 backend/topbar.php:18
+msgid "Maps"
+msgstr "Haritalar"
+
+#: backend/edit_user.php:131 backend/dashboard.php:50 backend/sidebar.php:125
+#: backend/topbar.php:26
+msgid "Markers"
+msgstr "Bağlantılar"
+
+#: backend/edit_user.php:147
+msgid "Assigned Maps"
+msgstr "Atanan Haritalar"
+
+#: backend/edit_user.php:153
+msgid "Assign"
+msgstr "Atama"
+
+#: backend/edit_user.php:154 backend/edit_map.php:328
+msgid "Map"
+msgstr "Konumu"
+
+#: backend/edit_user.php:155 backend/topbar.php:22
+msgid "Edit Map"
+msgstr "Haritayı Düzenle"
+
+#: backend/edit_user.php:156
+msgid "Create Markers"
+msgstr "İşaretçi Oluştur"
+
+#: backend/edit_user.php:157
+msgid "Edit Markers"
+msgstr "İşaretçileri Düzenle"
+
+#: backend/edit_user.php:158
+msgid "Delete Markers"
+msgstr "Işaretleri Sil"
+
+#: backend/edit_user.php:159 backend/sidebar.php:130 backend/topbar.php:52
+msgid "Connections"
+msgstr "Bağlantılar"
+
+#: backend/edit_user.php:160 backend/sidebar.php:135 backend/topbar.php:109
+msgid "Geometries"
+msgstr "geometriler"
+
+#: backend/edit_user.php:161 backend/sidebar.php:140 backend/edit_map.php:151
+#: backend/topbar.php:56
+msgid "Story"
+msgstr "Hikaye"
+
+#: backend/edit_user.php:162 backend/sidebar.php:146 backend/edit_map.php:115
+#: backend/topbar.php:60
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: backend/edit_user.php:163 backend/sidebar.php:151 backend/topbar.php:69
+msgid "Icons Library"
+msgstr "Simgeler Kitaplığı"
+
+#: backend/edit_user.php:164 backend/sidebar.php:156 backend/edit_map.php:169
+#: backend/topbar.php:73
+msgid "Reviews"
+msgstr "Yorumlar"
+
+#: backend/edit_user.php:165 backend/sidebar.php:167 backend/topbar.php:81
+msgid "Publish"
+msgstr "Yayınla"
+
+#: backend/edit_user.php:193
+msgid "Repeat password"
+msgstr "Şifreyi tekrar girin"
+
+#: backend/edit_user.php:211
+msgid "Delete User"
+msgstr "Kullanıcıyı Sil"
+
+#: backend/edit_user.php:214
+msgid "Are you sure you want to delete the user?"
+msgstr "Kullanıcıyı silmek istediğinizden emin misiniz?"
+
+#: backend/edit_user.php:215
+msgid "Attention: all the maps of that user will be deleted!"
+msgstr "Dikkat: Bu kullanıcının tüm haritaları silinecek!"
+
+#: backend/edit_user.php:218 backend/maps.php:80 backend/markers.php:91
+#: backend/edit_category.php:171
+msgid "Yes, Delete"
+msgstr "Evet, Sil"
+
+#: backend/markers_connections.php:25
+msgid "ADD CONNECTION"
+msgstr "BAĞLANTı EKLE"
+
+#: backend/markers_connections.php:37
+msgid "Line"
+msgstr "Çizgi"
+
+#: backend/markers_connections.php:54
+msgid "Add Connection"
+msgstr "Bağlantı Ekle"
+
+#: backend/markers_connections.php:76 backend/markers_connections.php:134
+msgid "Line Color"
+msgstr "Çizgi Rengi"
+
+#: backend/markers_connections.php:82 backend/markers_connections.php:140
+msgid "Line Width"
+msgstr "Hat genişliği"
+
+#: backend/markers_connections.php:88 backend/markers_connections.php:146
+msgid "Popup Title"
+msgstr "Popup Başlığı"
+
+#: backend/markers_connections.php:94 backend/markers_connections.php:152
+msgid "Popup Description"
+msgstr "Açılır Açıklama"
+
+#: backend/markers_connections.php:101 backend/story.php:100
+msgid "Yes, Add"
+msgstr "Evet, Ekle"
+
+#: backend/markers_connections.php:112
+msgid "Edit Connection"
+msgstr "Bağlantıyı düzenle"
+
+#: backend/markers_connections.php:159 backend/story.php:151
+msgid "Yes, Save"
+msgstr "Evet, Kaydet"
+
+#: backend/markers_connections.php:160 backend/story.php:152
+msgid "Delete"
+msgstr "Sil"
+
+#: backend/categories.php:25
+msgid "ADD CATEGORY"
+msgstr "KATEGORİ EKLE"
+
+#: backend/categories.php:37 backend/add_category.php:41
+#: backend/edit_category.php:69
+msgid "Default selected"
+msgstr "Varsayılan seçili"
+
+#: backend/dashboard.php:12
+#, php-format
+msgid ""
+"Welcome to %s configuration panel, where you can create your virtual tours "
+"in a few simple steps."
+msgstr ""
+"Sanal turlarınızı birkaç basit adımda oluşturabileceğiniz %s yapılandırma "
+"paneline hoş geldiniz."
+
+#: backend/dashboard.php:20
+msgid "Welcome"
+msgstr "Hoşgeldiniz"
+
+#: backend/dashboard.php:65
+msgid "Visitors N."
+msgstr "Ziyaretçi N."
+
+#: backend/dashboard.php:68
+#, php-format
+msgid "No maps created yet. Go to %s and create a new one!"
+msgstr "Henüz harita oluşturulmadı. %s gidin ve yeni bir tane oluşturun!"
+
+#: backend/dashboard.php:77
+msgid "Markers Count"
+msgstr "İşaretçi Sayısı"
+
+#: backend/publish.php:34
+msgid "Protection"
+msgstr "Koruma"
+
+#: backend/publish.php:45 backend/topbar.php:21 backend/topbar.php:46
+#: backend/topbar.php:64 backend/topbar.php:84 backend/topbar.php:99
+#: backend/topbar.php:104
+msgid "SAVE"
+msgstr "Kaydet"
+
+#: backend/publish.php:56
+msgid "Meta Tag"
+msgstr "Meta Etiketi"
+
+#: backend/publish.php:63
+msgid "Title"
+msgstr "Başlık"
+
+#: backend/publish.php:71
+msgid "Image"
+msgstr "Resim"
+
+#: backend/publish.php:73 backend/settings.php:109 backend/settings.php:147
+msgid "DELETE IMAGE"
+msgstr "Görüntüyü Sil"
+
+#: backend/publish.php:96 backend/sidebar.php:162 backend/topbar.php:77
+msgid "Preview"
+msgstr "Önizleme"
+
+#: backend/publish.php:129
+msgid "Share & Embed"
+msgstr "Paylaş & Embed"
+
+#: backend/publish.php:135 backend/settings.php:50
+msgid "Status"
+msgstr "Durum"
+
+#: backend/publish.php:136
+msgid "Activated"
+msgstr "Etkinleştirildi"
+
+#: backend/publish.php:136
+msgid "Deactivated"
+msgstr "Devredışı"
+
+#: backend/publish.php:139
+msgid "Show as first page"
+msgstr "İlk sayfa olarak göster"
+
+#: backend/publish.php:139
+msgid "only visible to administrators"
+msgstr "sadece yöneticiler görebilir"
+
+#: backend/publish.php:145
+msgid "Link"
+msgstr "Link"
+
+#: backend/publish.php:146
+msgid "Url variables"
+msgstr "Url değişkenleri"
+
+#: backend/publish.php:150 backend/publish.php:191 backend/edit_marker.php:54
+msgid "OPEN LINK"
+msgstr "LİNKİ AÇ"
+
+#: backend/publish.php:153 backend/publish.php:194 backend/publish.php:210
+#: backend/edit_marker.php:57
+msgid "COPY TO CLIPBOARD"
+msgstr "PANOYA KOPYALA"
+
+#: backend/publish.php:156 backend/publish.php:197 backend/edit_marker.php:60
+msgid "QR CODE"
+msgstr "QR KOD"
+
+#: backend/publish.php:184
+msgid "Friendly Link"
+msgstr "Dost Bağlantı"
+
+#: backend/publish.php:206
+msgid "Embed Code"
+msgstr "Embed Kodu"
+
+#: backend/publish.php:227 backend/edit_marker.php:671
+msgid "QR Code"
+msgstr "QR Kodu"
+
+#: backend/maps.php:16
+msgid "CREATE NEW MAP"
+msgstr "Yeni Harita"
+
+#: backend/maps.php:32
+msgid "LOADING MAPS"
+msgstr "Haritalar Yükleniyor…"
+
+#: backend/maps.php:50
+msgid "New Map"
+msgstr "Yeni Harita"
+
+#: backend/maps.php:74
+msgid "Delete Map"
+msgstr "Haritayı Sil"
+
+#: backend/maps.php:77
+msgid ""
+"Are you sure you want to delete the entire map, included all the markers?"
+msgstr ""
+"Tüm işaretleyicileri içeren tüm haritayı silmek istediğinizden emin misiniz?"
+
+#: backend/maps.php:91
+msgid "Duplicate Map"
+msgstr "Yinelenen Eşleme"
+
+#: backend/maps.php:94
+msgid ""
+"Are you sure you want to duplicate the entire map, included all the markers?"
+msgstr ""
+"Tüm işaretleyicileri içeren tüm haritayı çoğaltmak istediğinizden emin "
+"misiniz?"
+
+#: backend/maps.php:97 backend/markers.php:108
+msgid "Yes, Duplicate"
+msgstr "Evet, Sil"
+
+#: backend/sidebar.php:96
+msgid "DEMO MODE"
+msgstr "DEMO MODU"
+
+#: backend/sidebar.php:96
+msgid "ADD / SAVE features are disabled."
+msgstr "EKLE / KAYDET özellikleri devre dışı bırakılır."
+
+#: backend/sidebar.php:109 backend/topbar.php:11
+msgid "Dashboard"
+msgstr "Kontrol Paneli"
+
+#: backend/sidebar.php:114 backend/topbar.php:15
+msgid "Statistics"
+msgstr "İstatistikler"
+
+#: backend/sidebar.php:174 backend/edit_map.php:40 backend/topbar.php:85
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: backend/sidebar.php:179 backend/topbar.php:88
+msgid "Upgrade"
+msgstr "Yükselt"
+
+#: backend/sidebar.php:184 backend/topbar.php:91
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: backend/statistics.php:17
+msgid "Map Accesses"
+msgstr "Harita Erişimleri"
+
+#: backend/statistics.php:27
+msgid "Marker views"
+msgstr "İşaretçi görünümleri"
+
+#: backend/statistics.php:48
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+#: backend/statistics.php:49
+msgid "January"
+msgstr "Ocak"
+
+#: backend/statistics.php:49
+msgid "February"
+msgstr "Şubat"
+
+#: backend/statistics.php:49
+msgid "March"
+msgstr "Mart"
+
+#: backend/statistics.php:49
+msgid "April"
+msgstr "Nisan"
+
+#: backend/statistics.php:49
+msgid "May"
+msgstr "Mayıs"
+
+#: backend/statistics.php:49
+msgid "June"
+msgstr "Haziran"
+
+#: backend/statistics.php:49
+msgid "July"
+msgstr "Temmuz"
+
+#: backend/statistics.php:49
+msgid "August"
+msgstr "Ağustos"
+
+#: backend/statistics.php:49
+msgid "September"
+msgstr "Eylül"
+
+#: backend/statistics.php:49
+msgid "October"
+msgstr "Ekim"
+
+#: backend/statistics.php:49
+msgid "November"
+msgstr "Kasım"
+
+#: backend/statistics.php:49
+msgid "December"
+msgstr "Aralık"
+
+#: backend/statistics.php:50
+msgid "Sunday"
+msgstr "Pazar"
+
+#: backend/statistics.php:50
+msgid "Monday"
+msgstr "Pazartesi"
+
+#: backend/statistics.php:50
+msgid "Tuesday"
+msgstr "Salı"
+
+#: backend/statistics.php:50
+msgid "Wednesday"
+msgstr "Çarşamba"
+
+#: backend/statistics.php:50
+msgid "Thursday"
+msgstr "Perşembe"
+
+#: backend/statistics.php:50
+msgid "Friday"
+msgstr "Cuma"
+
+#: backend/statistics.php:50
+msgid "Saturday"
+msgstr "Cumartesi"
+
+#: backend/statistics.php:52
+msgid "Export"
+msgstr "Dışa Aktar"
+
+#: backend/statistics.php:53
+msgid "Import"
+msgstr "İçe Aktar"
+
+#: backend/statistics.php:54
+msgid "From"
+msgstr "Kimden"
+
+#: backend/statistics.php:55
+msgid "To"
+msgstr "Kime"
+
+#: backend/statistics.php:56
+msgid "Period"
+msgstr "Dönem"
+
+#: backend/statistics.php:57
+msgid "Download image PNG"
+msgstr "PNG resmi indir"
+
+#: backend/statistics.php:58
+msgid "Download image JPEG"
+msgstr "Resmi JPEG olarak indir"
+
+#: backend/statistics.php:59
+msgid "Download document PDF"
+msgstr "Belge PDF'sini indir"
+
+#: backend/statistics.php:60
+msgid "Download image SVG"
+msgstr "Resim SVG'sini indir"
+
+#: backend/statistics.php:61
+msgid "Print"
+msgstr "Yazdır"
+
+#: backend/edit_map.php:52
+msgid "User"
+msgstr "Kullanıcı"
+
+#: backend/edit_map.php:52
+msgid "owner of the map"
+msgstr "haritanın sahibi"
+
+#: backend/edit_map.php:97
+msgid "enable the search box in the map"
+msgstr "haritada arama kutusunu etkinleştir"
+
+#: backend/edit_map.php:103
+msgid "Search Locations"
+msgstr "Konum Ara"
+
+#: backend/edit_map.php:103
+msgid "enables the search for a location / city"
+msgstr "bir yer / şehir aramasını sağlar"
+
+#: backend/edit_map.php:109
+msgid "List"
+msgstr "Liste"
+
+#: backend/edit_map.php:109
+msgid "enables the list of markers in the map"
+msgstr "haritadaki işaretçilerin listesini etkinleştirir"
+
+#: backend/edit_map.php:115
+msgid "enable the category filter in the map"
+msgstr "haritada kategori filtresini etkinleştir"
+
+#: backend/edit_map.php:121
+msgid "Auto show List"
+msgstr "Otomatik gösteri listesi"
+
+#: backend/edit_map.php:121
+msgid "automatically open the marker's list at first map loading"
+msgstr "ilk harita yüklemesinde işaretleyicinin listesini otomatik olarak açma"
+
+#: backend/edit_map.php:127
+msgid "Auto show Categories"
+msgstr "Kategorileri otomatik göster"
+
+#: backend/edit_map.php:127
+msgid "automatically open the categories filter"
+msgstr "kategoriler filtresini otomatik olarak aç"
+
+#: backend/edit_map.php:133
+msgid "Auto show My Location"
+msgstr "Konumumu otomatik göster"
+
+#: backend/edit_map.php:133
+msgid "automatically geolocate and show the location"
+msgstr "otomatik olarak coğrafi konum belirleme ve konumu gösterme"
+
+#: backend/edit_map.php:139
+msgid "Sheet Details"
+msgstr "Sayfa Ayrıntıları"
+
+#: backend/edit_map.php:139
+msgid "enable sheet detail when click on markers"
+msgstr "işaretçilere tıklandığında sayfa ayrıntısını etkinleştir"
+
+#: backend/edit_map.php:145
+msgid "Control Arrows Markers"
+msgstr "Kontrol Okları İşaretçileri"
+
+#: backend/edit_map.php:145
+msgid "show controls arrows to loop through the markers"
+msgstr "işaretçiler arasında dolaşmak için kontrol oklarını göster"
+
+#: backend/edit_map.php:151
+msgid "enables the story feature in the map"
+msgstr "haritada hikaye özelliğini etkinleştirir"
+
+#: backend/edit_map.php:157
+msgid "enable the button 'directions' for markers"
+msgstr "işaretçiler için 'yol tarifi' düğmesini etkinleştirin"
+
+#: backend/edit_map.php:163
+msgid "enable the button 'street view' for markers"
+msgstr "işaretçiler için 'sokak görünümü' düğmesini etkinleştirin"
+
+#: backend/edit_map.php:169
+msgid "enable the reviews for markers"
+msgstr "işaretçiler için incelemeleri etkinleştir"
+
+#: backend/edit_map.php:175
+msgid "enable share buttons for markers"
+msgstr "işaretçiler için paylaşım düğmelerini etkinleştir"
+
+#: backend/edit_map.php:181
+msgid "Add Markers from Map"
+msgstr "Haritadan İşaretler Ekle"
+
+#: backend/edit_map.php:181
+msgid "enables adding markers directly from the map"
+msgstr "doğrudan haritadan işaretçi eklemeyi sağlar"
+
+#: backend/edit_map.php:183 backend/edit_map.php:262 backend/edit_map.php:426
+msgid "Disabled"
+msgstr "Devre dışı"
+
+#: backend/edit_map.php:184 backend/edit_map.php:427
+msgid "Enabled"
+msgstr "Etkin"
+
+#: backend/edit_map.php:185
+msgid "Enabled (Automatic Approval)"
+msgstr "Etkin (Otomatik Onay)"
+
+#: backend/edit_map.php:191
+msgid "Density color"
+msgstr "Yoğunluk rengi"
+
+#: backend/edit_map.php:191
+msgid "displays different colors based on the density of marker grouping"
+msgstr "işaretçi gruplandırmasının yoğunluğuna göre farklı renkler görüntüler"
+
+#: backend/edit_map.php:197
+msgid "Density Color Tolerance"
+msgstr "Yoğunluk Renk Toleransı"
+
+#: backend/edit_map.php:197
+msgid "tolerance to color the grouped markers"
+msgstr "gruplandırılmış işaretçileri renklendirme toleransı"
+
+#: backend/edit_map.php:203
+msgid "Density Distance"
+msgstr "Yoğunluk Mesafesi"
+
+#: backend/edit_map.php:203
+msgid ""
+"distance in pixels within which features will be clustered together. 0 to "
+"disable clustering"
+msgstr ""
+"özelliklerin birlikte kümelendirileceği piksel cinsinden mesafe. Kümelemeyi "
+"devre dışı bırakmak için 0"
+
+#: backend/edit_map.php:209
+msgid "Initial Zoom"
+msgstr "İlk Yakınlaştırma"
+
+#: backend/edit_map.php:209
+msgid "initial zoom when the map is loaded (1 far - 20 near)"
+msgstr "harita yüklendiğinde ilk yakınlaştırma (1 uzak - 20 yakın)"
+
+#: backend/edit_map.php:211
+msgid "Fit Markers"
+msgstr "Sığdırıcı İşaretçileri"
+
+#: backend/edit_map.php:226
+msgid "Marker Zoom"
+msgstr "İşaretçi Yakınlaştırma"
+
+#: backend/edit_map.php:226
+msgid "zoom level when the marker is clicked (1 far - 20 near)"
+msgstr "işaretçi tıklandığında yakınlaştırma düzeyi (1 uzak - 20 yakın)"
+
+#: backend/edit_map.php:228 backend/edit_map.php:245
+msgid "No change"
+msgstr "Değişiklik yok"
+
+#: backend/edit_map.php:243
+msgid "My Location Zoom"
+msgstr "Konumum Yakınlaştır"
+
+#: backend/edit_map.php:243
+msgid "zoom level when enabling geolocation (1 far - 20 near)"
+msgstr ""
+"coğrafi konumu etkinleştirirken yakınlaştırma düzeyi (1 uzak - 20 yakın)"
+
+#: backend/edit_map.php:260
+msgid "Highlight Markers (Search)"
+msgstr "İşaretçileri Vurgula (Ara)"
+
+#: backend/edit_map.php:260
+msgid ""
+"highlights the position of the marker when you hover over the search results "
+"(1 far - 20 near)"
+msgstr ""
+"arama sonuçlarının üzerine geldiğinizde işaretçinin konumunu vurgular (1 "
+"uzak - 20 yakın)"
+
+#: backend/edit_map.php:263
+msgid "Keep Zoom Level"
+msgstr "Yakınlaştırma Düzeyini Koru"
+
+#: backend/edit_map.php:278
+msgid "Markers Order by"
+msgstr "İşaretleyiciler Sıralama ölçütü"
+
+#: backend/edit_map.php:280
+msgid "Priority"
+msgstr "Öncelik"
+
+#: backend/edit_map.php:288
+msgid "Categories Filter Type"
+msgstr "Kategoriler Filtre Tipi"
+
+#: backend/edit_map.php:290
+msgid "OR"
+msgstr "VEYA"
+
+#: backend/edit_map.php:291
+msgid "AND"
+msgstr "VE"
+
+#: backend/edit_map.php:297
+msgid "Quality"
+msgstr "Kalite"
+
+#: backend/edit_map.php:297
+msgid "map quality (high can slow movement)"
+msgstr "harita kalitesi (yüksek hareketi yavaşlatabilir)"
+
+#: backend/edit_map.php:299
+msgid "Low"
+msgstr "Düşük"
+
+#: backend/edit_map.php:300
+msgid "Medium"
+msgstr "Orta"
+
+#: backend/edit_map.php:301
+msgid "High"
+msgstr "Yüksek"
+
+#: backend/edit_map.php:307
+msgid "Weather"
+msgstr "Hava Durumu"
+
+#: backend/edit_map.php:310
+msgid "Celsius"
+msgstr "Selsius"
+
+#: backend/edit_map.php:311
+msgid "Fahrenheit"
+msgstr "Fahrenhayt"
+
+#: backend/edit_map.php:317
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: backend/edit_map.php:317
+msgid ""
+"Google Analytics Tracking ID. Note: Use the Friendly URL in Google "
+"Analytics's property url setting."
+msgstr ""
+"Google Analytics İzleme Kimliği. Not: Google Analytics'in tesis URL'si "
+"ayarındaki Kolay URL'yi kullanın."
+
+#: backend/edit_map.php:369
+msgid "only needed if map style is different from default or custom version"
+msgstr ""
+"Yalnızca eşleme stili varsayılan veya özel sürümden farklıysa gereklidir"
+
+#: backend/edit_map.php:377
+msgid "Street Url"
+msgstr "Sokak Url'si"
+
+#: backend/edit_map.php:383
+msgid "Street Max Zoom"
+msgstr "Sokak Max Zoom"
+
+#: backend/edit_map.php:389
+msgid "Street Attributions"
+msgstr "Sokak Nitelikleri"
+
+#: backend/edit_map.php:395
+msgid "Satellite Url"
+msgstr "Uydu Url'si"
+
+#: backend/edit_map.php:401
+msgid "Satellite Max Zoom"
+msgstr "Uydu Maksimum Yakınlaştırma"
+
+#: backend/edit_map.php:407
+msgid "Satellite Attributions"
+msgstr "Uydu Öznitelikleri"
+
+#: backend/edit_map.php:415
+msgid "Default view"
+msgstr "Varsayılan görünüm"
+
+#: backend/edit_map.php:418
+msgid "Satellite"
+msgstr "Uydu"
+
+#: backend/edit_map.php:424
+msgid "Globe view"
+msgstr "Küre görünümü"
+
+#: backend/edit_map.php:428
+msgid "Enabled (autostart)"
+msgstr "Etkin (otomatik başlatma)"
+
+#: backend/edit_map.php:445
+msgid "Main color"
+msgstr "Ana renk"
+
+#: backend/edit_map.php:451
+msgid "Font Viewer"
+msgstr "Yazı Tipi Görüntüleyicisi"
+
+#: backend/edit_map.php:459 backend/settings.php:104
+msgid "Logo"
+msgstr "Logo"
+
+#: backend/edit_map.php:467
+msgid "DELETE LOGO"
+msgstr "LOGOYU SIL"
+
+#: backend/edit_map.php:479 backend/settings.php:124
+msgid "Upload Logo Image"
+msgstr "Logo Resmini Yükle"
+
+#: backend/edit_map.php:500
+msgid "Markers Icon"
+msgstr "İşaretçiler Simgesi"
+
+#: backend/edit_map.php:505
+msgid "Default Markers Icon Type"
+msgstr "Varsayılan İşaretleyiciler Simge Türü"
+
+#: backend/edit_map.php:515 backend/edit_map.php:525
+msgid "Default Markers Icon"
+msgstr "Varsayılan İşaretçiler Simgesi"
+
+#: backend/edit_map.php:533
+msgid "Default Markers Icon Background"
+msgstr "Varsayılan İşaretleyiciler Simge Arka Planı"
+
+#: backend/edit_map.php:539
+msgid "Default Markers Icon Color"
+msgstr "Varsayılan İşaretleyiciler Simge Rengi"
+
+#: backend/edit_map.php:545
+msgid "Default Markers Size"
+msgstr "Varsayılan İşaretleyici Boyutu"
+
+#: backend/edit_map.php:551 backend/edit_category.php:136
+msgid "ASSIGN ICON TO"
+msgstr "SİMGE ATAMA"
+
+#: backend/edit_map.php:563
+msgid "Link or upload Json"
+msgstr "Json'u bağlayın veya yükleyin"
+
+#: backend/edit_map.php:576
+msgid "Upload Json"
+msgstr "Json'u Yükle"
+
+#: backend/settings.php:16 backend/updater.php:43
+msgid "It looks like that you do not have permission to access this page"
+msgstr "Bu sayfaya erişim izniniz yok."
+
+#: backend/settings.php:24
+msgid "Please enter a valid purchase code to continue using the application."
+msgstr ""
+"Uygulamayı kullanmaya devam etmek için lütfen geçerli bir satın alma kodu "
+"girin."
+
+#: backend/settings.php:33
+msgid "License"
+msgstr "Lisans"
+
+#: backend/settings.php:39
+msgid "Purchase Code"
+msgstr "Satın Alma Kodu"
+
+#: backend/settings.php:39
+msgid "Where i can find it?"
+msgstr "Nerede bulabilirim?"
+
+#: backend/settings.php:46
+msgid "CHECK"
+msgstr "Kontrol"
+
+#: backend/settings.php:75
+msgid "Branding"
+msgstr "Marka"
+
+#: backend/settings.php:81
+msgid "Application Name"
+msgstr "Uygulama Adı"
+
+#: backend/settings.php:87
+msgid "Theme Color"
+msgstr "Tema Rengi"
+
+#: backend/settings.php:93
+msgid "Font Backend"
+msgstr "Yazı Tipi Arka Ucu"
+
+#: backend/settings.php:99
+msgid "Welcome Message"
+msgstr "Hoş Geldiniz Mesajı"
+
+#: backend/settings.php:99
+msgid "leave empty for default welcome message"
+msgstr "varsayılan hoş geldiniz iletisi için boş bırakma"
+
+#: backend/settings.php:118 backend/settings.php:156
+msgid "Choose file"
+msgstr "Dosya seçin"
+
+#: backend/settings.php:142
+msgid "Login image"
+msgstr "Giriş görüntüsü"
+
+#: backend/settings.php:162
+msgid "Upload Login Image"
+msgstr "Giriş Resmini Yükle"
+
+#: backend/settings.php:189
+msgid "Localization"
+msgstr "Lokalizasyon"
+
+#: backend/settings.php:231
+msgid "Translation Type"
+msgstr "Çeviri Türü"
+
+#: backend/settings.php:240
+msgid "Languages Enabled"
+msgstr "Etkinleştirilmiş Diller"
+
+#: backend/settings.php:241
+msgid "items selected"
+msgstr "öge seçildi"
+
+#: backend/settings.php:241
+msgid "Deselect All"
+msgstr "Hepsini Seçimden Çıkar"
+
+#: backend/settings.php:241
+msgid "Select All"
+msgstr "Tümünü Seç"
+
+#: backend/settings.php:241
+msgid "Nothing selected"
+msgstr "Lütfen Seçiniz"
+
+#: backend/settings.php:241 backend/functions.php:677
+msgid "No results matched"
+msgstr "Eşleşen sonuç yok"
+
+#: backend/settings.php:296
+msgid "Footer"
+msgstr "Altbilgi"
+
+#: backend/settings.php:302
+msgid "Name Item 1"
+msgstr "Ad Öğesi 1"
+
+#: backend/settings.php:308
+msgid "Content Item 1"
+msgstr "İçerik Öğesi 1"
+
+#: backend/settings.php:308 backend/settings.php:323 backend/settings.php:338
+msgid "insert a textual content or a link to an external site"
+msgstr "metin içeriği veya dış siteye bağlantı ekleme"
+
+#: backend/settings.php:317
+msgid "Name Item 2"
+msgstr "Ad Öğesi 2"
+
+#: backend/settings.php:323
+msgid "Content Item 2"
+msgstr "İçerik Öğesi 2"
+
+#: backend/settings.php:332
+msgid "Name Item 3"
+msgstr "Ad Öğesi 3"
+
+#: backend/settings.php:338
+msgid "Content Item 3"
+msgstr "İçerik öğesi 3"
+
+#: backend/settings.php:352
+msgid "Custom Viewer CSS"
+msgstr "Özel Görüntüleyici CSS"
+
+#: backend/settings.php:358
+msgid "General (affects all maps)"
+msgstr "Genel (tüm haritaları etkiler)"
+
+#: backend/settings.php:376
+msgid "Custom Backend CSS"
+msgstr "Özel Backend CSS"
+
+#: backend/settings.php:489
+msgid "Choose"
+msgstr "Seç"
+
+#: backend/story.php:25
+msgid "ADD MARKER TO STORY"
+msgstr "HİKAYEYE İŞARET EKLEYİN"
+
+#: backend/story.php:37 backend/story.php:66 backend/story.php:117
+msgid "Zoom"
+msgstr "Yakınlaştır"
+
+#: backend/story.php:38 backend/markers.php:62
+msgid "Order"
+msgstr "Sipariş"
+
+#: backend/story.php:54
+msgid "Add Marker to Story"
+msgstr "Hikayeye İşaretçi Ekle"
+
+#: backend/story.php:111 backend/topbar.php:48
+msgid "Edit Marker"
+msgstr "İşareti Düzenle"
+
+#: backend/markers.php:27
+msgid "IMPORT EXCEL"
+msgstr "EXCEL'I IÇERI AKTARMA"
+
+#: backend/markers.php:32
+msgid "BULK SELETE"
+msgstr "TOPLU SELETE"
+
+#: backend/markers.php:38
+msgid "SELECTED MARKERS"
+msgstr "SEÇİLMİŞ İŞARETÇİLER"
+
+#: backend/markers.php:38
+msgid "select all"
+msgstr "tümünü seç"
+
+#: backend/markers.php:38
+msgid "deselect all"
+msgstr "hiçbirini seçme"
+
+#: backend/markers.php:41
+msgid "SELETE"
+msgstr "SELETE"
+
+#: backend/markers.php:57
+msgid "Address"
+msgstr "Adres"
+
+#: backend/markers.php:59 backend/edit_marker.php:113
+msgid "Validated"
+msgstr "Doğrulandı"
+
+#: backend/markers.php:60 backend/edit_marker.php:119
+msgid "Centered"
+msgstr "Ortalanmış"
+
+#: backend/markers.php:77
+msgid "export markers"
+msgstr "işaretleyicileri dışa aktarma"
+
+#: backend/markers.php:85
+msgid "Delete Marker"
+msgstr "Panorama Bağlantı Noktası Sil"
+
+#: backend/markers.php:88
+msgid "Are you sure you want to delete the marker?"
+msgstr "Bağlantıyı silmek istediğinizden emin misiniz?"
+
+#: backend/markers.php:102
+msgid "Duplicate Marker"
+msgstr "Yinelenen İşaretleyici"
+
+#: backend/markers.php:105
+msgid "Are you sure you want to duplicate the marker?"
+msgstr "İşaretçiyi çoğaltmak istediğinizden emin misiniz?"
+
+#: backend/add_category.php:7
+msgid "ADD CATEGOR"
+msgstr "KATEGORI EKLE"
+
+#: backend/add_category.php:32 backend/edit_category.php:60
+msgid "Parent Category"
+msgstr "Ana Kategori"
+
+#: backend/functions.php:558
+msgid "administrator"
+msgstr "Yönetici"
+
+#: backend/edit_category.php:29 backend/edit_marker.php:44
+msgid "Direct Link"
+msgstr "Direk link"
+
+#: backend/edit_category.php:83
+msgid "Markers Icons"
+msgstr "İşaretçi Simgeleri"
+
+#: backend/edit_category.php:129
+msgid "Size"
+msgstr "Boyut"
+
+#: backend/edit_category.php:165
+msgid "Delete Category"
+msgstr "Kategoriyi Sil"
+
+#: backend/edit_category.php:168
+msgid "Are you sure you want to delete the category?"
+msgstr "Bu kategoriyi silmek istediğinize emin misiniz?"
+
+#: backend/updater.php:52
+msgid "Version Check"
+msgstr "Sürüm Denetimi"
+
+#: backend/updater.php:57
+msgid "Current Version"
+msgstr "Mevcut sürüm"
+
+#: backend/updater.php:57
+msgid "Latest Version"
+msgstr "En son sürüm"
+
+#: backend/updater.php:61
+msgid "Changelog"
+msgstr "Değişiklikler"
+
+#: backend/updater.php:75
+msgid "Download and Update"
+msgstr "karşıdan yükle ve güncelleştir"
+
+#: backend/updater.php:83
+msgid "Can't upgrade, please enable php zip extension."
+msgstr "Yükseltilemiyor, lütfen php zip uzantısını etkinleştirin."
+
+#: backend/updater.php:91
+msgid ""
+"Be sure to perform a full manual backup of your current files and database "
+"before upgrading."
+msgstr ""
+"Yükseltmeden önce geçerli dosyalarınızın ve veritabanınızın tam el ile "
+"yedeklemesini gerçekleştirdiğinizden emin olun."
+
+#: backend/updater.php:94
+msgid "I made the backup, continue"
+msgstr "Yedeklemeyi ben yaptım, devam et."
+
+#: backend/updater.php:100
+msgid "UPGRADE NOW!"
+msgstr "ŞİmDİ YÜKSELT!"
+
+#: backend/updater.php:103
+msgid "click upgrade now to start"
+msgstr "başlatmak için şimdi yükselt'i tıklatın"
+
+#: backend/updater.php:134
+msgid "downloading ..."
+msgstr "Indiriyor..."
+
+#: backend/updater.php:150 backend/updater.php:157 backend/updater.php:181
+#: backend/updater.php:188
+msgid "error, please retry"
+msgstr "hatasını verirseniz, lütfen yeniden deneyin"
+
+#: backend/updater.php:164
+msgid "installing ... do not close this window!"
+msgstr "Yükleme... Bu pencereyi kapatmayın!"
+
+#: backend/updater.php:174
+msgid "upgrade completed successfully, you will now be logged out in 5 seconds"
+msgstr ""
+"yükseltme başarıyla tamamlandı, şimdi 5 saniye içinde oturumunuz kapatılacak"
+
+#: backend/updater.php:198
+msgid "checking license"
+msgstr "kontrol lisansı"
+
+#: backend/updater.php:232
+msgid "invalid license, unable to update"
+msgstr "geçersiz lisans, güncellenemiyor"
+
+#: backend/import.php:61
+#, php-format
+msgid ""
+"Use %s template excel or the exported csv to import multiple markers at once."
+msgstr ""
+"Aynı anda birden çok işaretçi almak için excel veya dışa aktarılan csv "
+"şablonu %s kullanın."
+
+#: backend/import.php:61
+msgid "this"
+msgstr "bu"
+
+#: backend/import.php:71 backend/import.php:98
+msgid "Import Markers"
+msgstr "İçe Aktarma İşaretçileri"
+
+#: backend/import.php:104
+msgid "Ok"
+msgstr "Tamam"
+
+#: backend/import.php:160
+msgid "IMPORTING MARKERS ... DO NOT CLOSE THIS WINDOW!!!!"
+msgstr "İŞARETLEYICILER ALıNıYOR ... BU PENCEREYI KAPATMAYIN!!!!"
+
+#: backend/edit_marker.php:36
+msgid ""
+"This marker was added by a person outside the system. Check the data entered "
+"before approving it."
+msgstr ""
+"Bu işaret sistem dışından bir kişi tarafından eklenmiştir. Onaylamadan önce "
+"girilen verileri kontrol edin."
+
+#: backend/edit_marker.php:113
+msgid "it must be validated to be visible on the map"
+msgstr "haritada görünmesi için doğrulanması gerekir"
+
+#: backend/edit_marker.php:119
+msgid "center the map on this marker"
+msgstr "haritayı bu işaretçi üzerinde ortala"
+
+#: backend/topbar.php:36
+msgid "EDIT PREVIOUS MARKER"
+msgstr "ÖNCEKI İŞARETÇIYI DÜZENLE"
+
+#: backend/topbar.php:41
+msgid "EDIT NEXT MARKER"
+msgstr "SONRAKI İŞARETÇIYI DÜZENLE"
+
+#: backend/topbar.php:65
+msgid "Edit Category"
+msgstr "Kategoriyi Düzenle"
+
+#: backend/topbar.php:100
+msgid "Edit User"
+msgstr "Kullanıcıyı Düzenle"
+
+#: backend/topbar.php:105
+msgid "Edit Profile"
+msgstr "Profili Düzenle"
+
+#: backend/topbar.php:164
+msgid "Edit profile"
+msgstr "Profili Düzenle"
+
+#: backend/topbar.php:168 backend/topbar.php:188
+msgid "Logout"
+msgstr "Çıkış"
+
+#: backend/topbar.php:180
+msgid "Ready to Leave?"
+msgstr "Gitmeye Hazır mısın?"
+
+#: backend/topbar.php:185
+msgid "Select Logout below if you are ready to end your current session."
+msgstr "Geçerli oturumunuzu bitirmeye hazırsanız aşağıdaki Oturum'u seçin."
+
+#~ msgid "Select Category"
+#~ msgstr "Kategori seç"
+
+#~ msgid "REVIEWS"
+#~ msgstr "YORUMLAR"
+
+#~ msgid "ICONS LIBRARY"
+#~ msgstr "Simgeler"
+
+#~ msgid "USERS"
+#~ msgstr "Kullanıcılar"
+
+#~ msgid "EDIT PROFILE"
+#~ msgstr "Profili Düzenle"
+
+#~ msgid "EDIT USER"
+#~ msgstr "Üye Edit"
+
+#~ msgid "CONNECTIONS"
+#~ msgstr "BAĞLANTILAR"
+
+#~ msgid "CATEGORIES"
+#~ msgstr "Kategoriler"
+
+#~ msgid "DASHBOARD"
+#~ msgstr "Pano"
+
+#~ msgid "Password Protection"
+#~ msgstr "Parola Koruması"
+
+#~ msgid ""
+#~ "If you decide to protect your map with a password, at the first access it "
+#~ "will be required to visit it."
+#~ msgstr ""
+#~ "Haritanızı bir şifre ile korumaya karar verirseniz, ilk erişimde onu "
+#~ "ziyaret etmek gerekecektir."
+
+#~ msgid "PROTECT MAP"
+#~ msgstr "HARİTASI KORU"
+
+#~ msgid ""
+#~ "Your map is now protected with a password, click UNPROTECT to remove it."
+#~ msgstr ""
+#~ "Haritanız artık bir parolayla korunuyor, kaldırmak için UNPROTECT'i "
+#~ "tıklatın."
+
+#~ msgid "UNPROTECT MAP"
+#~ msgstr "HARITAYı KORUMAYı KALDıR"
+
+#~ msgid "Current status"
+#~ msgstr "Geçerli durum"
+
+#~ msgid "DEACTIVATE"
+#~ msgstr "Pasif Yap"
+
+#~ msgid "ACTIVATE"
+#~ msgstr "Etkinleştir"
+
+#~ msgid "SET FRIENDLY URL"
+#~ msgstr "Özel URL Belirle"
+
+#~ msgid "Map Friendly Url Link"
+#~ msgstr "Harita Dostu Url Bağlantısı"
+
+#~ msgid "MAPS"
+#~ msgstr "Haritalar"
+
+#~ msgid "STATISTICS"
+#~ msgstr "İstatistikler"
+
+#~ msgid "EDIT MAP"
+#~ msgstr "Harita Düzenle"
+
+#~ msgid "SETTINGS"
+#~ msgstr "Ayarlar"
+
+#~ msgid "STORY"
+#~ msgstr "ÖYKÜ"
+
+#~ msgid "EDIT CATEGORY"
+#~ msgstr "KATEGORIYI DÜZENLE"
+
+#~ msgid "UPGRADE"
+#~ msgstr "YÜKSELTME"
+
+#~ msgid "End, Go back to the beginning"
+#~ msgstr "Bitir, Başa dön"
+
+#~ msgid "categories"
+#~ msgstr "kategoriler"
+
+#~ msgid "DEMO MODE: Add / Save functionality are disabled."
+#~ msgstr "DEMO MODU: Ekle / Kaydet işlevi devre dışı bırakılır."
+
+#~ msgid "Marker 1"
+#~ msgstr "İşaretçi 1"
+
+#~ msgid "Marker 2"
+#~ msgstr "İşaretçi 2"
+
+#~ msgid "enable reviews"
+#~ msgstr "yorumları etkinleştirme"
+
+#~ msgid "enable directions"
+#~ msgstr "yol tarifini etkinleştirme"
+
+#~ msgid "enable street view"
+#~ msgstr "sokak görünümünü etkinleştirme"
+
+#~ msgid "Pinned"
+#~ msgstr "Sabitlenmiş"
+
+#~ msgid "put on top of the marker's list"
+#~ msgstr "işaretleyicinin listesinin başına koymak"
+
+#~ msgid "Background Color"
+#~ msgstr "Arkaplan Rengi"
+
+#~ msgid "Color"
+#~ msgstr "Renk"
+
+#~ msgid "Library Icon"
+#~ msgstr "Kitaplık Simgesi"
+
+#~ msgid "1 zoomed in - 20 zoomed out"
+#~ msgstr "1 yakınlaştırılmış - 20 yakınlaştırılmış"

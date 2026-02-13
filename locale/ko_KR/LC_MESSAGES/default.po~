@@ -1,0 +1,2265 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Map Locator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-18 21:16+0100\n"
+"PO-Revision-Date: 2023-02-18 21:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: viewer/index.php:314
+msgid "This Map is password protected"
+msgstr "이 지도는 비밀번호로 보호되어 있습니다"
+
+#: viewer/index.php:315
+msgid "Input password"
+msgstr "비밀번호 입력"
+
+#: viewer/index.php:360
+msgid "add new marker"
+msgstr "새 마커 추가"
+
+#: viewer/index.php:364
+msgid "click on the map and place your marker"
+msgstr "지도를 클릭하고 마커를 배치하십시오"
+
+#: viewer/index.php:367
+msgid "drag the marker to adjust the position"
+msgstr "마커를 드래그하여 위치 조정"
+
+#: viewer/index.php:367
+msgid "confirm"
+msgstr "확인"
+
+#: viewer/index.php:378
+msgid "DIRECTIONS"
+msgstr "지도"
+
+#: viewer/index.php:379
+msgid "STREET VIEW"
+msgstr "스트리트 뷰"
+
+#: viewer/index.php:380
+msgid "WRITE A REVIEW"
+msgstr "리뷰를 작성"
+
+#: viewer/index.php:440
+msgid "Average Rating"
+msgstr "평점"
+
+#: viewer/index.php:494 backend/reviews.php:31 backend/add_marker.php:51
+#: backend/categories.php:36 backend/maps.php:56 backend/edit_map.php:46
+#: backend/edit_map.php:281 backend/markers.php:55 backend/add_category.php:26
+#: backend/edit_category.php:54 backend/edit_marker.php:101
+msgid "Name"
+msgstr "이름"
+
+#: viewer/index.php:497 backend/markers.php:44
+msgid "CANCEL"
+msgstr "취소"
+
+#: viewer/index.php:498 backend/add_marker.php:37 backend/add_category.php:12
+msgid "ADD"
+msgstr "추가"
+
+#: viewer/index.php:504 backend/add_marker.php:243 backend/add_marker.php:293
+#: backend/edit_marker.php:305 backend/edit_marker.php:359
+msgid "Latitude"
+msgstr "위도"
+
+#: viewer/index.php:505 backend/add_marker.php:249 backend/add_marker.php:294
+#: backend/edit_marker.php:311 backend/edit_marker.php:360
+msgid "Longitude"
+msgstr "경도"
+
+#: viewer/index.php:519 backend/add_marker.php:101 backend/edit_map.php:417
+#: backend/edit_marker.php:163
+msgid "Street"
+msgstr "거리"
+
+#: viewer/index.php:525 backend/add_marker.php:107 backend/edit_map.php:282
+#: backend/edit_marker.php:169
+msgid "City"
+msgstr "도시"
+
+#: viewer/index.php:531 backend/add_marker.php:113 backend/edit_marker.php:175
+msgid "Postal Code"
+msgstr "우편 번호"
+
+#: viewer/index.php:537 backend/add_marker.php:119 backend/edit_marker.php:181
+msgid "Country"
+msgstr "국가"
+
+#: viewer/index.php:543
+msgid "Website"
+msgstr "웹사이트"
+
+#: viewer/index.php:549 backend/reviews.php:32 backend/add_marker.php:149
+#: backend/edit_marker.php:211
+msgid "E-mail"
+msgstr "이메일"
+
+#: viewer/index.php:555 backend/add_marker.php:137 backend/edit_marker.php:199
+msgid "Phone"
+msgstr "전화"
+
+#: viewer/index.php:561 backend/add_marker.php:143 backend/edit_marker.php:205
+msgid "Whatsapp"
+msgstr "왓츠앱"
+
+#: viewer/index.php:567 backend/add_marker.php:155 backend/edit_marker.php:217
+msgid "Hours"
+msgstr "시간"
+
+#: viewer/index.php:573 backend/add_marker.php:161 backend/publish.php:67
+#: backend/story.php:93 backend/story.php:144 backend/edit_marker.php:223
+msgid "Description"
+msgstr "설명"
+
+#: viewer/index.php:589
+msgid "delete images"
+msgstr "이미지 삭제"
+
+#: viewer/index.php:598
+msgid "Your Rating"
+msgstr "귀하의 평점"
+
+#: viewer/index.php:606
+msgid "Your Name"
+msgstr "이름"
+
+#: viewer/index.php:609
+msgid "Your Email Address (optional)"
+msgstr "귀하의 이메일 주소(선택 사항)"
+
+#: viewer/index.php:612
+msgid "Type your Review here"
+msgstr "여기에 리뷰를 입력하세요"
+
+#: viewer/index.php:616
+msgid "Type the code above"
+msgstr "위의 코드를 입력"
+
+#: viewer/index.php:619
+msgid "Submit"
+msgstr "제출"
+
+#: viewer/index.php:622
+msgid "Thanks for your review!"
+msgstr "검토해 주셔서 감사합니다!"
+
+#: viewer/index.php:625 backend/reviews.php:71 backend/users.php:126
+#: backend/edit_user.php:289 backend/edit_map.php:97 backend/markers.php:158
+msgid "Search"
+msgstr "검색"
+
+#: viewer/index.php:720
+msgid "Are you sure you want to CANCEL the request to insert this marker?"
+msgstr "이 마커 삽입 요청을 취소하시겠습니까?"
+
+#: viewer/index.php:721
+msgid "Are you sure you want to SEND the request to insert this marker?"
+msgstr "이 마커 삽입 요청을 보내시겠습니까?"
+
+#: viewer/index.php:722
+msgid ""
+"Thanks for inserting the marker! As soon as it is approved it will be "
+"visible on the map."
+msgstr "마커를 삽입해 주셔서 감사합니다! 승인되는 즉시 지도에 표시됩니다."
+
+#: viewer/index.php:723
+msgid "An error has occurred, please try again later."
+msgstr "오류가 발생하였습니다. 잠시 후 다시 시도 해주세요."
+
+#: viewer/index.php:724
+msgid "reset"
+msgstr "리셋"
+
+#: viewer/index.php:725
+msgid "Start, Scroll down"
+msgstr "시작, 아래로 스크롤"
+
+#: viewer/index.php:726
+msgid "End"
+msgstr "끝"
+
+#: viewer/index.php:727
+msgid "Searching"
+msgstr "찾는 중"
+
+#: viewer/index.php:728 backend/add_marker.php:692 backend/edit_map.php:653
+#: backend/edit_category.php:192 backend/edit_marker.php:801
+msgid "No results found."
+msgstr "결과를 발견하지 못했습니다."
+
+#: viewer/index.php:729
+msgid "Add New Marker"
+msgstr "새 마커 추가"
+
+#: viewer/index.php:730
+msgid "Do you want to use my position to add the marker?"
+msgstr "내 위치를 사용하여 마커를 추가하시겠습니까?"
+
+#: viewer/index.php:731 backend/publish.php:140
+msgid "No"
+msgstr "아니오"
+
+#: viewer/index.php:732 backend/publish.php:140
+msgid "Yes"
+msgstr "네"
+
+#: viewer/index.php:735
+msgid "Are you sure you want to insert this marker?"
+msgstr "이 마커를 삽입하시겠습니까?"
+
+#: viewer/index.php:736
+msgid "Thanks for inserting the marker! Please reload the map to view it."
+msgstr "마커를 삽입해 주셔서 감사합니다! 지도를 보려면 새로고침하세요."
+
+#: viewer/ajax/upload_new_marker_image.php:23
+msgid "Invalid image."
+msgstr "잘못된 이미지입니다."
+
+#: viewer/ajax/upload_new_marker_image.php:31
+#: backend/ajax/upload_marker_image.php:38
+#: backend/ajax/upload_b_logo_image.php:51
+#: backend/ajax/upload_b_background_image.php:43
+msgid "Only jpg,png files are supported."
+msgstr "jpg,png 파일만 지원됩니다."
+
+#: viewer/ajax/upload_new_marker_image.php:35
+#: backend/ajax/upload_marker_image.php:42
+#: backend/ajax/upload_meta_image.php:69 backend/ajax/upload_file.php:32
+#: backend/ajax/upload_logo_image.php:41 backend/ajax/upload_icon_image.php:72
+#: backend/ajax/upload_b_logo_image.php:55
+#: backend/ajax/upload_b_background_image.php:47
+#: backend/ajax/upload_geojson.php:41
+msgid "File not provided."
+msgstr "파일이 제공되지 않았습니다."
+
+#: backend/login.php:68 backend/topbar.php:124
+msgid "Arabic"
+msgstr "아랍어"
+
+#: backend/login.php:69 backend/topbar.php:125
+msgid "Chinese Simplified"
+msgstr "중국어 간체"
+
+#: backend/login.php:70 backend/topbar.php:126
+msgid "Chinese Traditional (Hong Kong)"
+msgstr "중국어 번체(홍콩)"
+
+#: backend/login.php:71 backend/topbar.php:127
+msgid "Chinese Traditional (Taiwan)"
+msgstr "중국어 번체(대만)"
+
+#: backend/login.php:72 backend/topbar.php:128
+msgid "Czech"
+msgstr "체코어"
+
+#: backend/login.php:73 backend/topbar.php:129
+msgid "Dutch"
+msgstr "네덜란드어"
+
+#: backend/login.php:74 backend/topbar.php:130
+msgid "English"
+msgstr "영어"
+
+#: backend/login.php:75 backend/topbar.php:131
+msgid "Filipino"
+msgstr "필리핀어"
+
+#: backend/login.php:76 backend/topbar.php:132
+msgid "French"
+msgstr "프랑스어"
+
+#: backend/login.php:77 backend/topbar.php:133
+msgid "German"
+msgstr "독일어"
+
+#: backend/login.php:78 backend/topbar.php:134
+msgid "Hindi"
+msgstr "힌디 어 (हिंदी)"
+
+#: backend/login.php:79 backend/topbar.php:135
+msgid "Hungarian"
+msgstr "헝가리어"
+
+#: backend/login.php:80 backend/topbar.php:136
+msgid "Kinyarwanda"
+msgstr "키냐르완다어"
+
+#: backend/login.php:81 backend/topbar.php:137
+msgid "Korean"
+msgstr "한국어"
+
+#: backend/login.php:82 backend/topbar.php:138
+msgid "Indonesian"
+msgstr "인도네시아어"
+
+#: backend/login.php:83 backend/topbar.php:139
+msgid "Italian"
+msgstr "이탈리아어"
+
+#: backend/login.php:84 backend/topbar.php:140
+msgid "Japanese"
+msgstr "일본어"
+
+#: backend/login.php:85 backend/topbar.php:141
+msgid "Persian"
+msgstr "페르시아어"
+
+#: backend/login.php:86 backend/topbar.php:142
+msgid "Polish"
+msgstr "폴란드어"
+
+#: backend/login.php:87 backend/topbar.php:143
+msgid "Portuguese Brazilian"
+msgstr "포르투갈어 브라질"
+
+#: backend/login.php:88 backend/topbar.php:144
+msgid "Portuguese European"
+msgstr "포르투갈어 유럽"
+
+#: backend/login.php:89 backend/topbar.php:145
+msgid "Spanish"
+msgstr "스페인어"
+
+#: backend/login.php:90 backend/topbar.php:146
+msgid "Romanian"
+msgstr "루마니아어"
+
+#: backend/login.php:91 backend/topbar.php:147
+msgid "Russian"
+msgstr "러시아어"
+
+#: backend/login.php:92 backend/topbar.php:148
+msgid "Swedish"
+msgstr "스웨덴어"
+
+#: backend/login.php:93 backend/topbar.php:149
+msgid "Tajik"
+msgstr "타지크어"
+
+#: backend/login.php:94 backend/topbar.php:150
+msgid "Thai"
+msgstr "태국어"
+
+#: backend/login.php:95 backend/topbar.php:151
+msgid "Turkish"
+msgstr "터키어"
+
+#: backend/login.php:96 backend/topbar.php:152
+msgid "Vietnamese"
+msgstr "베트남어"
+
+#: backend/login.php:100
+msgid "Welcome Back!"
+msgstr "다시 오신 것을 환영합니다!"
+
+#: backend/login.php:104 backend/users.php:44 backend/users.php:68
+#: backend/edit_profile.php:20 backend/edit_user.php:41
+msgid "Username"
+msgstr "아이디"
+
+#: backend/login.php:107 backend/users.php:84 backend/edit_profile.php:63
+#: backend/edit_profile.php:83 backend/edit_user.php:187 backend/publish.php:40
+msgid "Password"
+msgstr "비밀번호"
+
+#: backend/login.php:110
+msgid "Login"
+msgstr "로그인"
+
+#: backend/reviews.php:16 backend/icons_library.php:16 backend/draw.php:18
+#: backend/add_marker.php:25 backend/edit_user.php:22
+#: backend/markers_connections.php:17 backend/categories.php:17
+#: backend/publish.php:24 backend/edit_map.php:26 backend/settings.php:15
+#: backend/story.php:17 backend/edit_category.php:16 backend/updater.php:42
+#: backend/import.php:40 backend/edit_marker.php:24
+msgid "Permission denied"
+msgstr "사용 권한이 거부되었습니다."
+
+#: backend/reviews.php:17 backend/icons_library.php:17 backend/draw.php:19
+#: backend/add_marker.php:26 backend/edit_user.php:23
+#: backend/markers_connections.php:18 backend/categories.php:18
+#: backend/publish.php:25 backend/edit_map.php:27 backend/story.php:18
+#: backend/edit_category.php:17 backend/import.php:41
+#: backend/edit_marker.php:25
+msgid "It looks like you found a glitch in the matrix..."
+msgstr "매트릭스에서 결함을 발견한 것 같습니다..."
+
+#: backend/reviews.php:18 backend/icons_library.php:18 backend/draw.php:20
+#: backend/add_marker.php:27 backend/edit_user.php:24
+#: backend/markers_connections.php:19 backend/categories.php:19
+#: backend/publish.php:26 backend/edit_map.php:28 backend/settings.php:17
+#: backend/story.php:19 backend/edit_category.php:18 backend/updater.php:44
+#: backend/import.php:42 backend/edit_marker.php:26
+msgid "Back to Dashboard"
+msgstr "알림판으로 돌아가기"
+
+#: backend/reviews.php:29
+msgid "Date"
+msgstr "날짜"
+
+#: backend/reviews.php:30 backend/markers_connections.php:36
+#: backend/markers_connections.php:38 backend/markers_connections.php:60
+#: backend/markers_connections.php:68 backend/markers_connections.php:118
+#: backend/markers_connections.php:126 backend/story.php:36
+#: backend/story.php:60
+msgid "Marker"
+msgstr "마커"
+
+#: backend/reviews.php:33
+msgid "Rating"
+msgstr "평점"
+
+#: backend/reviews.php:34
+msgid "Comment"
+msgstr "댓글"
+
+#: backend/reviews.php:62 backend/users.php:117 backend/edit_user.php:280
+#: backend/markers.php:149
+msgid "No data available in table"
+msgstr "데이터가 없습니다"
+
+#: backend/reviews.php:63 backend/users.php:118 backend/edit_user.php:281
+#: backend/markers.php:150
+#, php-format
+msgid "Showing %s to %s of %s entries"
+msgstr "항목 %s개 중 %s~%s 표시"
+
+#: backend/reviews.php:64 backend/users.php:119 backend/edit_user.php:282
+#: backend/markers.php:151
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "0 중 0 에서 0 보기"
+
+#: backend/reviews.php:65 backend/users.php:120 backend/edit_user.php:283
+#: backend/markers.php:152
+#, php-format
+msgid "(filtered from %s total entries)"
+msgstr "(총 항목 %s개에서 필터링됨)"
+
+#: backend/reviews.php:68 backend/users.php:123 backend/edit_user.php:286
+#: backend/markers.php:155
+#, php-format
+msgid "Show %s entries"
+msgstr "%s명씩 보기"
+
+#: backend/reviews.php:69 backend/index.php:148 backend/users.php:124
+#: backend/edit_user.php:287 backend/markers.php:156
+msgid "Loading"
+msgstr "로딩중"
+
+#: backend/reviews.php:70 backend/users.php:125 backend/edit_user.php:288
+#: backend/markers.php:157
+msgid "Processing"
+msgstr "처리중"
+
+#: backend/reviews.php:72 backend/users.php:127 backend/edit_user.php:290
+#: backend/markers.php:159
+msgid "No matching records found"
+msgstr "일치하는 레코드가 없습니다."
+
+#: backend/reviews.php:74 backend/users.php:129 backend/edit_user.php:292
+#: backend/markers.php:161
+msgid "First"
+msgstr "처음"
+
+#: backend/reviews.php:75 backend/users.php:130 backend/edit_user.php:293
+#: backend/markers.php:162
+msgid "Last"
+msgstr "마지막"
+
+#: backend/reviews.php:76 backend/users.php:131 backend/edit_user.php:294
+#: backend/markers.php:163
+msgid "Next"
+msgstr "다음"
+
+#: backend/reviews.php:77 backend/users.php:132 backend/edit_user.php:295
+#: backend/markers.php:164
+msgid "Previous"
+msgstr "이전"
+
+#: backend/reviews.php:80 backend/users.php:135 backend/edit_user.php:298
+#: backend/markers.php:167
+msgid "activate to sort column ascending"
+msgstr "열을 오름차순 정렬하도록 활성화"
+
+#: backend/reviews.php:81 backend/users.php:136 backend/edit_user.php:299
+#: backend/markers.php:168
+msgid "activate to sort column descending"
+msgstr "열 내림차순 정렬을 활성화"
+
+#: backend/icons_library.php:35
+msgid "Icons List"
+msgstr "아이콘 리스트"
+
+#: backend/icons_library.php:39
+msgid "Loading icons"
+msgstr "로딩 아이콘"
+
+#: backend/index.php:146
+msgid "UPDATE IN PROGRESS"
+msgstr "업데이트 진행 중"
+
+#: backend/index.php:150
+msgid "Not close this window"
+msgstr "이 창을 닫지 않음"
+
+#: backend/index.php:198
+msgid "EDIT"
+msgstr "편집"
+
+#: backend/index.php:199
+msgid "PUBLISH"
+msgstr "발행"
+
+#: backend/index.php:200
+msgid "PREVIEW"
+msgstr "프리뷰"
+
+#: backend/index.php:201 backend/edit_map.php:551 backend/edit_category.php:136
+#: backend/import.php:47
+msgid "MARKERS"
+msgstr "마커"
+
+#: backend/index.php:202 backend/add_marker.php:358 backend/edit_marker.php:424
+#: backend/topbar.php:46 backend/topbar.php:64 backend/topbar.php:97
+msgid "DELETE"
+msgstr "삭제"
+
+#: backend/index.php:203
+msgid "DUPLICATE"
+msgstr "복제하다"
+
+#: backend/index.php:204
+msgid "MAIN IMAGE"
+msgstr "메인 이미지"
+
+#: backend/index.php:205 backend/add_marker.php:355 backend/edit_marker.php:421
+msgid "SET AS MAIN"
+msgstr "기본으로 설정"
+
+#: backend/index.php:206
+msgid "SEARCHING"
+msgstr "수색"
+
+#: backend/index.php:207 backend/add_marker.php:288 backend/edit_marker.php:354
+msgid "GET GPS POSITION"
+msgstr "GPS 위치 가져오기"
+
+#: backend/index.php:208
+msgid "No icon images in this library!"
+msgstr "이 라이브러리에는 아이콘 이미지가 없습니다!"
+
+#: backend/index.php:209
+msgid "Are you sure you want to delete?"
+msgstr "정말로 지우시겠습니까?"
+
+#: backend/index.php:210
+msgid "Are you sure you want to assign this icon to all the markers?"
+msgstr "이 아이콘을 모든 마커에 할당하시겠습니까?"
+
+#: backend/index.php:211
+msgid "copied"
+msgstr "복사"
+
+#: backend/add_marker.php:32 backend/markers.php:24
+msgid "ADD MARKER"
+msgstr "마커 추가"
+
+#: backend/add_marker.php:45 backend/add_category.php:20
+#: backend/edit_category.php:48 backend/edit_marker.php:95
+msgid "Details"
+msgstr "상세정보"
+
+#: backend/add_marker.php:57 backend/users.php:46 backend/edit_user.php:100
+#: backend/markers.php:58 backend/edit_marker.php:107
+msgid "Active"
+msgstr "활성"
+
+#: backend/add_marker.php:63 backend/markers.php:61 backend/edit_marker.php:125
+msgid "Featured"
+msgstr "추천"
+
+#: backend/add_marker.php:63 backend/edit_marker.php:125
+msgid "show this marker on featured list"
+msgstr "추천 목록에 이 마커 표시"
+
+#: backend/add_marker.php:69 backend/edit_map.php:157
+#: backend/edit_marker.php:131
+msgid "Directions"
+msgstr "지도"
+
+#: backend/add_marker.php:69 backend/edit_marker.php:131
+msgid "enable the button 'directions' for this marker"
+msgstr "이 마커에 대한 '길찾기' 버튼 활성화"
+
+#: backend/add_marker.php:75 backend/edit_map.php:163
+#: backend/edit_marker.php:137
+msgid "Street View"
+msgstr "거리 보기"
+
+#: backend/add_marker.php:75 backend/edit_marker.php:137
+msgid "enable the button 'street view' for this marker"
+msgstr "이 마커에 대해 '스트리트 뷰' 버튼 활성화"
+
+#: backend/add_marker.php:81 backend/edit_marker.php:143
+msgid "Review"
+msgstr "리뷰"
+
+#: backend/add_marker.php:81 backend/edit_marker.php:143
+msgid "enable the reviews for this marker"
+msgstr "이 마커에 대한 리뷰 활성화"
+
+#: backend/add_marker.php:87 backend/edit_map.php:175
+#: backend/edit_marker.php:149
+msgid "Share"
+msgstr "공유"
+
+#: backend/add_marker.php:87 backend/edit_marker.php:149
+msgid "enable share buttons for this marker"
+msgstr "이 마커에 대한 공유 버튼 활성화"
+
+#: backend/add_marker.php:93 backend/markers.php:56 backend/edit_marker.php:155
+msgid "Category"
+msgstr "카테고리"
+
+#: backend/add_marker.php:125 backend/edit_marker.php:187
+msgid "Website Link"
+msgstr "웹 사이트 링크"
+
+#: backend/add_marker.php:131 backend/edit_marker.php:193
+msgid "Website Name"
+msgstr "웹사이트 이름"
+
+#: backend/add_marker.php:175 backend/edit_map.php:440
+#: backend/edit_marker.php:237
+msgid "Style"
+msgstr "스타일"
+
+#: backend/add_marker.php:181 backend/edit_category.php:89
+#: backend/edit_marker.php:243
+msgid "Icon Type"
+msgstr "아이콘 유형"
+
+#: backend/add_marker.php:183 backend/edit_map.php:309 backend/edit_map.php:507
+#: backend/edit_category.php:91 backend/edit_marker.php:245
+msgid "None"
+msgstr "없음"
+
+#: backend/add_marker.php:184 backend/edit_map.php:508
+#: backend/edit_category.php:92 backend/edit_marker.php:246
+msgid "Default"
+msgstr "기본값"
+
+#: backend/add_marker.php:185 backend/edit_map.php:509
+#: backend/edit_category.php:93 backend/edit_marker.php:247
+msgid "Custom Icon Library"
+msgstr "사용자 정의 아이콘 라이브러리"
+
+#: backend/add_marker.php:191 backend/add_marker.php:201
+#: backend/edit_category.php:99 backend/edit_category.php:109
+#: backend/edit_marker.php:253 backend/edit_marker.php:263
+msgid "Icon"
+msgstr "아이콘"
+
+#: backend/add_marker.php:192 backend/add_marker.php:379
+#: backend/add_marker.php:419 backend/edit_map.php:516
+#: backend/edit_category.php:100 backend/edit_marker.php:254
+#: backend/edit_marker.php:445 backend/edit_marker.php:485
+msgid "Select Icon"
+msgstr "아이콘 선택"
+
+#: backend/add_marker.php:202 backend/edit_map.php:526
+#: backend/edit_category.php:110 backend/edit_marker.php:264
+msgid "Select Library Icon"
+msgstr "라이브러리 아이콘 선택"
+
+#: backend/add_marker.php:211 backend/edit_category.php:117
+#: backend/edit_marker.php:273
+msgid "Icon Background"
+msgstr "아이콘 백그라운드"
+
+#: backend/add_marker.php:217 backend/edit_category.php:123
+#: backend/edit_marker.php:279
+msgid "Icon Color"
+msgstr "아이콘 색상"
+
+#: backend/add_marker.php:223 backend/edit_marker.php:285
+msgid "Icon Size"
+msgstr "아이콘 사이즈"
+
+#: backend/add_marker.php:237 backend/edit_marker.php:299
+msgid "Position"
+msgstr "위치"
+
+#: backend/add_marker.php:255 backend/edit_marker.php:317
+msgid "Visible from Zoom Level"
+msgstr "확대/축소 수준에서 볼 수 있음"
+
+#: backend/add_marker.php:269 backend/edit_marker.php:335
+msgid "Geofence Radius"
+msgstr "지오펜스 반경"
+
+#: backend/add_marker.php:275 backend/edit_marker.php:341
+msgid "Geofence Color"
+msgstr "지오펜스 색상"
+
+#: backend/add_marker.php:282 backend/edit_marker.php:348
+msgid "ADDRESS"
+msgstr "주소"
+
+#: backend/add_marker.php:282 backend/edit_marker.php:348
+msgid "POSITION"
+msgstr "위치"
+
+#: backend/add_marker.php:285 backend/edit_marker.php:351
+msgid "SET POSITION"
+msgstr "위치 설정"
+
+#: backend/add_marker.php:295 backend/edit_marker.php:361
+msgid "Zoom Level"
+msgstr "확대 수준"
+
+#: backend/add_marker.php:296 backend/edit_marker.php:362
+msgid "click/drag on map to change marker's position"
+msgstr "지도에서 클릭/드래그하여 마커 위치 변경"
+
+#: backend/add_marker.php:307 backend/edit_marker.php:373
+msgid "Images"
+msgstr "이미지"
+
+#: backend/add_marker.php:321 backend/publish.php:81
+#: backend/edit_marker.php:387
+msgid "Upload Image"
+msgstr "이미지 업로드"
+
+#: backend/add_marker.php:347 backend/edit_marker.php:413
+msgid "Image Action"
+msgstr "이미지 액션"
+
+#: backend/add_marker.php:352 backend/edit_marker.php:418
+msgid "Select image first!"
+msgstr "먼저 이미지를 선택하세요!"
+
+#: backend/add_marker.php:370 backend/edit_marker.php:436
+msgid "Extra Button"
+msgstr "추가 버튼"
+
+#: backend/add_marker.php:378 backend/edit_marker.php:444
+msgid "Button Icon"
+msgstr "버튼 아이콘"
+
+#: backend/add_marker.php:388 backend/edit_marker.php:454
+msgid "Button Title"
+msgstr "버튼 제목"
+
+#: backend/add_marker.php:396 backend/edit_marker.php:462
+msgid "Custom Content"
+msgstr "사용자 콘텐츠"
+
+#: backend/add_marker.php:396 backend/add_marker.php:428
+#: backend/edit_map.php:369 backend/edit_marker.php:462
+#: backend/edit_marker.php:494
+msgid "link"
+msgstr "링크"
+
+#: backend/add_marker.php:396 backend/edit_marker.php:462
+msgid "embed link"
+msgstr "임베드 링크"
+
+#: backend/add_marker.php:396 backend/add_marker.php:428
+#: backend/edit_marker.php:462 backend/edit_marker.php:494
+msgid "text"
+msgstr "텍스트"
+
+#: backend/add_marker.php:410 backend/edit_marker.php:476
+msgid "Extra Fields"
+msgstr "추가 필드"
+
+#: backend/add_marker.php:418 backend/edit_marker.php:484
+msgid "Field Icon"
+msgstr "필드 아이콘"
+
+#: backend/add_marker.php:428 backend/edit_marker.php:494
+msgid "Field Value"
+msgstr "필드값"
+
+#: backend/add_marker.php:428 backend/edit_marker.php:494
+msgid "download"
+msgstr "다운로드"
+
+#: backend/add_marker.php:443 backend/edit_map.php:602
+#: backend/edit_category.php:149 backend/edit_marker.php:509
+msgid "Library Icons"
+msgstr "라이브러리 아이콘"
+
+#: backend/add_marker.php:449 backend/add_marker.php:476
+#: backend/add_marker.php:497 backend/add_marker.php:518
+#: backend/add_marker.php:539 backend/add_marker.php:595 backend/users.php:98
+#: backend/edit_profile.php:97 backend/edit_user.php:201
+#: backend/edit_user.php:219 backend/markers_connections.php:102
+#: backend/markers_connections.php:161 backend/publish.php:234
+#: backend/maps.php:64 backend/maps.php:81 backend/maps.php:98
+#: backend/edit_map.php:608 backend/story.php:101 backend/story.php:153
+#: backend/markers.php:92 backend/markers.php:109 backend/edit_category.php:155
+#: backend/edit_category.php:172 backend/edit_marker.php:515
+#: backend/edit_marker.php:542 backend/edit_marker.php:563
+#: backend/edit_marker.php:584 backend/edit_marker.php:605
+#: backend/edit_marker.php:661 backend/edit_marker.php:678
+msgid "Close"
+msgstr "닫기"
+
+#: backend/add_marker.php:462 backend/add_marker.php:552
+#: backend/edit_marker.php:528 backend/edit_marker.php:618
+msgid "Link Text"
+msgstr "링크 텍스트"
+
+#: backend/add_marker.php:468 backend/add_marker.php:489
+#: backend/add_marker.php:510 backend/add_marker.php:587
+#: backend/edit_marker.php:534 backend/edit_marker.php:555
+#: backend/edit_marker.php:576 backend/edit_marker.php:653
+msgid "URL"
+msgstr "URL"
+
+#: backend/add_marker.php:475 backend/add_marker.php:496
+#: backend/add_marker.php:517 backend/add_marker.php:538
+#: backend/add_marker.php:594 backend/edit_marker.php:541
+#: backend/edit_marker.php:562 backend/edit_marker.php:583
+#: backend/edit_marker.php:604 backend/edit_marker.php:660
+msgid "Insert"
+msgstr "삽입"
+
+#: backend/add_marker.php:531 backend/edit_marker.php:597
+msgid "Text"
+msgstr "텍스트"
+
+#: backend/add_marker.php:558 backend/edit_marker.php:624
+msgid "File"
+msgstr "파일"
+
+#: backend/add_marker.php:568 backend/edit_marker.php:634
+msgid "Upload File"
+msgstr "파일 업로드"
+
+#: backend/add_marker.php:689 backend/edit_map.php:650
+#: backend/edit_category.php:189 backend/edit_marker.php:798
+msgid "Search Icon"
+msgstr "검색 아이콘"
+
+#: backend/add_marker.php:690 backend/edit_map.php:651
+#: backend/edit_category.php:190 backend/edit_marker.php:799
+msgid "Show All"
+msgstr "모두 보기"
+
+#: backend/add_marker.php:691 backend/edit_map.php:652 backend/settings.php:488
+#: backend/edit_category.php:191 backend/edit_marker.php:800
+#: backend/topbar.php:187
+msgid "Cancel"
+msgstr "취소"
+
+#: backend/ajax/duplicate_marker.php:44 backend/ajax/duplicate_map.php:35
+msgid "duplicated"
+msgstr "복제 완료"
+
+#: backend/ajax/upload_meta_image.php:57
+msgid "Retry."
+msgstr "다시 해 보다."
+
+#: backend/ajax/upload_meta_image.php:65
+msgid "Only jpg,png,webp files are supported."
+msgstr "jpg,png,webp 파일만 지원됩니다."
+
+#: backend/ajax/upload_logo_image.php:37
+msgid "Only png files are supported."
+msgstr "png 파일만 지원됩니다."
+
+#: backend/ajax/save_profile.php:28
+msgid "Username already registered!"
+msgstr "사용자 이름이 이미 등록되었습니다!"
+
+#: backend/ajax/save_profile.php:57 backend/ajax/save_profile.php:60
+msgid "Error"
+msgstr "오류"
+
+#: backend/ajax/upload_geojson.php:37
+msgid "Only json, geojson files are supported."
+msgstr "json, geojson 파일만 지원됩니다."
+
+#: backend/users.php:20
+msgid "User's Role Permissions"
+msgstr "사용자의 역할 권한"
+
+#: backend/users.php:23
+msgid "ADMINISTRATOR"
+msgstr "관리자"
+
+#: backend/users.php:23
+msgid "manage users | manage maps of all users"
+msgstr "사용자 관리 | 모든 사용자의 지도 관리"
+
+#: backend/users.php:24
+msgid "EDITOR"
+msgstr "편집기"
+
+#: backend/users.php:24
+msgid "they only manage the maps that are associated with them"
+msgstr "그들은 그들과 관련된 지도만 관리합니다."
+
+#: backend/users.php:25
+msgid "CUSTOMER"
+msgstr "고객"
+
+#: backend/users.php:25
+msgid "they only manage their own maps"
+msgstr "그들은 자신의 지도만 관리합니다."
+
+#: backend/users.php:33
+msgid "ADD USER"
+msgstr "사용자 추가"
+
+#: backend/users.php:45 backend/users.php:74 backend/edit_user.php:84
+msgid "Role"
+msgstr "역할"
+
+#: backend/users.php:62
+msgid "New User"
+msgstr "새로운 사용자"
+
+#: backend/users.php:76 backend/edit_user.php:86
+msgid "Customer"
+msgstr "고객"
+
+#: backend/users.php:77 backend/edit_user.php:87
+msgid "Administrator"
+msgstr "관리자"
+
+#: backend/users.php:78 backend/edit_user.php:88
+msgid "Editor"
+msgstr "편집자"
+
+#: backend/users.php:90 backend/edit_profile.php:89
+msgid "Repeat Password"
+msgstr "암호 확인"
+
+#: backend/users.php:97 backend/maps.php:63
+msgid "Create"
+msgstr "생성"
+
+#: backend/edit_profile.php:14 backend/edit_user.php:35
+msgid "Account"
+msgstr "계정"
+
+#: backend/edit_profile.php:26 backend/edit_user.php:47 backend/edit_map.php:60
+msgid "Language"
+msgstr "언어"
+
+#: backend/edit_profile.php:28 backend/edit_user.php:49 backend/edit_map.php:62
+#: backend/settings.php:195
+msgid "Default Language"
+msgstr "기본 언어"
+
+#: backend/edit_profile.php:64
+msgid "CHANGE"
+msgstr "변화"
+
+#: backend/edit_profile.php:77 backend/edit_user.php:181
+msgid "Change Password"
+msgstr "비밀번호 변경"
+
+#: backend/edit_profile.php:96 backend/edit_user.php:200
+msgid "Change"
+msgstr "변경"
+
+#: backend/edit_user.php:95
+msgid "CHANGE PASSWORD"
+msgstr "비밀번호 변경"
+
+#: backend/edit_user.php:116 backend/dashboard.php:35 backend/dashboard.php:68
+#: backend/sidebar.php:120 backend/topbar.php:18
+msgid "Maps"
+msgstr "지도"
+
+#: backend/edit_user.php:131 backend/dashboard.php:50 backend/sidebar.php:125
+#: backend/topbar.php:26
+msgid "Markers"
+msgstr "마커"
+
+#: backend/edit_user.php:147
+msgid "Assigned Maps"
+msgstr "할당된 지도"
+
+#: backend/edit_user.php:153
+msgid "Assign"
+msgstr "할당"
+
+#: backend/edit_user.php:154 backend/edit_map.php:328
+msgid "Map"
+msgstr "지도"
+
+#: backend/edit_user.php:155 backend/topbar.php:22
+msgid "Edit Map"
+msgstr "지도 편집"
+
+#: backend/edit_user.php:156
+msgid "Create Markers"
+msgstr "마커 생성"
+
+#: backend/edit_user.php:157
+msgid "Edit Markers"
+msgstr "마커 편집"
+
+#: backend/edit_user.php:158
+msgid "Delete Markers"
+msgstr "마커 삭제"
+
+#: backend/edit_user.php:159 backend/sidebar.php:130 backend/topbar.php:52
+msgid "Connections"
+msgstr "연결"
+
+#: backend/edit_user.php:160 backend/sidebar.php:135 backend/topbar.php:109
+msgid "Geometries"
+msgstr "기하학"
+
+#: backend/edit_user.php:161 backend/sidebar.php:140 backend/edit_map.php:151
+#: backend/topbar.php:56
+msgid "Story"
+msgstr "스토리"
+
+#: backend/edit_user.php:162 backend/sidebar.php:146 backend/edit_map.php:115
+#: backend/topbar.php:60
+msgid "Categories"
+msgstr "카테고리"
+
+#: backend/edit_user.php:163 backend/sidebar.php:151 backend/topbar.php:69
+msgid "Icons Library"
+msgstr "아이콘 라이브러리"
+
+#: backend/edit_user.php:164 backend/sidebar.php:156 backend/edit_map.php:169
+#: backend/topbar.php:73
+msgid "Reviews"
+msgstr "리뷰"
+
+#: backend/edit_user.php:165 backend/sidebar.php:167 backend/topbar.php:81
+msgid "Publish"
+msgstr "발행"
+
+#: backend/edit_user.php:193
+msgid "Repeat password"
+msgstr "비밀번호 재확인"
+
+#: backend/edit_user.php:211
+msgid "Delete User"
+msgstr "사용자 삭제"
+
+#: backend/edit_user.php:214
+msgid "Are you sure you want to delete the user?"
+msgstr "사용자를 삭제하시겠습니까?"
+
+#: backend/edit_user.php:215
+msgid "Attention: all the maps of that user will be deleted!"
+msgstr "주의: 해당 사용자의 모든 지도가 삭제됩니다!"
+
+#: backend/edit_user.php:218 backend/maps.php:80 backend/markers.php:91
+#: backend/edit_category.php:171
+msgid "Yes, Delete"
+msgstr "예, 삭제"
+
+#: backend/markers_connections.php:25
+msgid "ADD CONNECTION"
+msgstr "연결 추가"
+
+#: backend/markers_connections.php:37
+msgid "Line"
+msgstr "라인"
+
+#: backend/markers_connections.php:54
+msgid "Add Connection"
+msgstr "연결 추가"
+
+#: backend/markers_connections.php:76 backend/markers_connections.php:134
+msgid "Line Color"
+msgstr "선 색상"
+
+#: backend/markers_connections.php:82 backend/markers_connections.php:140
+msgid "Line Width"
+msgstr "라인의 폭"
+
+#: backend/markers_connections.php:88 backend/markers_connections.php:146
+msgid "Popup Title"
+msgstr "팝업 제목"
+
+#: backend/markers_connections.php:94 backend/markers_connections.php:152
+msgid "Popup Description"
+msgstr "팝업 설명"
+
+#: backend/markers_connections.php:101 backend/story.php:100
+msgid "Yes, Add"
+msgstr "예, 추가"
+
+#: backend/markers_connections.php:112
+msgid "Edit Connection"
+msgstr "연결 편집"
+
+#: backend/markers_connections.php:159 backend/story.php:151
+msgid "Yes, Save"
+msgstr "예, 저장"
+
+#: backend/markers_connections.php:160 backend/story.php:152
+msgid "Delete"
+msgstr "삭제"
+
+#: backend/categories.php:25
+msgid "ADD CATEGORY"
+msgstr "카테고리 추가"
+
+#: backend/categories.php:37 backend/add_category.php:41
+#: backend/edit_category.php:69
+msgid "Default selected"
+msgstr "기본값이 선택됨"
+
+#: backend/dashboard.php:12
+#, php-format
+msgid ""
+"Welcome to %s configuration panel, where you can create your virtual tours "
+"in a few simple steps."
+msgstr ""
+"몇 가지 간단한 단계로 가상 둘러보기를 만들 수 있는 %s 구성 패널에 오신 것을 "
+"환영합니다."
+
+#: backend/dashboard.php:20
+msgid "Welcome"
+msgstr "환영합니다"
+
+#: backend/dashboard.php:65
+msgid "Visitors N."
+msgstr "방문자 N."
+
+#: backend/dashboard.php:68
+#, php-format
+msgid "No maps created yet. Go to %s and create a new one!"
+msgstr "아직 생성된 지도가 없습니다. %s(으)로 이동하여 새 계정을 만드세요!"
+
+#: backend/dashboard.php:77
+msgid "Markers Count"
+msgstr "마커 수"
+
+#: backend/publish.php:34
+msgid "Protection"
+msgstr "보호"
+
+#: backend/publish.php:45 backend/topbar.php:21 backend/topbar.php:46
+#: backend/topbar.php:64 backend/topbar.php:84 backend/topbar.php:99
+#: backend/topbar.php:104
+msgid "SAVE"
+msgstr "저장"
+
+#: backend/publish.php:56
+msgid "Meta Tag"
+msgstr "메타 태그"
+
+#: backend/publish.php:63
+msgid "Title"
+msgstr "제목"
+
+#: backend/publish.php:71
+msgid "Image"
+msgstr "이미지"
+
+#: backend/publish.php:73 backend/settings.php:109 backend/settings.php:147
+msgid "DELETE IMAGE"
+msgstr "이미지 삭제"
+
+#: backend/publish.php:96 backend/sidebar.php:162 backend/topbar.php:77
+msgid "Preview"
+msgstr "미리보기"
+
+#: backend/publish.php:129
+msgid "Share & Embed"
+msgstr "공유 및 삽입"
+
+#: backend/publish.php:135 backend/settings.php:50
+msgid "Status"
+msgstr "상태"
+
+#: backend/publish.php:136
+msgid "Activated"
+msgstr "활성화"
+
+#: backend/publish.php:136
+msgid "Deactivated"
+msgstr "비활성화"
+
+#: backend/publish.php:139
+msgid "Show as first page"
+msgstr "첫 페이지로 표시"
+
+#: backend/publish.php:139
+msgid "only visible to administrators"
+msgstr "관리자에게만 표시됨"
+
+#: backend/publish.php:145
+msgid "Link"
+msgstr "링크"
+
+#: backend/publish.php:146
+msgid "Url variables"
+msgstr "URL 변수"
+
+#: backend/publish.php:150 backend/publish.php:191 backend/edit_marker.php:54
+msgid "OPEN LINK"
+msgstr "링크 열기"
+
+#: backend/publish.php:153 backend/publish.php:194 backend/publish.php:210
+#: backend/edit_marker.php:57
+msgid "COPY TO CLIPBOARD"
+msgstr "클립 보드에 복사"
+
+#: backend/publish.php:156 backend/publish.php:197 backend/edit_marker.php:60
+msgid "QR CODE"
+msgstr "QR 코드"
+
+#: backend/publish.php:184
+msgid "Friendly Link"
+msgstr "친근한 링크"
+
+#: backend/publish.php:206
+msgid "Embed Code"
+msgstr "소스 코드"
+
+#: backend/publish.php:227 backend/edit_marker.php:671
+msgid "QR Code"
+msgstr "QR 코드"
+
+#: backend/maps.php:16
+msgid "CREATE NEW MAP"
+msgstr "새 지도 만들기"
+
+#: backend/maps.php:32
+msgid "LOADING MAPS"
+msgstr "지도 로드 중"
+
+#: backend/maps.php:50
+msgid "New Map"
+msgstr "새 지도"
+
+#: backend/maps.php:74
+msgid "Delete Map"
+msgstr "지도 삭제"
+
+#: backend/maps.php:77
+msgid ""
+"Are you sure you want to delete the entire map, included all the markers?"
+msgstr "모든 마커를 포함하여 전체 지도를 삭제하시겠습니까?"
+
+#: backend/maps.php:91
+msgid "Duplicate Map"
+msgstr "중복 맵"
+
+#: backend/maps.php:94
+msgid ""
+"Are you sure you want to duplicate the entire map, included all the markers?"
+msgstr "모든 마커를 포함하여 전체 지도를 복제하시겠습니까?"
+
+#: backend/maps.php:97 backend/markers.php:108
+msgid "Yes, Duplicate"
+msgstr "예, 중복"
+
+#: backend/sidebar.php:96
+msgid "DEMO MODE"
+msgstr "데모 모드"
+
+#: backend/sidebar.php:96
+msgid "ADD / SAVE features are disabled."
+msgstr "ADD/SAVE 기능을 사용할 수 없습니다."
+
+#: backend/sidebar.php:109 backend/topbar.php:11
+msgid "Dashboard"
+msgstr "대시보드"
+
+#: backend/sidebar.php:114 backend/topbar.php:15
+msgid "Statistics"
+msgstr "통계"
+
+#: backend/sidebar.php:174 backend/edit_map.php:40 backend/topbar.php:85
+msgid "Settings"
+msgstr "설정"
+
+#: backend/sidebar.php:179 backend/topbar.php:88
+msgid "Upgrade"
+msgstr "업그레이드"
+
+#: backend/sidebar.php:184 backend/topbar.php:91
+msgid "Users"
+msgstr "사용자"
+
+#: backend/statistics.php:17
+msgid "Map Accesses"
+msgstr "지도 액세스"
+
+#: backend/statistics.php:27
+msgid "Marker views"
+msgstr "마커 보기"
+
+#: backend/statistics.php:48
+msgid "Loading..."
+msgstr "로딩 중..."
+
+#: backend/statistics.php:49
+msgid "January"
+msgstr "1월"
+
+#: backend/statistics.php:49
+msgid "February"
+msgstr "2월"
+
+#: backend/statistics.php:49
+msgid "March"
+msgstr "3월"
+
+#: backend/statistics.php:49
+msgid "April"
+msgstr "4월"
+
+#: backend/statistics.php:49
+msgid "May"
+msgstr "5월"
+
+#: backend/statistics.php:49
+msgid "June"
+msgstr "6월"
+
+#: backend/statistics.php:49
+msgid "July"
+msgstr "7월"
+
+#: backend/statistics.php:49
+msgid "August"
+msgstr "8월"
+
+#: backend/statistics.php:49
+msgid "September"
+msgstr "9월"
+
+#: backend/statistics.php:49
+msgid "October"
+msgstr "10월"
+
+#: backend/statistics.php:49
+msgid "November"
+msgstr "11월"
+
+#: backend/statistics.php:49
+msgid "December"
+msgstr "12월"
+
+#: backend/statistics.php:50
+msgid "Sunday"
+msgstr "일요일"
+
+#: backend/statistics.php:50
+msgid "Monday"
+msgstr "월요일"
+
+#: backend/statistics.php:50
+msgid "Tuesday"
+msgstr "화요일"
+
+#: backend/statistics.php:50
+msgid "Wednesday"
+msgstr "수요일"
+
+#: backend/statistics.php:50
+msgid "Thursday"
+msgstr "목요일"
+
+#: backend/statistics.php:50
+msgid "Friday"
+msgstr "금요일"
+
+#: backend/statistics.php:50
+msgid "Saturday"
+msgstr "토요일"
+
+#: backend/statistics.php:52
+msgid "Export"
+msgstr "내보내기"
+
+#: backend/statistics.php:53
+msgid "Import"
+msgstr "가져오기"
+
+#: backend/statistics.php:54
+msgid "From"
+msgstr "발신자"
+
+#: backend/statistics.php:55
+msgid "To"
+msgstr "수신"
+
+#: backend/statistics.php:56
+msgid "Period"
+msgstr "기간"
+
+#: backend/statistics.php:57
+msgid "Download image PNG"
+msgstr "이미지 PNG 다운로드"
+
+#: backend/statistics.php:58
+msgid "Download image JPEG"
+msgstr "이미지 JPEG 다운로드"
+
+#: backend/statistics.php:59
+msgid "Download document PDF"
+msgstr "문서 PDF 다운로드"
+
+#: backend/statistics.php:60
+msgid "Download image SVG"
+msgstr "이미지 SVG 다운로드"
+
+#: backend/statistics.php:61
+msgid "Print"
+msgstr "인쇄"
+
+#: backend/edit_map.php:52
+msgid "User"
+msgstr "사용자"
+
+#: backend/edit_map.php:52
+msgid "owner of the map"
+msgstr "지도의 소유자"
+
+#: backend/edit_map.php:97
+msgid "enable the search box in the map"
+msgstr "지도에서 검색창 활성화"
+
+#: backend/edit_map.php:103
+msgid "Search Locations"
+msgstr "위치 검색"
+
+#: backend/edit_map.php:103
+msgid "enables the search for a location / city"
+msgstr "위치/도시 검색 가능"
+
+#: backend/edit_map.php:109
+msgid "List"
+msgstr "목록"
+
+#: backend/edit_map.php:109
+msgid "enables the list of markers in the map"
+msgstr "지도의 마커 목록을 활성화합니다."
+
+#: backend/edit_map.php:115
+msgid "enable the category filter in the map"
+msgstr "지도에서 카테고리 필터 활성화"
+
+#: backend/edit_map.php:121
+msgid "Auto show List"
+msgstr "자동 쇼 목록"
+
+#: backend/edit_map.php:121
+msgid "automatically open the marker's list at first map loading"
+msgstr "처음 지도를 로드할 때 자동으로 마커 목록을 엽니다."
+
+#: backend/edit_map.php:127
+msgid "Auto show Categories"
+msgstr "오토쇼 카테고리"
+
+#: backend/edit_map.php:127
+msgid "automatically open the categories filter"
+msgstr "자동으로 카테고리 필터 열기"
+
+#: backend/edit_map.php:133
+msgid "Auto show My Location"
+msgstr "내 위치 자동 표시"
+
+#: backend/edit_map.php:133
+msgid "automatically geolocate and show the location"
+msgstr "자동으로 지리적 위치를 파악하고 위치를 표시합니다."
+
+#: backend/edit_map.php:139
+msgid "Sheet Details"
+msgstr "시트 세부 정보"
+
+#: backend/edit_map.php:139
+msgid "enable sheet detail when click on markers"
+msgstr "마커를 클릭할 때 시트 세부 정보 활성화"
+
+#: backend/edit_map.php:145
+msgid "Control Arrows Markers"
+msgstr "제어 화살표 마커"
+
+#: backend/edit_map.php:145
+msgid "show controls arrows to loop through the markers"
+msgstr "마커를 순환하는 컨트롤 화살표 표시"
+
+#: backend/edit_map.php:151
+msgid "enables the story feature in the map"
+msgstr "지도에서 스토리 기능을 활성화합니다."
+
+#: backend/edit_map.php:157
+msgid "enable the button 'directions' for markers"
+msgstr "마커에 대한 '방향' 버튼 활성화"
+
+#: backend/edit_map.php:163
+msgid "enable the button 'street view' for markers"
+msgstr "마커에 대해 '스트리트 뷰' 버튼 활성화"
+
+#: backend/edit_map.php:169
+msgid "enable the reviews for markers"
+msgstr "마커에 대한 리뷰 활성화"
+
+#: backend/edit_map.php:175
+msgid "enable share buttons for markers"
+msgstr "마커에 대한 공유 버튼 활성화"
+
+#: backend/edit_map.php:181
+msgid "Add Markers from Map"
+msgstr "지도에서 마커 추가"
+
+#: backend/edit_map.php:181
+msgid "enables adding markers directly from the map"
+msgstr "지도에서 직접 마커를 추가할 수 있습니다."
+
+#: backend/edit_map.php:183 backend/edit_map.php:262 backend/edit_map.php:426
+msgid "Disabled"
+msgstr "비활성화"
+
+#: backend/edit_map.php:184 backend/edit_map.php:427
+msgid "Enabled"
+msgstr "활성화"
+
+#: backend/edit_map.php:185
+msgid "Enabled (Automatic Approval)"
+msgstr "활성화됨(자동 승인)"
+
+#: backend/edit_map.php:191
+msgid "Density color"
+msgstr "밀도 색상"
+
+#: backend/edit_map.php:191
+msgid "displays different colors based on the density of marker grouping"
+msgstr "마커 그룹화의 밀도에 따라 다른 색상을 표시합니다."
+
+#: backend/edit_map.php:197
+msgid "Density Color Tolerance"
+msgstr "밀도 색상 허용 오차"
+
+#: backend/edit_map.php:197
+msgid "tolerance to color the grouped markers"
+msgstr "그룹화 된 마커의 색상 허용 오차"
+
+#: backend/edit_map.php:203
+msgid "Density Distance"
+msgstr "밀도 거리"
+
+#: backend/edit_map.php:203
+msgid ""
+"distance in pixels within which features will be clustered together. 0 to "
+"disable clustering"
+msgstr ""
+"피처가 함께 클러스터될 거리(픽셀 단위)입니다. 클러스터링을 비활성화하려면 0"
+
+#: backend/edit_map.php:209
+msgid "Initial Zoom"
+msgstr "초기 줌"
+
+#: backend/edit_map.php:209
+msgid "initial zoom when the map is loaded (1 far - 20 near)"
+msgstr "지도가 로드될 때 초기 확대/축소(1 먼 - 20 가까운)"
+
+#: backend/edit_map.php:211
+msgid "Fit Markers"
+msgstr "맞춤 마커"
+
+#: backend/edit_map.php:226
+msgid "Marker Zoom"
+msgstr "마커 줌"
+
+#: backend/edit_map.php:226
+msgid "zoom level when the marker is clicked (1 far - 20 near)"
+msgstr "마커를 클릭할 때 확대/축소 수준(먼 1개 - 가까운 20개)"
+
+#: backend/edit_map.php:228 backend/edit_map.php:245
+msgid "No change"
+msgstr "변경 없음"
+
+#: backend/edit_map.php:243
+msgid "My Location Zoom"
+msgstr "내 위치 확대"
+
+#: backend/edit_map.php:243
+msgid "zoom level when enabling geolocation (1 far - 20 near)"
+msgstr "지리적 위치를 활성화할 때 확대/축소 수준(원거리 1 - 근거리 20)"
+
+#: backend/edit_map.php:260
+msgid "Highlight Markers (Search)"
+msgstr "하이라이트 마커(검색)"
+
+#: backend/edit_map.php:260
+msgid ""
+"highlights the position of the marker when you hover over the search results "
+"(1 far - 20 near)"
+msgstr ""
+"검색 결과 위로 마우스를 가져갈 때 마커의 위치를 강조 표시합니다(먼 1개 - 가까"
+"운 20개)."
+
+#: backend/edit_map.php:263
+msgid "Keep Zoom Level"
+msgstr "확대/축소 수준 유지"
+
+#: backend/edit_map.php:278
+msgid "Markers Order by"
+msgstr "마커 주문"
+
+#: backend/edit_map.php:280
+msgid "Priority"
+msgstr "우선순위"
+
+#: backend/edit_map.php:288
+msgid "Categories Filter Type"
+msgstr "범주 필터 유형"
+
+#: backend/edit_map.php:290
+msgid "OR"
+msgstr "또는"
+
+#: backend/edit_map.php:291
+msgid "AND"
+msgstr "그리고"
+
+#: backend/edit_map.php:297
+msgid "Quality"
+msgstr "품질"
+
+#: backend/edit_map.php:297
+msgid "map quality (high can slow movement)"
+msgstr "지도 품질(높으면 이동 속도가 느려질 수 있음)"
+
+#: backend/edit_map.php:299
+msgid "Low"
+msgstr "낮음"
+
+#: backend/edit_map.php:300
+msgid "Medium"
+msgstr "중간"
+
+#: backend/edit_map.php:301
+msgid "High"
+msgstr "높음"
+
+#: backend/edit_map.php:307
+msgid "Weather"
+msgstr "날씨"
+
+#: backend/edit_map.php:310
+msgid "Celsius"
+msgstr "섭씨"
+
+#: backend/edit_map.php:311
+msgid "Fahrenheit"
+msgstr "화씨"
+
+#: backend/edit_map.php:317
+msgid "Google Analytics"
+msgstr "구글 애널리틱스"
+
+#: backend/edit_map.php:317
+msgid ""
+"Google Analytics Tracking ID. Note: Use the Friendly URL in Google "
+"Analytics's property url setting."
+msgstr ""
+"Google 애널리틱스 추적 ID. 참고: Google 애널리틱스의 속성 URL 설정에서 친숙"
+"한 URL을 사용하세요."
+
+#: backend/edit_map.php:369
+msgid "only needed if map style is different from default or custom version"
+msgstr "지도 스타일이 기본 또는 사용자 정의 버전과 다른 경우에만 필요"
+
+#: backend/edit_map.php:377
+msgid "Street Url"
+msgstr "거리 URL"
+
+#: backend/edit_map.php:383
+msgid "Street Max Zoom"
+msgstr "스트리트 맥스 줌"
+
+#: backend/edit_map.php:389
+msgid "Street Attributions"
+msgstr "스트리트 어트리뷰션"
+
+#: backend/edit_map.php:395
+msgid "Satellite Url"
+msgstr "위성 URL"
+
+#: backend/edit_map.php:401
+msgid "Satellite Max Zoom"
+msgstr "위성 최대 줌"
+
+#: backend/edit_map.php:407
+msgid "Satellite Attributions"
+msgstr "위성 속성"
+
+#: backend/edit_map.php:415
+msgid "Default view"
+msgstr "기본 보기"
+
+#: backend/edit_map.php:418
+msgid "Satellite"
+msgstr "위성"
+
+#: backend/edit_map.php:424
+msgid "Globe view"
+msgstr "지구본 보기"
+
+#: backend/edit_map.php:428
+msgid "Enabled (autostart)"
+msgstr "사용(자동 시작)"
+
+#: backend/edit_map.php:445
+msgid "Main color"
+msgstr "메인 색상"
+
+#: backend/edit_map.php:451
+msgid "Font Viewer"
+msgstr "글꼴 뷰어"
+
+#: backend/edit_map.php:459 backend/settings.php:104
+msgid "Logo"
+msgstr "로고"
+
+#: backend/edit_map.php:467
+msgid "DELETE LOGO"
+msgstr "로고 삭제"
+
+#: backend/edit_map.php:479 backend/settings.php:124
+msgid "Upload Logo Image"
+msgstr "로고 이미지 업로드"
+
+#: backend/edit_map.php:500
+msgid "Markers Icon"
+msgstr "마커 아이콘"
+
+#: backend/edit_map.php:505
+msgid "Default Markers Icon Type"
+msgstr "기본 마커 아이콘 유형"
+
+#: backend/edit_map.php:515 backend/edit_map.php:525
+msgid "Default Markers Icon"
+msgstr "기본 마커 아이콘"
+
+#: backend/edit_map.php:533
+msgid "Default Markers Icon Background"
+msgstr "기본 마커 아이콘 배경"
+
+#: backend/edit_map.php:539
+msgid "Default Markers Icon Color"
+msgstr "기본 마커 아이콘 색상"
+
+#: backend/edit_map.php:545
+msgid "Default Markers Size"
+msgstr "기본 마커 크기"
+
+#: backend/edit_map.php:551 backend/edit_category.php:136
+msgid "ASSIGN ICON TO"
+msgstr "아이콘 할당"
+
+#: backend/edit_map.php:563
+msgid "Link or upload Json"
+msgstr "Json 링크 또는 업로드"
+
+#: backend/edit_map.php:576
+msgid "Upload Json"
+msgstr "제이슨 업로드"
+
+#: backend/settings.php:16 backend/updater.php:43
+msgid "It looks like that you do not have permission to access this page"
+msgstr "이 페이지에 액세스할 수 있는 권한이 없는 것 같습니다."
+
+#: backend/settings.php:24
+msgid "Please enter a valid purchase code to continue using the application."
+msgstr "애플리케이션을 계속 사용하려면 유효한 구매 코드를 입력하세요."
+
+#: backend/settings.php:33
+msgid "License"
+msgstr "라이센스"
+
+#: backend/settings.php:39
+msgid "Purchase Code"
+msgstr "구매 코드"
+
+#: backend/settings.php:39
+msgid "Where i can find it?"
+msgstr "어디서 찾을 수 있나요?"
+
+#: backend/settings.php:46
+msgid "CHECK"
+msgstr "조회하기"
+
+#: backend/settings.php:75
+msgid "Branding"
+msgstr "브랜딩"
+
+#: backend/settings.php:81
+msgid "Application Name"
+msgstr "어플리케이션 이름"
+
+#: backend/settings.php:87
+msgid "Theme Color"
+msgstr "테마 컬러"
+
+#: backend/settings.php:93
+msgid "Font Backend"
+msgstr "글꼴 백엔드"
+
+#: backend/settings.php:99
+msgid "Welcome Message"
+msgstr "환영 메시지"
+
+#: backend/settings.php:99
+msgid "leave empty for default welcome message"
+msgstr "기본 환영 메시지는 비워 둡니다."
+
+#: backend/settings.php:118 backend/settings.php:156
+msgid "Choose file"
+msgstr "파일 선택"
+
+#: backend/settings.php:142
+msgid "Login image"
+msgstr "로그인 이미지"
+
+#: backend/settings.php:162
+msgid "Upload Login Image"
+msgstr "로그인 이미지 업로드"
+
+#: backend/settings.php:189
+msgid "Localization"
+msgstr "지역화"
+
+#: backend/settings.php:231
+msgid "Translation Type"
+msgstr "번역 유형"
+
+#: backend/settings.php:240
+msgid "Languages Enabled"
+msgstr "사용 가능한 언어"
+
+#: backend/settings.php:241
+msgid "items selected"
+msgstr "선택한 항목"
+
+#: backend/settings.php:241
+msgid "Deselect All"
+msgstr "전체 해제"
+
+#: backend/settings.php:241
+msgid "Select All"
+msgstr "모두 선택"
+
+#: backend/settings.php:241
+msgid "Nothing selected"
+msgstr "선택한 것이 없습니다"
+
+#: backend/settings.php:241 backend/functions.php:677
+msgid "No results matched"
+msgstr "일치하는 결과가 없습니다. "
+
+#: backend/settings.php:296
+msgid "Footer"
+msgstr "푸터"
+
+#: backend/settings.php:302
+msgid "Name Item 1"
+msgstr "이름 항목 1"
+
+#: backend/settings.php:308
+msgid "Content Item 1"
+msgstr "콘텐츠 항목 1"
+
+#: backend/settings.php:308 backend/settings.php:323 backend/settings.php:338
+msgid "insert a textual content or a link to an external site"
+msgstr "텍스트 콘텐츠 또는 외부 사이트에 대한 링크 삽입"
+
+#: backend/settings.php:317
+msgid "Name Item 2"
+msgstr "이름 항목 2"
+
+#: backend/settings.php:323
+msgid "Content Item 2"
+msgstr "콘텐츠 항목 2"
+
+#: backend/settings.php:332
+msgid "Name Item 3"
+msgstr "이름 항목 3"
+
+#: backend/settings.php:338
+msgid "Content Item 3"
+msgstr "콘텐츠 항목 3"
+
+#: backend/settings.php:352
+msgid "Custom Viewer CSS"
+msgstr "사용자 정의 뷰어 CSS"
+
+#: backend/settings.php:358
+msgid "General (affects all maps)"
+msgstr "일반(모든 맵에 적용)"
+
+#: backend/settings.php:376
+msgid "Custom Backend CSS"
+msgstr "커스텀 백엔드 CSS"
+
+#: backend/settings.php:489
+msgid "Choose"
+msgstr "선택"
+
+#: backend/story.php:25
+msgid "ADD MARKER TO STORY"
+msgstr "스토리에 마커 추가"
+
+#: backend/story.php:37 backend/story.php:66 backend/story.php:117
+msgid "Zoom"
+msgstr "확대"
+
+#: backend/story.php:38 backend/markers.php:62
+msgid "Order"
+msgstr "주문"
+
+#: backend/story.php:54
+msgid "Add Marker to Story"
+msgstr "스토리에 마커 추가"
+
+#: backend/story.php:111 backend/topbar.php:48
+msgid "Edit Marker"
+msgstr "마커 편집"
+
+#: backend/markers.php:27
+msgid "IMPORT EXCEL"
+msgstr "엑셀 가져오기"
+
+#: backend/markers.php:32
+msgid "BULK SELETE"
+msgstr "일괄 선택"
+
+#: backend/markers.php:38
+msgid "SELECTED MARKERS"
+msgstr "선택된 마커"
+
+#: backend/markers.php:38
+msgid "select all"
+msgstr "모두 선택"
+
+#: backend/markers.php:38
+msgid "deselect all"
+msgstr "모두 선택 취소"
+
+#: backend/markers.php:41
+msgid "SELETE"
+msgstr "선택"
+
+#: backend/markers.php:57
+msgid "Address"
+msgstr "주소"
+
+#: backend/markers.php:59 backend/edit_marker.php:113
+msgid "Validated"
+msgstr "검증됨"
+
+#: backend/markers.php:60 backend/edit_marker.php:119
+msgid "Centered"
+msgstr "중앙"
+
+#: backend/markers.php:77
+msgid "export markers"
+msgstr "마커 내보내기"
+
+#: backend/markers.php:85
+msgid "Delete Marker"
+msgstr "마커 삭제"
+
+#: backend/markers.php:88
+msgid "Are you sure you want to delete the marker?"
+msgstr "마커를 삭제하시겠습니까?"
+
+#: backend/markers.php:102
+msgid "Duplicate Marker"
+msgstr "중복 마커"
+
+#: backend/markers.php:105
+msgid "Are you sure you want to duplicate the marker?"
+msgstr "마커를 복제하시겠습니까?"
+
+#: backend/add_category.php:7
+msgid "ADD CATEGOR"
+msgstr "카테고리 추가"
+
+#: backend/add_category.php:32 backend/edit_category.php:60
+msgid "Parent Category"
+msgstr "상위 카테고리"
+
+#: backend/functions.php:558
+msgid "administrator"
+msgstr "관리자"
+
+#: backend/edit_category.php:29 backend/edit_marker.php:44
+msgid "Direct Link"
+msgstr "직접 링크"
+
+#: backend/edit_category.php:83
+msgid "Markers Icons"
+msgstr "마커 아이콘"
+
+#: backend/edit_category.php:129
+msgid "Size"
+msgstr "크기"
+
+#: backend/edit_category.php:165
+msgid "Delete Category"
+msgstr "카테고리 삭제"
+
+#: backend/edit_category.php:168
+msgid "Are you sure you want to delete the category?"
+msgstr "카테고리를 삭제하시겠습니까?"
+
+#: backend/updater.php:52
+msgid "Version Check"
+msgstr "버전 확인"
+
+#: backend/updater.php:57
+msgid "Current Version"
+msgstr "현재 버전"
+
+#: backend/updater.php:57
+msgid "Latest Version"
+msgstr "최신 버전"
+
+#: backend/updater.php:61
+msgid "Changelog"
+msgstr "변경 기록"
+
+#: backend/updater.php:75
+msgid "Download and Update"
+msgstr "다운로드 및 업데이트"
+
+#: backend/updater.php:83
+msgid "Can't upgrade, please enable php zip extension."
+msgstr "업그레이드할 수 없습니다. php zip 확장자를 활성화하십시오."
+
+#: backend/updater.php:91
+msgid ""
+"Be sure to perform a full manual backup of your current files and database "
+"before upgrading."
+msgstr ""
+"업그레이드하기 전에 현재 파일과 데이터베이스의 전체 수동 백업을 수행해야 합니"
+"다."
+
+#: backend/updater.php:94
+msgid "I made the backup, continue"
+msgstr "나는 백업을 했다, 계속"
+
+#: backend/updater.php:100
+msgid "UPGRADE NOW!"
+msgstr "지금 업그레이드하세요!"
+
+#: backend/updater.php:103
+msgid "click upgrade now to start"
+msgstr "지금 업그레이드를 클릭하여 시작하십시오"
+
+#: backend/updater.php:134
+msgid "downloading ..."
+msgstr "다운로드 중..."
+
+#: backend/updater.php:150 backend/updater.php:157 backend/updater.php:181
+#: backend/updater.php:188
+msgid "error, please retry"
+msgstr "오류, 다시 시도하십시오"
+
+#: backend/updater.php:164
+msgid "installing ... do not close this window!"
+msgstr "설치 중 ... 이 창을 닫지 마십시오!"
+
+#: backend/updater.php:174
+msgid "upgrade completed successfully, you will now be logged out in 5 seconds"
+msgstr "업그레이드가 성공적으로 완료되었습니다. 이제 5초 후에 로그아웃됩니다."
+
+#: backend/updater.php:198
+msgid "checking license"
+msgstr "라이센스 확인"
+
+#: backend/updater.php:232
+msgid "invalid license, unable to update"
+msgstr "유효하지 않은 라이센스, 업데이트할 수 없음"
+
+#: backend/import.php:61
+#, php-format
+msgid ""
+"Use %s template excel or the exported csv to import multiple markers at once."
+msgstr ""
+"%s 템플릿 Excel 또는 내보낸 csv를 사용하여 한 번에 여러 마커를 가져옵니다."
+
+#: backend/import.php:61
+msgid "this"
+msgstr "이"
+
+#: backend/import.php:71 backend/import.php:98
+msgid "Import Markers"
+msgstr "마커 가져오기"
+
+#: backend/import.php:104
+msgid "Ok"
+msgstr "확인"
+
+#: backend/import.php:160
+msgid "IMPORTING MARKERS ... DO NOT CLOSE THIS WINDOW!!!!"
+msgstr "마커 가져오기 ... 이 창을 닫지 마십시오!!!!"
+
+#: backend/edit_marker.php:36
+msgid ""
+"This marker was added by a person outside the system. Check the data entered "
+"before approving it."
+msgstr ""
+"이 마커는 시스템 외부의 사람이 추가했습니다. 승인하기 전에 입력한 데이터를 확"
+"인하십시오."
+
+#: backend/edit_marker.php:113
+msgid "it must be validated to be visible on the map"
+msgstr "지도에 표시되도록 확인해야 합니다."
+
+#: backend/edit_marker.php:119
+msgid "center the map on this marker"
+msgstr "이 마커의 중앙에 지도"
+
+#: backend/topbar.php:36
+msgid "EDIT PREVIOUS MARKER"
+msgstr "이전 마커 편집"
+
+#: backend/topbar.php:41
+msgid "EDIT NEXT MARKER"
+msgstr "다음 마커 편집"
+
+#: backend/topbar.php:65
+msgid "Edit Category"
+msgstr "카테고리 편집"
+
+#: backend/topbar.php:100
+msgid "Edit User"
+msgstr "회원 편집"
+
+#: backend/topbar.php:105
+msgid "Edit Profile"
+msgstr "프로필 수정"
+
+#: backend/topbar.php:164
+msgid "Edit profile"
+msgstr "프로필 편집"
+
+#: backend/topbar.php:168 backend/topbar.php:188
+msgid "Logout"
+msgstr "로그아웃"
+
+#: backend/topbar.php:180
+msgid "Ready to Leave?"
+msgstr "떠날 준비?"
+
+#: backend/topbar.php:185
+msgid "Select Logout below if you are ready to end your current session."
+msgstr "현재 세션을 종료할 준비가 되었으면 아래에서 로그아웃을 선택하십시오."
+
+#~ msgid "Select Category"
+#~ msgstr "카테고리 선택"
+
+#~ msgid "REVIEWS"
+#~ msgstr "리뷰"
+
+#~ msgid "ICONS LIBRARY"
+#~ msgstr "아이콘 라이브러리"
+
+#~ msgid "USERS"
+#~ msgstr "사용자"
+
+#~ msgid "EDIT PROFILE"
+#~ msgstr "프로필 수정"
+
+#~ msgid "EDIT USER"
+#~ msgstr "사용자 수정"
+
+#~ msgid "CONNECTIONS"
+#~ msgstr "사이"
+
+#~ msgid "CATEGORIES"
+#~ msgstr "카테고리"
+
+#~ msgid "DASHBOARD"
+#~ msgstr "대시보드"
+
+#~ msgid "Password Protection"
+#~ msgstr "비밀번호 보호"
+
+#~ msgid ""
+#~ "If you decide to protect your map with a password, at the first access it "
+#~ "will be required to visit it."
+#~ msgstr ""
+#~ "비밀번호로 지도를 보호하기로 결정한 경우 처음 액세스할 때 해당 지도를 방문"
+#~ "해야 합니다."
+
+#~ msgid "PROTECT MAP"
+#~ msgstr "지도를 보호하십시오"
+
+#~ msgid ""
+#~ "Your map is now protected with a password, click UNPROTECT to remove it."
+#~ msgstr ""
+#~ "이제 지도가 비밀번호로 보호됩니다. 삭제하려면 UNPROTECT를 클릭하세요."
+
+#~ msgid "UNPROTECT MAP"
+#~ msgstr "언프로텍트 맵"
+
+#~ msgid "Current status"
+#~ msgstr "현재 상태"
+
+#~ msgid "DEACTIVATE"
+#~ msgstr "비활성화"
+
+#~ msgid "ACTIVATE"
+#~ msgstr "활성화"
+
+#~ msgid "SET FRIENDLY URL"
+#~ msgstr "친숙한 URL 설정"
+
+#~ msgid "Map Friendly Url Link"
+#~ msgstr "지도 친화적인 URL 링크"
+
+#~ msgid "MAPS"
+#~ msgstr "지도"
+
+#~ msgid "STATISTICS"
+#~ msgstr "통계"
+
+#~ msgid "EDIT MAP"
+#~ msgstr "지도 편집"
+
+#~ msgid "SETTINGS"
+#~ msgstr "설정"
+
+#~ msgid "STORY"
+#~ msgstr "이야기"
+
+#~ msgid "EDIT CATEGORY"
+#~ msgstr "카테고리 편집"
+
+#~ msgid "UPGRADE"
+#~ msgstr "업그레이드"
+
+#~ msgid "End, Go back to the beginning"
+#~ msgstr "끝, 처음으로 돌아가다"

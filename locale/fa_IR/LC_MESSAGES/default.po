@@ -1,0 +1,2382 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-18 20:25+0200\n"
+"PO-Revision-Date: 2023-04-18 20:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: viewer/index.php:314
+msgid "This Map is password protected"
+msgstr "این نقشه با رمز محافظت می شود"
+
+#: viewer/index.php:315
+msgid "Input password"
+msgstr "رمز ورودی"
+
+#: viewer/index.php:360
+msgid "add new marker"
+msgstr "نشانگر جدید اضافه کنید"
+
+#: viewer/index.php:364
+msgid "click on the map and place your marker"
+msgstr "روی نقشه کلیک کنید و نشانگر خود را قرار دهید"
+
+#: viewer/index.php:367
+msgid "drag the marker to adjust the position"
+msgstr "برای تنظیم موقعیت، نشانگر را بکشید"
+
+#: viewer/index.php:367
+msgid "confirm"
+msgstr "تایید"
+
+#: viewer/index.php:378
+msgid "DIRECTIONS"
+msgstr "جهت ها"
+
+#: viewer/index.php:379
+msgid "STREET VIEW"
+msgstr "نمایش معابر"
+
+#: viewer/index.php:380
+msgid "WRITE A REVIEW"
+msgstr "دیدگاه خود را بنویسید"
+
+#: viewer/index.php:440
+msgid "Average Rating"
+msgstr "میانگین امتیاز"
+
+#: viewer/index.php:494 backend/reviews.php:31 backend/add_marker.php:57
+#: backend/categories.php:36 backend/maps.php:56 backend/edit_map.php:46
+#: backend/edit_map.php:287 backend/markers.php:72 backend/add_category.php:16
+#: backend/edit_category.php:54 backend/edit_marker.php:116
+msgid "Name"
+msgstr "نام"
+
+#: viewer/index.php:497 backend/markers.php:41
+msgid "CANCEL"
+msgstr "لغو"
+
+#: viewer/index.php:498
+msgid "ADD"
+msgstr "افزودن"
+
+#: viewer/index.php:504 backend/add_marker.php:162 backend/add_marker.php:212
+#: backend/edit_marker.php:233 backend/edit_marker.php:287
+msgid "Latitude"
+msgstr "عرض جغرافیایی"
+
+#: viewer/index.php:505 backend/add_marker.php:168 backend/add_marker.php:213
+#: backend/edit_marker.php:239 backend/edit_marker.php:288
+msgid "Longitude"
+msgstr "طول جغرافیایی"
+
+#: viewer/index.php:519 backend/add_marker.php:83 backend/edit_map.php:423
+#: backend/edit_marker.php:154
+msgid "Street"
+msgstr "خیابان"
+
+#: viewer/index.php:525 backend/add_marker.php:89 backend/edit_map.php:288
+#: backend/edit_marker.php:160
+msgid "City"
+msgstr "شهر"
+
+#: viewer/index.php:531 backend/add_marker.php:95 backend/edit_marker.php:166
+msgid "Postal Code"
+msgstr "کد پستی"
+
+#: viewer/index.php:537 backend/add_marker.php:101 backend/edit_marker.php:172
+msgid "Country"
+msgstr "کشور"
+
+#: viewer/index.php:543
+msgid "Website"
+msgstr "وب سایت"
+
+#: viewer/index.php:549 backend/reviews.php:32 backend/add_marker.php:131
+#: backend/edit_marker.php:202
+msgid "E-mail"
+msgstr "ایمیل"
+
+#: viewer/index.php:555 backend/add_marker.php:119 backend/edit_marker.php:190
+msgid "Phone"
+msgstr "تلفن"
+
+#: viewer/index.php:561 backend/add_marker.php:125 backend/edit_marker.php:196
+msgid "Whatsapp"
+msgstr "واتساپ"
+
+#: viewer/index.php:567 backend/add_marker.php:137 backend/edit_marker.php:208
+msgid "Hours"
+msgstr "ساعت"
+
+#: viewer/index.php:573 backend/add_marker.php:143 backend/publish.php:67
+#: backend/story.php:93 backend/story.php:144 backend/edit_marker.php:214
+msgid "Description"
+msgstr "توضیحات"
+
+#: viewer/index.php:589
+msgid "delete images"
+msgstr "حذف تصاویر"
+
+#: viewer/index.php:598
+msgid "Your Rating"
+msgstr "امتیاز شما"
+
+#: viewer/index.php:606
+msgid "Your Name"
+msgstr "نام شما"
+
+#: viewer/index.php:609
+msgid "Your Email Address (optional)"
+msgstr "آدرس ایمیل شما (اختیاری)"
+
+#: viewer/index.php:612
+msgid "Type your Review here"
+msgstr "نظر خود را اینجا تایپ کنید"
+
+#: viewer/index.php:616
+msgid "Type the code above"
+msgstr "کد بالا را تایپ کنید"
+
+#: viewer/index.php:619
+msgid "Submit"
+msgstr "ارسال"
+
+#: viewer/index.php:622
+msgid "Thanks for your review!"
+msgstr "با تشکر از بررسی شما!"
+
+#: viewer/index.php:625 backend/reviews.php:71 backend/users.php:126
+#: backend/edit_user.php:289 backend/edit_map.php:97 backend/markers.php:175
+msgid "Search"
+msgstr "جستجو"
+
+#: viewer/index.php:721
+msgid "Are you sure you want to CANCEL the request to insert this marker?"
+msgstr "آیا مطمئن هستید که می خواهید درخواست درج این نشانگر را لغو کنید؟"
+
+#: viewer/index.php:722
+msgid "Are you sure you want to SEND the request to insert this marker?"
+msgstr "آیا مطمئن هستید که می خواهید درخواست درج این نشانگر را ارسال کنید؟"
+
+#: viewer/index.php:723
+msgid ""
+"Thanks for inserting the marker! As soon as it is approved it will be "
+"visible on the map."
+msgstr "برای درج نشانگر متشکریم! به محض تایید روی نقشه قابل مشاهده خواهد بود."
+
+#: viewer/index.php:724
+msgid "An error has occurred, please try again later."
+msgstr "خطایی رخ داده است، لطفاً بعداً دوباره امتحان کنید."
+
+#: viewer/index.php:725
+msgid "reset"
+msgstr "بازنشانی"
+
+#: viewer/index.php:726
+msgid "Start, Scroll down"
+msgstr "شروع کنید، به پایین بروید"
+
+#: viewer/index.php:727
+msgid "End"
+msgstr "پایان"
+
+#: viewer/index.php:728
+msgid "Searching"
+msgstr "در حال جستجو"
+
+#: viewer/index.php:729 backend/add_marker.php:747 backend/edit_map.php:659
+#: backend/edit_category.php:192 backend/edit_marker.php:865
+msgid "No results found."
+msgstr "نتیجه ای پیدا نشد."
+
+#: viewer/index.php:730
+msgid "Add New Marker"
+msgstr "نشانه گر جدید"
+
+#: viewer/index.php:731
+msgid "Do you want to use my position to add the marker?"
+msgstr "آیا می خواهید از موقعیت من برای اضافه کردن نشانگر استفاده کنید؟"
+
+#: viewer/index.php:732 backend/publish.php:140
+msgid "No"
+msgstr "خیر"
+
+#: viewer/index.php:733 backend/publish.php:140
+msgid "Yes"
+msgstr "بله"
+
+#: viewer/index.php:736
+msgid "Are you sure you want to insert this marker?"
+msgstr "آیا مطمئن هستید که می خواهید این نشانگر را وارد کنید؟"
+
+#: viewer/index.php:737
+msgid "Thanks for inserting the marker! Please reload the map to view it."
+msgstr ""
+"برای درج نشانگر متشکریم! لطفاً نقشه را دوباره بارگیری کنید تا آن را مشاهده "
+"کنید."
+
+#: viewer/ajax/upload_new_marker_image.php:23
+msgid "Invalid image."
+msgstr "تصویر نامعتبر."
+
+#: viewer/ajax/upload_new_marker_image.php:31
+#: backend/ajax/upload_marker_image.php:38
+#: backend/ajax/upload_b_logo_image.php:51
+#: backend/ajax/upload_b_background_image.php:43
+msgid "Only jpg,png files are supported."
+msgstr "فقط jpg,فایل های png پشتیبانی می شوند."
+
+#: viewer/ajax/upload_new_marker_image.php:35
+#: backend/ajax/upload_marker_image.php:42
+#: backend/ajax/upload_meta_image.php:69 backend/ajax/upload_file.php:32
+#: backend/ajax/upload_logo_image.php:41 backend/ajax/upload_icon_image.php:72
+#: backend/ajax/upload_b_logo_image.php:55
+#: backend/ajax/upload_b_background_image.php:47
+#: backend/ajax/upload_geojson.php:41
+msgid "File not provided."
+msgstr "پرونده ارائه نشده است."
+
+#: backend/login.php:68 backend/topbar.php:133
+msgid "Arabic"
+msgstr "عربی"
+
+#: backend/login.php:69 backend/topbar.php:134
+msgid "Chinese Simplified"
+msgstr "زبان چینی ساده شده"
+
+#: backend/login.php:70 backend/topbar.php:135
+msgid "Chinese Traditional (Hong Kong)"
+msgstr "چینی سنتی (هنگ کنگ)"
+
+#: backend/login.php:71 backend/topbar.php:136
+msgid "Chinese Traditional (Taiwan)"
+msgstr "چینی سنتی (تایوان)"
+
+#: backend/login.php:72 backend/topbar.php:137
+msgid "Czech"
+msgstr "کشور چک"
+
+#: backend/login.php:73 backend/topbar.php:138
+msgid "Dutch"
+msgstr "هلندی"
+
+#: backend/login.php:74 backend/topbar.php:139
+msgid "English"
+msgstr "انگلیسی"
+
+#: backend/login.php:75 backend/topbar.php:140
+msgid "Filipino"
+msgstr "فیلیپینی"
+
+#: backend/login.php:76 backend/topbar.php:141
+msgid "French"
+msgstr "فرانسوی"
+
+#: backend/login.php:77 backend/topbar.php:142
+msgid "German"
+msgstr "آلمانی"
+
+#: backend/login.php:78 backend/topbar.php:143
+msgid "Hindi"
+msgstr "هندی"
+
+#: backend/login.php:79 backend/topbar.php:144
+msgid "Hungarian"
+msgstr "مجارستانی"
+
+#: backend/login.php:80 backend/topbar.php:145
+msgid "Kinyarwanda"
+msgstr "کینارواندا"
+
+#: backend/login.php:81 backend/topbar.php:146
+msgid "Korean"
+msgstr "کره ای"
+
+#: backend/login.php:82 backend/topbar.php:147
+msgid "Indonesian"
+msgstr "اندونزیایی"
+
+#: backend/login.php:83 backend/topbar.php:148
+msgid "Italian"
+msgstr "ایتالیایی"
+
+#: backend/login.php:84 backend/topbar.php:149
+msgid "Japanese"
+msgstr "ژاپنی"
+
+#: backend/login.php:85 backend/topbar.php:150
+msgid "Persian"
+msgstr "فارسی"
+
+#: backend/login.php:86 backend/topbar.php:151
+msgid "Polish"
+msgstr "لهستانی"
+
+#: backend/login.php:87 backend/topbar.php:152
+msgid "Portuguese Brazilian"
+msgstr "برزیلی پرتغالی"
+
+#: backend/login.php:88 backend/topbar.php:153
+msgid "Portuguese European"
+msgstr "پرتغالی اروپایی"
+
+#: backend/login.php:89 backend/topbar.php:154
+msgid "Spanish"
+msgstr "اسپانیایی"
+
+#: backend/login.php:90 backend/topbar.php:155
+msgid "Romanian"
+msgstr "رومانیایی"
+
+#: backend/login.php:91 backend/topbar.php:156
+msgid "Russian"
+msgstr "روسی"
+
+#: backend/login.php:92 backend/topbar.php:157
+msgid "Swedish"
+msgstr "سوئدی"
+
+#: backend/login.php:93 backend/topbar.php:158
+msgid "Tajik"
+msgstr "تاجیک"
+
+#: backend/login.php:94 backend/topbar.php:159
+msgid "Thai"
+msgstr "تایلندی"
+
+#: backend/login.php:95 backend/topbar.php:160
+msgid "Turkish"
+msgstr "ترکی"
+
+#: backend/login.php:96 backend/topbar.php:161
+msgid "Vietnamese"
+msgstr "ویتنامی"
+
+#: backend/login.php:100
+msgid "Welcome Back!"
+msgstr "خوش آمدید!"
+
+#: backend/login.php:104 backend/users.php:44 backend/users.php:68
+#: backend/edit_profile.php:20 backend/edit_user.php:41
+msgid "Username"
+msgstr "نام کاربری"
+
+#: backend/login.php:107 backend/users.php:84 backend/edit_profile.php:63
+#: backend/edit_profile.php:83 backend/edit_user.php:187 backend/publish.php:40
+msgid "Password"
+msgstr "رمز عبور"
+
+#: backend/login.php:110
+msgid "Login"
+msgstr "ورود"
+
+#: backend/reviews.php:16 backend/icons_library.php:16 backend/draw.php:18
+#: backend/add_marker.php:25 backend/edit_user.php:22
+#: backend/markers_connections.php:17 backend/categories.php:17
+#: backend/publish.php:24 backend/edit_map.php:26 backend/settings.php:15
+#: backend/story.php:17 backend/edit_category.php:16 backend/updater.php:42
+#: backend/import.php:40 backend/edit_marker.php:24
+msgid "Permission denied"
+msgstr "اجازه رد شد"
+
+#: backend/reviews.php:17 backend/icons_library.php:17 backend/draw.php:19
+#: backend/add_marker.php:26 backend/edit_user.php:23
+#: backend/markers_connections.php:18 backend/categories.php:18
+#: backend/publish.php:25 backend/edit_map.php:27 backend/story.php:18
+#: backend/edit_category.php:17 backend/import.php:41
+#: backend/edit_marker.php:25
+msgid "It looks like you found a glitch in the matrix..."
+msgstr "به نظر می رسد شما یک نقص در ماتریس پیدا کرده اید ..."
+
+#: backend/reviews.php:18 backend/icons_library.php:18 backend/draw.php:20
+#: backend/add_marker.php:27 backend/edit_user.php:24
+#: backend/markers_connections.php:19 backend/categories.php:19
+#: backend/publish.php:26 backend/edit_map.php:28 backend/settings.php:17
+#: backend/story.php:19 backend/edit_category.php:18 backend/updater.php:44
+#: backend/import.php:42 backend/edit_marker.php:26
+msgid "Back to Dashboard"
+msgstr "بازگشت به داشبورد"
+
+#: backend/reviews.php:29
+msgid "Date"
+msgstr "تاریخ"
+
+#: backend/reviews.php:30 backend/markers_connections.php:36
+#: backend/markers_connections.php:38 backend/markers_connections.php:60
+#: backend/markers_connections.php:68 backend/markers_connections.php:118
+#: backend/markers_connections.php:126 backend/story.php:36
+#: backend/story.php:60
+msgid "Marker"
+msgstr "نشانگر"
+
+#: backend/reviews.php:33
+msgid "Rating"
+msgstr "امتیاز"
+
+#: backend/reviews.php:34
+msgid "Comment"
+msgstr "نظر"
+
+#: backend/reviews.php:62 backend/users.php:117 backend/edit_user.php:280
+#: backend/markers.php:166
+msgid "No data available in table"
+msgstr "داده ای در جدول وجود ندارد"
+
+#: backend/reviews.php:63 backend/users.php:118 backend/edit_user.php:281
+#: backend/markers.php:167
+#, php-format
+msgid "Showing %s to %s of %s entries"
+msgstr "نمایش %s تا زا %s از مجموع %s"
+
+#: backend/reviews.php:64 backend/users.php:119 backend/edit_user.php:282
+#: backend/markers.php:168
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "نمایش 0 تا 0 از 0 ورودی"
+
+#: backend/reviews.php:65 backend/users.php:120 backend/edit_user.php:283
+#: backend/markers.php:169
+#, php-format
+msgid "(filtered from %s total entries)"
+msgstr "(filtered from %s total entries)"
+
+#: backend/reviews.php:68 backend/users.php:123 backend/edit_user.php:286
+#: backend/markers.php:172
+#, php-format
+msgid "Show %s entries"
+msgstr "نمایش %s ورودی"
+
+#: backend/reviews.php:69 backend/index.php:148 backend/users.php:124
+#: backend/edit_user.php:287 backend/markers.php:173
+msgid "Loading"
+msgstr "بارگذاری"
+
+#: backend/reviews.php:70 backend/users.php:125 backend/edit_user.php:288
+#: backend/markers.php:174
+msgid "Processing"
+msgstr "در حال پردازش"
+
+#: backend/reviews.php:72 backend/users.php:127 backend/edit_user.php:290
+#: backend/markers.php:176
+msgid "No matching records found"
+msgstr "هیچ رکوردی یافت نشد"
+
+#: backend/reviews.php:74 backend/users.php:129 backend/edit_user.php:292
+#: backend/markers.php:178
+msgid "First"
+msgstr "اولین"
+
+#: backend/reviews.php:75 backend/users.php:130 backend/edit_user.php:293
+#: backend/markers.php:179
+msgid "Last"
+msgstr "آخرین"
+
+#: backend/reviews.php:76 backend/users.php:131 backend/edit_user.php:294
+#: backend/markers.php:180
+msgid "Next"
+msgstr "بعدی"
+
+#: backend/reviews.php:77 backend/users.php:132 backend/edit_user.php:295
+#: backend/markers.php:181
+msgid "Previous"
+msgstr "قبلی"
+
+#: backend/reviews.php:80 backend/users.php:135 backend/edit_user.php:298
+#: backend/markers.php:184
+msgid "activate to sort column ascending"
+msgstr ": برای مرتب سازی ستون صعودی فعال شود"
+
+#: backend/reviews.php:81 backend/users.php:136 backend/edit_user.php:299
+#: backend/markers.php:185
+msgid "activate to sort column descending"
+msgstr "فعال کردن گزینه مرتب کردن ستون نزولی"
+
+#: backend/icons_library.php:35
+msgid "Icons List"
+msgstr "لیست آیکن"
+
+#: backend/icons_library.php:39
+msgid "Loading icons"
+msgstr "بارگذاری آیکون ..."
+
+#: backend/index.php:146
+msgid "UPDATE IN PROGRESS"
+msgstr "بروز رسانی در حال انجام"
+
+#: backend/index.php:150
+msgid "Not close this window"
+msgstr "این پنجره را ن ببند"
+
+#: backend/index.php:198
+msgid "EDIT"
+msgstr "ویرایش"
+
+#: backend/index.php:199
+msgid "PUBLISH"
+msgstr "انتشار"
+
+#: backend/index.php:200
+msgid "PREVIEW"
+msgstr "پیش نمایش"
+
+#: backend/index.php:201 backend/edit_map.php:557 backend/edit_category.php:136
+msgid "MARKERS"
+msgstr "نشانگر"
+
+#: backend/index.php:202 backend/add_marker.php:408 backend/markers.php:45
+#: backend/edit_marker.php:483 backend/topbar.php:51 backend/topbar.php:73
+#: backend/topbar.php:106
+msgid "DELETE"
+msgstr "حذف"
+
+#: backend/index.php:203
+msgid "DUPLICATE"
+msgstr "تکراری"
+
+#: backend/index.php:204
+msgid "MAIN IMAGE"
+msgstr "تصویر اصلی"
+
+#: backend/index.php:205 backend/add_marker.php:405 backend/edit_marker.php:480
+msgid "SET AS MAIN"
+msgstr "به عنوان اصلی تنظیم کنید"
+
+#: backend/index.php:206
+msgid "SEARCHING"
+msgstr "جستجوکردن"
+
+#: backend/index.php:207 backend/add_marker.php:207 backend/edit_marker.php:282
+msgid "GET GPS POSITION"
+msgstr "موقعیت GPS را دریافت کنید"
+
+#: backend/index.php:208
+msgid "No icon images in this library!"
+msgstr "هیچ تصویر آیکونی در این کتابخانه وجود ندارد!"
+
+#: backend/index.php:209
+msgid "Are you sure you want to delete?"
+msgstr "آیا مطمئنید که میخواهید حذف کنید؟"
+
+#: backend/index.php:210
+msgid "Are you sure you want to assign this icon to all the markers?"
+msgstr "آیا مطمئن هستید که می خواهید این نماد را به همه نشانگرها اختصاص دهید؟"
+
+#: backend/index.php:211
+msgid "copied"
+msgstr "کپی شده"
+
+#: backend/add_marker.php:33 backend/edit_marker.php:35
+msgid "SETTINGS"
+msgstr "تنظیمات"
+
+#: backend/add_marker.php:36 backend/edit_marker.php:38
+msgid "STYLE"
+msgstr "استایل"
+
+#: backend/add_marker.php:39 backend/edit_marker.php:41
+msgid "IMAGES"
+msgstr "تصاویر"
+
+#: backend/add_marker.php:42 backend/edit_marker.php:44
+msgid "EXTRA INFORMATIONS"
+msgstr "اطلاعات اضافی"
+
+#: backend/add_marker.php:51 backend/edit_marker.php:110
+msgid "General"
+msgstr "عمومی"
+
+#: backend/add_marker.php:63 backend/users.php:46 backend/edit_user.php:100
+#: backend/markers.php:75 backend/edit_marker.php:122
+msgid "Active"
+msgstr "فعال"
+
+#: backend/add_marker.php:69 backend/markers.php:78 backend/edit_marker.php:140
+msgid "Featured"
+msgstr "ویژه"
+
+#: backend/add_marker.php:69 backend/edit_marker.php:140
+msgid "show this marker on featured list"
+msgstr "این نشانگر را در لیست ویژه نشان دهید"
+
+#: backend/add_marker.php:75 backend/markers.php:73 backend/edit_marker.php:146
+msgid "Category"
+msgstr "دسته بندی"
+
+#: backend/add_marker.php:107 backend/edit_marker.php:178
+msgid "Website Link"
+msgstr "لینک وب سایت"
+
+#: backend/add_marker.php:113 backend/edit_marker.php:184
+msgid "Website Name"
+msgstr "نام وب سایت"
+
+#: backend/add_marker.php:156 backend/edit_marker.php:227
+msgid "Position"
+msgstr "موقعیت"
+
+#: backend/add_marker.php:174 backend/edit_marker.php:245
+msgid "Visible from Zoom Level"
+msgstr "از سطح زوم قابل مشاهده است"
+
+#: backend/add_marker.php:188 backend/edit_marker.php:263
+msgid "Geofence Radius"
+msgstr "شعاع Geofence"
+
+#: backend/add_marker.php:194 backend/edit_marker.php:269
+msgid "Geofence Color"
+msgstr "رنگ Geofence"
+
+#: backend/add_marker.php:201 backend/edit_marker.php:276
+msgid "ADDRESS"
+msgstr "آدرس"
+
+#: backend/add_marker.php:201 backend/edit_marker.php:276
+msgid "POSITION"
+msgstr "موقعیت"
+
+#: backend/add_marker.php:204 backend/edit_marker.php:279
+msgid "SET POSITION"
+msgstr "تنظیم موقعیت"
+
+#: backend/add_marker.php:214 backend/edit_marker.php:289
+msgid "Zoom Level"
+msgstr "سطح بزرگنمایی"
+
+#: backend/add_marker.php:215 backend/edit_marker.php:290
+msgid "click/drag on map to change marker's position"
+msgstr "برای تغییر موقعیت نشانگر روی نقشه کلیک کنید/ بکشید"
+
+#: backend/add_marker.php:227 backend/edit_marker.php:302
+msgid "Icon Style"
+msgstr "استایل آیکون"
+
+#: backend/add_marker.php:233 backend/edit_marker.php:308
+msgid "Type"
+msgstr "نوع"
+
+#: backend/add_marker.php:235 backend/edit_map.php:315 backend/edit_map.php:513
+#: backend/edit_category.php:91 backend/edit_marker.php:310
+msgid "None"
+msgstr "هیچ یک"
+
+#: backend/add_marker.php:236 backend/edit_map.php:514
+#: backend/edit_category.php:92 backend/edit_marker.php:311
+msgid "Default"
+msgstr "پیش فرض"
+
+#: backend/add_marker.php:237 backend/edit_map.php:515
+#: backend/edit_category.php:93 backend/edit_marker.php:312
+msgid "Custom Icon Library"
+msgstr "کتابخانه آیکون سفارشی"
+
+#: backend/add_marker.php:243 backend/add_marker.php:253
+#: backend/edit_category.php:99 backend/edit_category.php:109
+#: backend/edit_marker.php:318 backend/edit_marker.php:328
+msgid "Icon"
+msgstr "آیکون"
+
+#: backend/add_marker.php:244 backend/add_marker.php:430
+#: backend/add_marker.php:469 backend/edit_map.php:522
+#: backend/edit_category.php:100 backend/edit_marker.php:319
+#: backend/edit_marker.php:505 backend/edit_marker.php:544
+msgid "Select Icon"
+msgstr "انتخاب آیکون"
+
+#: backend/add_marker.php:254 backend/edit_map.php:532
+#: backend/edit_category.php:110 backend/edit_marker.php:329
+msgid "Select Library Icon"
+msgstr "انتخاب نماد کتابخانه"
+
+#: backend/add_marker.php:263 backend/edit_marker.php:338
+msgid "Background"
+msgstr "پس زمینه"
+
+#: backend/add_marker.php:269 backend/edit_marker.php:344
+msgid "Color"
+msgstr "رنگ"
+
+#: backend/add_marker.php:275 backend/edit_category.php:129
+#: backend/edit_marker.php:350
+msgid "Size"
+msgstr "اندازه"
+
+#: backend/add_marker.php:284 backend/edit_marker.php:359
+msgid "Detail Window"
+msgstr "پنجره جزئیات"
+
+#: backend/add_marker.php:284 backend/edit_marker.php:359
+msgid "opens the details window by clicking on this marker"
+msgstr "با کلیک بر روی این نشانگر، پنجره جزئیات باز می شود"
+
+#: backend/add_marker.php:291 backend/edit_map.php:163
+#: backend/edit_marker.php:366
+msgid "Directions"
+msgstr "جهت ها"
+
+#: backend/add_marker.php:291 backend/edit_marker.php:366
+msgid "enable the button 'directions' for this marker"
+msgstr "دکمه 'directions' را برای این نشانگر فعال کنید"
+
+#: backend/add_marker.php:297 backend/edit_map.php:169
+#: backend/edit_marker.php:372
+msgid "Street View"
+msgstr "نمای خیابان"
+
+#: backend/add_marker.php:297 backend/edit_marker.php:372
+msgid "enable the button 'street view' for this marker"
+msgstr "دکمه \"نمای خیابان\" را برای این نشانگر فعال کنید"
+
+#: backend/add_marker.php:303 backend/edit_marker.php:378
+msgid "Review"
+msgstr "بررسی"
+
+#: backend/add_marker.php:303 backend/edit_marker.php:378
+msgid "enable the reviews for this marker"
+msgstr "بررسی ها را برای این نشانگر فعال کنید"
+
+#: backend/add_marker.php:309 backend/edit_map.php:181
+#: backend/edit_marker.php:384
+msgid "Share"
+msgstr "اشتراک گذاری"
+
+#: backend/add_marker.php:309 backend/edit_marker.php:384
+msgid "enable share buttons for this marker"
+msgstr "دکمه های اشتراک گذاری را برای این نشانگر فعال کنید"
+
+#: backend/add_marker.php:318 backend/edit_map.php:151
+#: backend/edit_marker.php:393
+msgid "Popup"
+msgstr "پاپ آپ"
+
+#: backend/add_marker.php:318 backend/edit_marker.php:393
+msgid "display popup on hover over this marker"
+msgstr "نمایش پنجره بازشو روی این نشانگر"
+
+#: backend/add_marker.php:325 backend/edit_marker.php:400
+msgid "Image Height"
+msgstr "ارتفاع تصویر"
+
+#: backend/add_marker.php:336 backend/edit_marker.php:411
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: backend/add_marker.php:342 backend/edit_marker.php:417
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: backend/add_marker.php:357 backend/edit_marker.php:432
+msgid "Images"
+msgstr "تصاویر"
+
+#: backend/add_marker.php:371 backend/publish.php:81
+#: backend/edit_marker.php:446
+msgid "Upload Image"
+msgstr "آپلود تصویر"
+
+#: backend/add_marker.php:397 backend/edit_marker.php:472
+msgid "Image Action"
+msgstr "اکشن تصویر"
+
+#: backend/add_marker.php:402 backend/edit_marker.php:477
+msgid "Select image first!"
+msgstr "ابتدا تصویر را انتخاب کنید"
+
+#: backend/add_marker.php:421 backend/edit_marker.php:496
+msgid "Extra Button"
+msgstr "دکمه اضافی"
+
+#: backend/add_marker.php:429 backend/edit_marker.php:504
+msgid "Button Icon"
+msgstr "آیکون دکمه"
+
+#: backend/add_marker.php:439 backend/edit_marker.php:514
+msgid "Button Title"
+msgstr "عنوان دکمه"
+
+#: backend/add_marker.php:447 backend/edit_marker.php:522
+msgid "Custom Content"
+msgstr "محتوای سفارشی"
+
+#: backend/add_marker.php:447 backend/add_marker.php:478
+#: backend/edit_map.php:375 backend/edit_marker.php:522
+#: backend/edit_marker.php:553
+msgid "link"
+msgstr "لینک"
+
+#: backend/add_marker.php:447 backend/edit_marker.php:522
+msgid "embed link"
+msgstr "پیوند را جاسازی کنید"
+
+#: backend/add_marker.php:447 backend/add_marker.php:478
+#: backend/edit_marker.php:522 backend/edit_marker.php:553
+msgid "text"
+msgstr "متن"
+
+#: backend/add_marker.php:460 backend/edit_marker.php:535
+msgid "Extra Fields"
+msgstr "فیلدهای اضافی"
+
+#: backend/add_marker.php:468 backend/edit_marker.php:543
+msgid "Field Icon"
+msgstr "لودر آیکون"
+
+#: backend/add_marker.php:478 backend/edit_marker.php:553
+msgid "Field Value"
+msgstr "مقدار فیلد"
+
+#: backend/add_marker.php:478 backend/edit_marker.php:553
+msgid "download"
+msgstr "دانلود"
+
+#: backend/add_marker.php:495 backend/edit_map.php:608
+#: backend/edit_category.php:149 backend/edit_marker.php:570
+msgid "Library Icons"
+msgstr "آیکن کتابخانه"
+
+#: backend/add_marker.php:501 backend/add_marker.php:528
+#: backend/add_marker.php:549 backend/add_marker.php:570
+#: backend/add_marker.php:591 backend/add_marker.php:647 backend/users.php:98
+#: backend/edit_profile.php:97 backend/edit_user.php:201
+#: backend/edit_user.php:219 backend/markers_connections.php:102
+#: backend/markers_connections.php:161 backend/publish.php:234
+#: backend/maps.php:64 backend/maps.php:81 backend/maps.php:98
+#: backend/edit_map.php:614 backend/story.php:101 backend/story.php:153
+#: backend/markers.php:109 backend/markers.php:126
+#: backend/edit_category.php:155 backend/edit_category.php:172
+#: backend/edit_marker.php:576 backend/edit_marker.php:603
+#: backend/edit_marker.php:624 backend/edit_marker.php:645
+#: backend/edit_marker.php:666 backend/edit_marker.php:722
+#: backend/edit_marker.php:739
+msgid "Close"
+msgstr "بستن"
+
+#: backend/add_marker.php:514 backend/add_marker.php:604
+#: backend/edit_marker.php:589 backend/edit_marker.php:679
+msgid "Link Text"
+msgstr "متن لینک"
+
+#: backend/add_marker.php:520 backend/add_marker.php:541
+#: backend/add_marker.php:562 backend/add_marker.php:639
+#: backend/edit_marker.php:595 backend/edit_marker.php:616
+#: backend/edit_marker.php:637 backend/edit_marker.php:714
+msgid "URL"
+msgstr "آدرس"
+
+#: backend/add_marker.php:527 backend/add_marker.php:548
+#: backend/add_marker.php:569 backend/add_marker.php:590
+#: backend/add_marker.php:646 backend/edit_marker.php:602
+#: backend/edit_marker.php:623 backend/edit_marker.php:644
+#: backend/edit_marker.php:665 backend/edit_marker.php:721
+msgid "Insert"
+msgstr "درج"
+
+#: backend/add_marker.php:583 backend/edit_marker.php:658
+msgid "Text"
+msgstr "متن"
+
+#: backend/add_marker.php:610 backend/edit_marker.php:685
+msgid "File"
+msgstr "فایل"
+
+#: backend/add_marker.php:620 backend/edit_marker.php:695
+msgid "Upload File"
+msgstr "آپلود فایل"
+
+#: backend/add_marker.php:744 backend/edit_map.php:656
+#: backend/edit_category.php:189 backend/edit_marker.php:862
+msgid "Search Icon"
+msgstr "آیکون جستجو"
+
+#: backend/add_marker.php:745 backend/edit_map.php:657
+#: backend/edit_category.php:190 backend/edit_marker.php:863
+msgid "Show All"
+msgstr "نمایش همه"
+
+#: backend/add_marker.php:746 backend/edit_map.php:658 backend/settings.php:488
+#: backend/edit_category.php:191 backend/edit_marker.php:864
+#: backend/topbar.php:196
+msgid "Cancel"
+msgstr "لغو"
+
+#: backend/ajax/duplicate_marker.php:44 backend/ajax/duplicate_map.php:35
+msgid "duplicated"
+msgstr "آگهی تکراری"
+
+#: backend/ajax/upload_meta_image.php:57
+msgid "Retry."
+msgstr "دوباره امتحان کنید."
+
+#: backend/ajax/upload_meta_image.php:65
+msgid "Only jpg,png,webp files are supported."
+msgstr "فقط فایل های jpg، png، webp پشتیبانی می شوند."
+
+#: backend/ajax/upload_logo_image.php:37
+msgid "Only png files are supported."
+msgstr "فقط jpg,فایل های png پشتیبانی می شوند."
+
+#: backend/ajax/save_profile.php:28
+msgid "Username already registered!"
+msgstr "نام کاربری در حال حاضر ثبت شده!"
+
+#: backend/ajax/save_profile.php:57 backend/ajax/save_profile.php:60
+msgid "Error"
+msgstr "خطا"
+
+#: backend/ajax/upload_geojson.php:37
+msgid "Only json, geojson files are supported."
+msgstr "فقط فایل های json، geojson پشتیبانی می شوند."
+
+#: backend/users.php:20
+msgid "User's Role Permissions"
+msgstr "مجوزهای نقش کاربر"
+
+#: backend/users.php:23
+msgid "ADMINISTRATOR"
+msgstr "مدیر"
+
+#: backend/users.php:23
+msgid "manage users | manage maps of all users"
+msgstr "مدیریت کاربران | مدیریت نقشه های همه کاربران"
+
+#: backend/users.php:24
+msgid "EDITOR"
+msgstr "ویرایشگر"
+
+#: backend/users.php:24
+msgid "they only manage the maps that are associated with them"
+msgstr "آنها فقط نقشه هایی را که با آنها مرتبط است مدیریت می کنند"
+
+#: backend/users.php:25
+msgid "CUSTOMER"
+msgstr "مشتری"
+
+#: backend/users.php:25
+msgid "they only manage their own maps"
+msgstr "آنها فقط نقشه های خود را مدیریت می کنند"
+
+#: backend/users.php:33
+msgid "ADD USER"
+msgstr "اضافه کردن کاربر"
+
+#: backend/users.php:45 backend/users.php:74 backend/edit_user.php:84
+msgid "Role"
+msgstr "نقش"
+
+#: backend/users.php:62
+msgid "New User"
+msgstr "کاربر جدید"
+
+#: backend/users.php:76 backend/edit_user.php:86
+msgid "Customer"
+msgstr "مشتری"
+
+#: backend/users.php:77 backend/edit_user.php:87
+msgid "Administrator"
+msgstr "مدیر"
+
+#: backend/users.php:78 backend/edit_user.php:88
+msgid "Editor"
+msgstr "ویرایشگر"
+
+#: backend/users.php:90 backend/edit_profile.php:89
+msgid "Repeat Password"
+msgstr "تکرار رمز عبور"
+
+#: backend/users.php:97 backend/maps.php:63
+msgid "Create"
+msgstr "ایجاد"
+
+#: backend/edit_profile.php:14 backend/edit_user.php:35
+msgid "Account"
+msgstr "حساب کاربری"
+
+#: backend/edit_profile.php:26 backend/edit_user.php:47 backend/edit_map.php:60
+msgid "Language"
+msgstr "زبان"
+
+#: backend/edit_profile.php:28 backend/edit_user.php:49 backend/edit_map.php:62
+#: backend/settings.php:195
+msgid "Default Language"
+msgstr "زبان پیش فرض"
+
+#: backend/edit_profile.php:64
+msgid "CHANGE"
+msgstr "تغییر"
+
+#: backend/edit_profile.php:77 backend/edit_user.php:181
+msgid "Change Password"
+msgstr "تغییر رمز عبور"
+
+#: backend/edit_profile.php:96 backend/edit_user.php:200
+msgid "Change"
+msgstr "تغییر"
+
+#: backend/edit_user.php:95
+msgid "CHANGE PASSWORD"
+msgstr "تغییر رمز عبور"
+
+#: backend/edit_user.php:116 backend/dashboard.php:35 backend/dashboard.php:68
+#: backend/sidebar.php:120 backend/topbar.php:18
+msgid "Maps"
+msgstr "نقشه ها"
+
+#: backend/edit_user.php:131 backend/dashboard.php:50 backend/sidebar.php:125
+#: backend/topbar.php:27
+msgid "Markers"
+msgstr "نشانگرها"
+
+#: backend/edit_user.php:147
+msgid "Assigned Maps"
+msgstr "نقشه های اختصاص داده شده"
+
+#: backend/edit_user.php:153
+msgid "Assign"
+msgstr "اختصاص دادن"
+
+#: backend/edit_user.php:154 backend/edit_map.php:334
+msgid "Map"
+msgstr "نقشه"
+
+#: backend/edit_user.php:155 backend/topbar.php:22
+msgid "Edit Map"
+msgstr "ویرایش نقشه"
+
+#: backend/edit_user.php:156
+msgid "Create Markers"
+msgstr "ایجاد نشانگر"
+
+#: backend/edit_user.php:157
+msgid "Edit Markers"
+msgstr "ویرایش نشانگرها"
+
+#: backend/edit_user.php:158
+msgid "Delete Markers"
+msgstr "نشانگرها را حذف کنید"
+
+#: backend/edit_user.php:159 backend/sidebar.php:130 backend/topbar.php:57
+msgid "Connections"
+msgstr "اتصالات"
+
+#: backend/edit_user.php:160 backend/sidebar.php:135 backend/topbar.php:118
+msgid "Geometries"
+msgstr "هندسه ها"
+
+#: backend/edit_user.php:161 backend/sidebar.php:140 backend/edit_map.php:145
+#: backend/topbar.php:61
+msgid "Story"
+msgstr "استوری"
+
+#: backend/edit_user.php:162 backend/sidebar.php:146 backend/edit_map.php:115
+#: backend/topbar.php:65
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: backend/edit_user.php:163 backend/sidebar.php:151 backend/topbar.php:78
+msgid "Icons Library"
+msgstr "کتابخانه آیکون ها"
+
+#: backend/edit_user.php:164 backend/sidebar.php:156 backend/edit_map.php:175
+#: backend/topbar.php:82
+msgid "Reviews"
+msgstr "نظرات"
+
+#: backend/edit_user.php:165 backend/sidebar.php:167 backend/topbar.php:90
+msgid "Publish"
+msgstr "انتشار"
+
+#: backend/edit_user.php:193
+msgid "Repeat password"
+msgstr "تکرار رمز عبور"
+
+#: backend/edit_user.php:211
+msgid "Delete User"
+msgstr "حذف کاربر"
+
+#: backend/edit_user.php:214
+msgid "Are you sure you want to delete the user?"
+msgstr "آیا مطمئن هستید که می خواهید کاربر را حذف کنید؟"
+
+#: backend/edit_user.php:215
+msgid "Attention: all the maps of that user will be deleted!"
+msgstr "توجه: تمام نقشه های آن کاربر حذف خواهد شد!"
+
+#: backend/edit_user.php:218 backend/maps.php:80 backend/markers.php:108
+#: backend/edit_category.php:171
+msgid "Yes, Delete"
+msgstr "بله، حذف شود"
+
+#: backend/markers_connections.php:25
+msgid "ADD CONNECTION"
+msgstr "افزودن اتصال"
+
+#: backend/markers_connections.php:37
+msgid "Line"
+msgstr "خط"
+
+#: backend/markers_connections.php:54
+msgid "Add Connection"
+msgstr "افزودن اتصال"
+
+#: backend/markers_connections.php:76 backend/markers_connections.php:134
+msgid "Line Color"
+msgstr "رنگ خط"
+
+#: backend/markers_connections.php:82 backend/markers_connections.php:140
+msgid "Line Width"
+msgstr "عرض خط"
+
+#: backend/markers_connections.php:88 backend/markers_connections.php:146
+msgid "Popup Title"
+msgstr "عنوان پاپ آپ"
+
+#: backend/markers_connections.php:94 backend/markers_connections.php:152
+msgid "Popup Description"
+msgstr "توضیحات پاپ آپ"
+
+#: backend/markers_connections.php:101 backend/story.php:100
+msgid "Yes, Add"
+msgstr "بله، افزودن"
+
+#: backend/markers_connections.php:112
+msgid "Edit Connection"
+msgstr "ویرایش اتصال"
+
+#: backend/markers_connections.php:159 backend/story.php:151
+msgid "Yes, Save"
+msgstr "بله، ذخیره کنید"
+
+#: backend/markers_connections.php:160 backend/story.php:152
+msgid "Delete"
+msgstr "حذف"
+
+#: backend/categories.php:25
+msgid "ADD CATEGORY"
+msgstr "افزودن دسته بندی"
+
+#: backend/categories.php:37 backend/add_category.php:31
+#: backend/edit_category.php:69
+msgid "Default selected"
+msgstr "پیش فرض انتخاب شده"
+
+#: backend/dashboard.php:12
+#, php-format
+msgid ""
+"Welcome to %s configuration panel, where you can create your virtual tours "
+"in a few simple steps."
+msgstr ""
+"خوش آمدید %s پانل پیکربندی، که در آن شما می توانید تورهای مجازی خود را در "
+"چند مرحله ساده ایجاد کنید."
+
+#: backend/dashboard.php:20
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: backend/dashboard.php:65
+msgid "Visitors N."
+msgstr "بازدید کنندگان N."
+
+#: backend/dashboard.php:68
+#, php-format
+msgid "No maps created yet. Go to %s and create a new one!"
+msgstr "هنوز نقشه ای ایجاد نشده است. به %s بروید و یک مورد جدید ایجاد کنید!"
+
+#: backend/dashboard.php:77
+msgid "Markers Count"
+msgstr "تعداد نشانگرها"
+
+#: backend/publish.php:34
+msgid "Protection"
+msgstr "حفاظت"
+
+#: backend/publish.php:45 backend/topbar.php:21 backend/topbar.php:30
+#: backend/topbar.php:51 backend/topbar.php:68 backend/topbar.php:73
+#: backend/topbar.php:93 backend/topbar.php:108 backend/topbar.php:113
+msgid "SAVE"
+msgstr "ذخیره"
+
+#: backend/publish.php:56
+msgid "Meta Tag"
+msgstr "متا تگ"
+
+#: backend/publish.php:63
+msgid "Title"
+msgstr "عنوان"
+
+#: backend/publish.php:71
+msgid "Image"
+msgstr "تصویر"
+
+#: backend/publish.php:73 backend/settings.php:109 backend/settings.php:147
+msgid "DELETE IMAGE"
+msgstr "حذف تصویر"
+
+#: backend/publish.php:96 backend/sidebar.php:162 backend/topbar.php:86
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: backend/publish.php:129
+msgid "Share & Embed"
+msgstr "Share & Embed"
+
+#: backend/publish.php:135 backend/settings.php:50
+msgid "Status"
+msgstr "وضعیت"
+
+#: backend/publish.php:136
+msgid "Activated"
+msgstr "فعال شده"
+
+#: backend/publish.php:136
+msgid "Deactivated"
+msgstr "غیرفعال شده"
+
+#: backend/publish.php:139
+msgid "Show as first page"
+msgstr "نمایش به عنوان صفحه اول"
+
+#: backend/publish.php:139
+msgid "only visible to administrators"
+msgstr "فقط برای مدیران قابل مشاهده است"
+
+#: backend/publish.php:145
+msgid "Link"
+msgstr "لینک"
+
+#: backend/publish.php:146
+msgid "Url variables"
+msgstr "متغیرهای آدرس اینترنتی"
+
+#: backend/publish.php:150 backend/publish.php:191 backend/edit_marker.php:70
+msgid "OPEN LINK"
+msgstr "لینک باز"
+
+#: backend/publish.php:153 backend/publish.php:194 backend/publish.php:210
+#: backend/edit_marker.php:73
+msgid "COPY TO CLIPBOARD"
+msgstr "کپی به کلیپ بورد"
+
+#: backend/publish.php:156 backend/publish.php:197 backend/edit_marker.php:76
+msgid "QR CODE"
+msgstr "کد QR"
+
+#: backend/publish.php:184
+msgid "Friendly Link"
+msgstr "پیوند دوستانه"
+
+#: backend/publish.php:206
+msgid "Embed Code"
+msgstr "کد جاسازی"
+
+#: backend/publish.php:227 backend/edit_marker.php:732
+msgid "QR Code"
+msgstr "کد QR"
+
+#: backend/maps.php:16
+msgid "CREATE NEW MAP"
+msgstr "ایجاد نقشه جدید"
+
+#: backend/maps.php:32
+msgid "LOADING MAPS"
+msgstr "بارگذاری نقشه ها ..."
+
+#: backend/maps.php:50
+msgid "New Map"
+msgstr "نقشه جدید"
+
+#: backend/maps.php:74
+msgid "Delete Map"
+msgstr "حذف نقشه"
+
+#: backend/maps.php:77
+msgid ""
+"Are you sure you want to delete the entire map, included all the markers?"
+msgstr "آیا مطمئنید که می‌خواهید کل نقشه، شامل همه نشانگرها را حذف کنید؟"
+
+#: backend/maps.php:91
+msgid "Duplicate Map"
+msgstr "نقشه تکراری"
+
+#: backend/maps.php:94
+msgid ""
+"Are you sure you want to duplicate the entire map, included all the markers?"
+msgstr "آیا مطمئنید که می‌خواهید کل نقشه، شامل همه نشانگرها را کپی کنید؟"
+
+#: backend/maps.php:97 backend/markers.php:125
+msgid "Yes, Duplicate"
+msgstr "بله، تکراری"
+
+#: backend/sidebar.php:96
+msgid "DEMO MODE"
+msgstr "حالت دمو"
+
+#: backend/sidebar.php:96
+msgid "ADD / SAVE features are disabled."
+msgstr "ویژگی‌های ADD/SAVE غیرفعال است."
+
+#: backend/sidebar.php:109 backend/topbar.php:11
+msgid "Dashboard"
+msgstr "داشبورد"
+
+#: backend/sidebar.php:114 backend/topbar.php:15
+msgid "Statistics"
+msgstr "آمار"
+
+#: backend/sidebar.php:174 backend/edit_map.php:40 backend/topbar.php:94
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: backend/sidebar.php:179 backend/topbar.php:97
+msgid "Upgrade"
+msgstr "ارتقاء"
+
+#: backend/sidebar.php:184 backend/topbar.php:100
+msgid "Users"
+msgstr "کاربران"
+
+#: backend/statistics.php:17
+msgid "Map Accesses"
+msgstr "دسترسی به نقشه"
+
+#: backend/statistics.php:27
+msgid "Marker views"
+msgstr "نماهای نشانگر"
+
+#: backend/statistics.php:48
+msgid "Loading..."
+msgstr "بارگذاری..."
+
+#: backend/statistics.php:49
+msgid "January"
+msgstr "ژانویه"
+
+#: backend/statistics.php:49
+msgid "February"
+msgstr "فوریه"
+
+#: backend/statistics.php:49
+msgid "March"
+msgstr "مارس"
+
+#: backend/statistics.php:49
+msgid "April"
+msgstr "آوریل"
+
+#: backend/statistics.php:49
+msgid "May"
+msgstr "می"
+
+#: backend/statistics.php:49
+msgid "June"
+msgstr "ژوئن"
+
+#: backend/statistics.php:49
+msgid "July"
+msgstr "جولای"
+
+#: backend/statistics.php:49
+msgid "August"
+msgstr "آگوست"
+
+#: backend/statistics.php:49
+msgid "September"
+msgstr "سپتامبر"
+
+#: backend/statistics.php:49
+msgid "October"
+msgstr "اکتبر"
+
+#: backend/statistics.php:49
+msgid "November"
+msgstr "نوامبر"
+
+#: backend/statistics.php:49
+msgid "December"
+msgstr "دسامبر"
+
+#: backend/statistics.php:50
+msgid "Sunday"
+msgstr "یکشنبه"
+
+#: backend/statistics.php:50
+msgid "Monday"
+msgstr "دوشنبه"
+
+#: backend/statistics.php:50
+msgid "Tuesday"
+msgstr "سه شنبه"
+
+#: backend/statistics.php:50
+msgid "Wednesday"
+msgstr "چهارشنبه"
+
+#: backend/statistics.php:50
+msgid "Thursday"
+msgstr "پنج شنبه"
+
+#: backend/statistics.php:50
+msgid "Friday"
+msgstr "جمعه"
+
+#: backend/statistics.php:50
+msgid "Saturday"
+msgstr "شنبه"
+
+#: backend/statistics.php:52
+msgid "Export"
+msgstr "برون ریزی"
+
+#: backend/statistics.php:53
+msgid "Import"
+msgstr "درون ریزی"
+
+#: backend/statistics.php:54
+msgid "From"
+msgstr "از"
+
+#: backend/statistics.php:55
+msgid "To"
+msgstr "به"
+
+#: backend/statistics.php:56
+msgid "Period"
+msgstr "دوره زمانی"
+
+#: backend/statistics.php:57
+msgid "Download image PNG"
+msgstr "دانلود تصویر PNG"
+
+#: backend/statistics.php:58
+msgid "Download image JPEG"
+msgstr "دانلود تصویر JPEG"
+
+#: backend/statistics.php:59
+msgid "Download document PDF"
+msgstr "دانلود سند PDF"
+
+#: backend/statistics.php:60
+msgid "Download image SVG"
+msgstr "دانلود تصویر SVG"
+
+#: backend/statistics.php:61
+msgid "Print"
+msgstr "چاپ"
+
+#: backend/edit_map.php:52
+msgid "User"
+msgstr "کاربر"
+
+#: backend/edit_map.php:52
+msgid "owner of the map"
+msgstr "صاحب نقشه"
+
+#: backend/edit_map.php:97
+msgid "enable the search box in the map"
+msgstr "کادر جستجو را در نقشه فعال کنید"
+
+#: backend/edit_map.php:103
+msgid "Search Locations"
+msgstr "مکانهای جستجو"
+
+#: backend/edit_map.php:103
+msgid "enables the search for a location / city"
+msgstr "جستجو برای مکان / شهر را فعال می کند"
+
+#: backend/edit_map.php:109
+msgid "List"
+msgstr "لیست"
+
+#: backend/edit_map.php:109
+msgid "enables the list of markers in the map"
+msgstr "لیست نشانگرها را در نقشه فعال می کند"
+
+#: backend/edit_map.php:115
+msgid "enable the category filter in the map"
+msgstr "فیلتر دسته را در نقشه فعال کنید"
+
+#: backend/edit_map.php:121
+msgid "Auto show List"
+msgstr "لیست نمایش خودکار"
+
+#: backend/edit_map.php:121
+msgid "automatically open the marker's list at first map loading"
+msgstr "به طور خودکار لیست نشانگر را در اولین بارگذاری نقشه باز می کند"
+
+#: backend/edit_map.php:127
+msgid "Auto show Categories"
+msgstr "دسته بندی های نمایش خودکار"
+
+#: backend/edit_map.php:127
+msgid "automatically open the categories filter"
+msgstr "به طور خودکار فیلتر دسته ها را باز کنید"
+
+#: backend/edit_map.php:133
+msgid "Auto show My Location"
+msgstr "نمایش خودکار موقعیت مکانی من"
+
+#: backend/edit_map.php:133
+msgid "automatically geolocate and show the location"
+msgstr "به طور خودکار موقعیت جغرافیایی و نشان دادن مکان"
+
+#: backend/edit_map.php:139
+msgid "Control Arrows Markers"
+msgstr "نشانگرهای فلش را کنترل کنید"
+
+#: backend/edit_map.php:139
+msgid "show controls arrows to loop through the markers"
+msgstr "فلش های کنترل را برای چرخش در نشانگرها نشان دهید"
+
+#: backend/edit_map.php:145
+msgid "enables the story feature in the map"
+msgstr "ویژگی داستان را در نقشه فعال می کند"
+
+#: backend/edit_map.php:151
+msgid "display popup on hover over markers"
+msgstr "نمایش پنجره بازشو روی نشانگرها"
+
+#: backend/edit_map.php:157
+msgid "Details Window"
+msgstr "پنجره جزئیات"
+
+#: backend/edit_map.php:157
+msgid "opens the details window by clicking on markers"
+msgstr "با کلیک بر روی نشانگرها، پنجره جزئیات را باز می کند"
+
+#: backend/edit_map.php:163
+msgid "enable the button 'directions' for markers"
+msgstr "دکمه 'directions' را برای نشانگرها فعال کنید"
+
+#: backend/edit_map.php:169
+msgid "enable the button 'street view' for markers"
+msgstr "دکمه \"نمای خیابان\" را برای نشانگرها فعال کنید"
+
+#: backend/edit_map.php:175
+msgid "enable the reviews for markers"
+msgstr "بررسی ها را برای نشانگرها فعال کنید"
+
+#: backend/edit_map.php:181
+msgid "enable share buttons for markers"
+msgstr "دکمه های اشتراک گذاری را برای نشانگرها فعال کنید"
+
+#: backend/edit_map.php:187
+msgid "Add Markers from Map"
+msgstr "نشانگرها را از نقشه اضافه کنید"
+
+#: backend/edit_map.php:187
+msgid "enables adding markers directly from the map"
+msgstr "اضافه کردن نشانگرها به طور مستقیم از نقشه را امکان پذیر می کند"
+
+#: backend/edit_map.php:189 backend/edit_map.php:268 backend/edit_map.php:432
+msgid "Disabled"
+msgstr "غیر فعال"
+
+#: backend/edit_map.php:190 backend/edit_map.php:433
+msgid "Enabled"
+msgstr "فعال"
+
+#: backend/edit_map.php:191
+msgid "Enabled (Automatic Approval)"
+msgstr "فعال (تأیید خودکار)"
+
+#: backend/edit_map.php:197
+msgid "Density color"
+msgstr "رنگ تراکم"
+
+#: backend/edit_map.php:197
+msgid "displays different colors based on the density of marker grouping"
+msgstr "رنگ های مختلف را بر اساس تراکم گروه بندی نشانگر نمایش می دهد"
+
+#: backend/edit_map.php:203
+msgid "Density Color Tolerance"
+msgstr "تحمل رنگ چگالی"
+
+#: backend/edit_map.php:203
+msgid "tolerance to color the grouped markers"
+msgstr "تحمل رنگ نشانگرهای گروه بندی شده"
+
+#: backend/edit_map.php:209
+msgid "Density Distance"
+msgstr "فاصله چگالی"
+
+#: backend/edit_map.php:209
+msgid ""
+"distance in pixels within which features will be clustered together. 0 to "
+"disable clustering"
+msgstr ""
+"فاصله بر حسب پیکسل که در آن ویژگی ها در کنار هم قرار می گیرند. 0 برای "
+"غیرفعال کردن خوشه بندی"
+
+#: backend/edit_map.php:215
+msgid "Initial Zoom"
+msgstr "زوم اولیه"
+
+#: backend/edit_map.php:215
+msgid "initial zoom when the map is loaded (1 far - 20 near)"
+msgstr "بزرگنمایی اولیه هنگام بارگیری نقشه (1 دور - 20 نزدیک)"
+
+#: backend/edit_map.php:217
+msgid "Fit Markers"
+msgstr "نشانگرهای مناسب"
+
+#: backend/edit_map.php:232
+msgid "Marker Zoom"
+msgstr "بزرگنمایی نشانگر"
+
+#: backend/edit_map.php:232
+msgid "zoom level when the marker is clicked (1 far - 20 near)"
+msgstr "سطح زوم هنگام کلیک روی نشانگر (1 دور - 20 نزدیک)"
+
+#: backend/edit_map.php:234 backend/edit_map.php:251
+msgid "No change"
+msgstr "بدون تغییر"
+
+#: backend/edit_map.php:249
+msgid "My Location Zoom"
+msgstr "بزرگنمایی موقعیت مکانی من"
+
+#: backend/edit_map.php:249
+msgid "zoom level when enabling geolocation (1 far - 20 near)"
+msgstr "سطح زوم هنگام فعال کردن موقعیت جغرافیایی (1 دور - 20 نزدیک)"
+
+#: backend/edit_map.php:266
+msgid "Highlight Markers (Search)"
+msgstr "نشانگرهای برجسته (جستجو)"
+
+#: backend/edit_map.php:266
+msgid ""
+"highlights the position of the marker when you hover over the search results "
+"(1 far - 20 near)"
+msgstr ""
+"هنگامی که ماوس را روی نتایج جستجو می‌برید، موقعیت نشانگر را برجسته می‌کند (1 "
+"دور - 20 نزدیک)"
+
+#: backend/edit_map.php:269
+msgid "Keep Zoom Level"
+msgstr "سطح زوم را حفظ کنید"
+
+#: backend/edit_map.php:284
+msgid "Markers Order by"
+msgstr "نشانگرها به ترتیب"
+
+#: backend/edit_map.php:286
+msgid "Priority"
+msgstr "اولویت"
+
+#: backend/edit_map.php:294
+msgid "Categories Filter Type"
+msgstr "دسته ها نوع فیلتر"
+
+#: backend/edit_map.php:296
+msgid "OR"
+msgstr "یا"
+
+#: backend/edit_map.php:297
+msgid "AND"
+msgstr "و"
+
+#: backend/edit_map.php:303
+msgid "Quality"
+msgstr "کیفیت"
+
+#: backend/edit_map.php:303
+msgid "map quality (high can slow movement)"
+msgstr "کیفیت نقشه (حرکت زیاد می تواند آهسته باشد)"
+
+#: backend/edit_map.php:305
+msgid "Low"
+msgstr "کم"
+
+#: backend/edit_map.php:306
+msgid "Medium"
+msgstr "متوسط"
+
+#: backend/edit_map.php:307
+msgid "High"
+msgstr "زیاد"
+
+#: backend/edit_map.php:313
+msgid "Weather"
+msgstr "آب و هوا"
+
+#: backend/edit_map.php:316
+msgid "Celsius"
+msgstr "سانتیگراد"
+
+#: backend/edit_map.php:317
+msgid "Fahrenheit"
+msgstr "فارنهایت"
+
+#: backend/edit_map.php:323
+msgid "Google Analytics"
+msgstr "تجزیه و تحلیل ترافیک گوگل"
+
+#: backend/edit_map.php:323
+msgid ""
+"Google Analytics Tracking ID. Note: Use the Friendly URL in Google "
+"Analytics's property url setting."
+msgstr ""
+"شناسه پیگیری گوگل آنالیتیکس توجه: از URL دوستانه در تنظیمات URL ویژگی Google "
+"Analytics استفاده کنید."
+
+#: backend/edit_map.php:375
+msgid "only needed if map style is different from default or custom version"
+msgstr ""
+"فقط در صورتی لازم است که سبک نقشه با نسخه پیش فرض یا سفارشی متفاوت باشد"
+
+#: backend/edit_map.php:383
+msgid "Street Url"
+msgstr "آدرس خیابان"
+
+#: backend/edit_map.php:389
+msgid "Street Max Zoom"
+msgstr "استریت مكس زوم"
+
+#: backend/edit_map.php:395
+msgid "Street Attributions"
+msgstr "اسناد خیابانی"
+
+#: backend/edit_map.php:401
+msgid "Satellite Url"
+msgstr "آدرس ماهواره ای"
+
+#: backend/edit_map.php:407
+msgid "Satellite Max Zoom"
+msgstr "ماهواره مكس زوم"
+
+#: backend/edit_map.php:413
+msgid "Satellite Attributions"
+msgstr "اسناد ماهواره ای"
+
+#: backend/edit_map.php:421
+msgid "Default view"
+msgstr "نمایش پیش فرض"
+
+#: backend/edit_map.php:424
+msgid "Satellite"
+msgstr "ماهواره"
+
+#: backend/edit_map.php:430
+msgid "Globe view"
+msgstr "نمای کره زمین"
+
+#: backend/edit_map.php:434
+msgid "Enabled (autostart)"
+msgstr "فعال (استارت خودکار)"
+
+#: backend/edit_map.php:446
+msgid "Style"
+msgstr "استایل"
+
+#: backend/edit_map.php:451
+msgid "Main color"
+msgstr "رنگ اصلی"
+
+#: backend/edit_map.php:457
+msgid "Font Viewer"
+msgstr "بیننده فونت"
+
+#: backend/edit_map.php:465 backend/settings.php:104
+msgid "Logo"
+msgstr "لوگو"
+
+#: backend/edit_map.php:473
+msgid "DELETE LOGO"
+msgstr "حذف لوگو"
+
+#: backend/edit_map.php:485 backend/settings.php:124
+msgid "Upload Logo Image"
+msgstr "آپلود تصویر لوگو"
+
+#: backend/edit_map.php:506
+msgid "Markers Icon"
+msgstr "نماد نشانگرها"
+
+#: backend/edit_map.php:511
+msgid "Default Markers Icon Type"
+msgstr "نوع نماد نشانگرهای پیش فرض"
+
+#: backend/edit_map.php:521 backend/edit_map.php:531
+msgid "Default Markers Icon"
+msgstr "نماد نشانگرهای پیش فرض"
+
+#: backend/edit_map.php:539
+msgid "Default Markers Icon Background"
+msgstr "پس‌زمینه نماد نشانگرهای پیش‌فرض"
+
+#: backend/edit_map.php:545
+msgid "Default Markers Icon Color"
+msgstr "رنگ نماد نشانگرهای پیش فرض"
+
+#: backend/edit_map.php:551
+msgid "Default Markers Size"
+msgstr "اندازه نشانگرهای پیش فرض"
+
+#: backend/edit_map.php:557 backend/edit_category.php:136
+msgid "ASSIGN ICON TO"
+msgstr "اختصاص نماد به"
+
+#: backend/edit_map.php:569
+msgid "Link or upload Json"
+msgstr "Json را لینک یا آپلود کنید"
+
+#: backend/edit_map.php:582
+msgid "Upload Json"
+msgstr "Json را آپلود کنید"
+
+#: backend/settings.php:16 backend/updater.php:43
+msgid "It looks like that you do not have permission to access this page"
+msgstr "به نظر می رسد که اجازه دسترسی به این صفحه را داري"
+
+#: backend/settings.php:24
+msgid "Please enter a valid purchase code to continue using the application."
+msgstr "لطفا یک کد خرید معتبر برای ادامه استفاده از برنامه را وارد کنید."
+
+#: backend/settings.php:33
+msgid "License"
+msgstr "لایسنس"
+
+#: backend/settings.php:39
+msgid "Purchase Code"
+msgstr "کد خرید"
+
+#: backend/settings.php:39
+msgid "Where i can find it?"
+msgstr "کجا ميتونم پيداش کنم ؟"
+
+#: backend/settings.php:46
+msgid "CHECK"
+msgstr "بررسی"
+
+#: backend/settings.php:75
+msgid "Branding"
+msgstr "نام تجاری"
+
+#: backend/settings.php:81
+msgid "Application Name"
+msgstr "نام برنامه"
+
+#: backend/settings.php:87
+msgid "Theme Color"
+msgstr "رنگ قالب"
+
+#: backend/settings.php:93
+msgid "Font Backend"
+msgstr "فونت Backend"
+
+#: backend/settings.php:99
+msgid "Welcome Message"
+msgstr "پیام خوش آمدگویی"
+
+#: backend/settings.php:99
+msgid "leave empty for default welcome message"
+msgstr "خالی بگذارید برای پیام خوش آمد گویی پیش فرض"
+
+#: backend/settings.php:118 backend/settings.php:156
+msgid "Choose file"
+msgstr "انتخاب فایل"
+
+#: backend/settings.php:142
+msgid "Login image"
+msgstr "تصویر ورود"
+
+#: backend/settings.php:162
+msgid "Upload Login Image"
+msgstr "آپلود تصویر ورود"
+
+#: backend/settings.php:189
+msgid "Localization"
+msgstr "بومی سازی"
+
+#: backend/settings.php:231
+msgid "Translation Type"
+msgstr "نوع ترجمه"
+
+#: backend/settings.php:240
+msgid "Languages Enabled"
+msgstr "زبان های فعال"
+
+#: backend/settings.php:241
+msgid "items selected"
+msgstr "انتخاب آیتم"
+
+#: backend/settings.php:241
+msgid "Deselect All"
+msgstr "لغو انتخاب همه"
+
+#: backend/settings.php:241
+msgid "Select All"
+msgstr "انتخاب همه"
+
+#: backend/settings.php:241
+msgid "Nothing selected"
+msgstr "هیچ چیز انتخاب نشده است"
+
+#: backend/settings.php:241 backend/functions.php:677
+msgid "No results matched"
+msgstr "هیچ نتیجه ای مطابقت ندارد"
+
+#: backend/settings.php:296
+msgid "Footer"
+msgstr "فوتر"
+
+#: backend/settings.php:302
+msgid "Name Item 1"
+msgstr "نام مورد 1"
+
+#: backend/settings.php:308
+msgid "Content Item 1"
+msgstr "آیتم محتوا 1"
+
+#: backend/settings.php:308 backend/settings.php:323 backend/settings.php:338
+msgid "insert a textual content or a link to an external site"
+msgstr "درج محتوای متنی یا پیوند به یک سایت خارجی"
+
+#: backend/settings.php:317
+msgid "Name Item 2"
+msgstr "نام مورد 2"
+
+#: backend/settings.php:323
+msgid "Content Item 2"
+msgstr "آیتم محتوا 2"
+
+#: backend/settings.php:332
+msgid "Name Item 3"
+msgstr "نام مورد 3"
+
+#: backend/settings.php:338
+msgid "Content Item 3"
+msgstr "آیتم محتوا 3"
+
+#: backend/settings.php:352
+msgid "Custom Viewer CSS"
+msgstr "سفارشی بیننده CSS"
+
+#: backend/settings.php:358
+msgid "General (affects all maps)"
+msgstr "عمومی (بر همه نقشه ها تأثیر می گذارد)"
+
+#: backend/settings.php:376
+msgid "Custom Backend CSS"
+msgstr "سفارشی بازگشت CSS"
+
+#: backend/settings.php:489
+msgid "Choose"
+msgstr "انتخاب"
+
+#: backend/story.php:25
+msgid "ADD MARKER TO STORY"
+msgstr "افزودن نشانگر به داستان"
+
+#: backend/story.php:37 backend/story.php:66 backend/story.php:117
+msgid "Zoom"
+msgstr "بزرگنمایی"
+
+#: backend/story.php:38 backend/markers.php:79
+msgid "Order"
+msgstr "سفارش"
+
+#: backend/story.php:54
+msgid "Add Marker to Story"
+msgstr "اضافه کردن نشانگر به داستان"
+
+#: backend/story.php:111 backend/topbar.php:53
+msgid "Edit Marker"
+msgstr "ویرایش نشانگر"
+
+#: backend/markers.php:24
+msgid "ADD MARKER"
+msgstr "افزودن نشانگر"
+
+#: backend/markers.php:29
+msgid "IMPORT EXCEL"
+msgstr "واردات اکسل"
+
+#: backend/markers.php:33
+msgid "BULK SELECT"
+msgstr "انتخاب انبوه"
+
+#: backend/markers.php:38
+msgid "SELECTED MARKERS"
+msgstr "نشانگرهای انتخابی"
+
+#: backend/markers.php:38
+msgid "select all"
+msgstr "انتخاب همه"
+
+#: backend/markers.php:38
+msgid "deselect all"
+msgstr "عدم انتخاب همه"
+
+#: backend/markers.php:49
+msgid "ACTIVATE"
+msgstr "فعال"
+
+#: backend/markers.php:52
+msgid "DISABLE"
+msgstr "غیرفعال"
+
+#: backend/markers.php:55
+msgid "VALIDATE"
+msgstr "تایید اعتبار"
+
+#: backend/markers.php:58 backend/markers.php:61
+msgid "FEATURED"
+msgstr "ویژه"
+
+#: backend/markers.php:74
+msgid "Address"
+msgstr "آدرس"
+
+#: backend/markers.php:76 backend/edit_marker.php:128
+msgid "Validated"
+msgstr "تایید شده"
+
+#: backend/markers.php:77 backend/edit_marker.php:134
+msgid "Centered"
+msgstr "مرکزی"
+
+#: backend/markers.php:94
+msgid "export markers"
+msgstr "نشانگرهای صادراتی"
+
+#: backend/markers.php:102
+msgid "Delete Marker"
+msgstr "نشانگر را حذف کنید"
+
+#: backend/markers.php:105
+msgid "Are you sure you want to delete the marker?"
+msgstr "آیا مطمئن هستید که می خواهید نشانگر را حذف کنید؟"
+
+#: backend/markers.php:119
+msgid "Duplicate Marker"
+msgstr "نشانگر تکراری"
+
+#: backend/markers.php:122
+msgid "Are you sure you want to duplicate the marker?"
+msgstr "آیا مطمئن هستید که می خواهید نشانگر را تکرار کنید؟"
+
+#: backend/add_category.php:10 backend/edit_category.php:48
+msgid "Details"
+msgstr "جزئیات"
+
+#: backend/add_category.php:22 backend/edit_category.php:60
+msgid "Parent Category"
+msgstr "دسته بندی مادر"
+
+#: backend/functions.php:558
+msgid "administrator"
+msgstr "مدیر"
+
+#: backend/edit_category.php:29 backend/edit_marker.php:60
+msgid "Direct Link"
+msgstr "لینک مستقیم"
+
+#: backend/edit_category.php:83
+msgid "Markers Icons"
+msgstr "نمادهای نشانگر"
+
+#: backend/edit_category.php:89
+msgid "Icon Type"
+msgstr "نوع آیکون"
+
+#: backend/edit_category.php:117
+msgid "Icon Background"
+msgstr "پس زمینه آیکون"
+
+#: backend/edit_category.php:123
+msgid "Icon Color"
+msgstr "رنگ آیکون"
+
+#: backend/edit_category.php:165
+msgid "Delete Category"
+msgstr "حذف دسته بندی"
+
+#: backend/edit_category.php:168
+msgid "Are you sure you want to delete the category?"
+msgstr "آیا مطمئن هستید که می خواهید این دسته را حذف کنید؟"
+
+#: backend/updater.php:52
+msgid "Version Check"
+msgstr "بررسی نسخه"
+
+#: backend/updater.php:57
+msgid "Current Version"
+msgstr "نسخه فعلی"
+
+#: backend/updater.php:57
+msgid "Latest Version"
+msgstr "آخرین نسخه"
+
+#: backend/updater.php:61
+msgid "Changelog"
+msgstr "تغییرات"
+
+#: backend/updater.php:75
+msgid "Download and Update"
+msgstr "دانلود و بروز رسانی"
+
+#: backend/updater.php:83
+msgid "Can't upgrade, please enable php zip extension."
+msgstr "نمی توانید ارتقا دهید، لطفا پسوند زیپ پی اچ پی را فعال کنید."
+
+#: backend/updater.php:91
+msgid ""
+"Be sure to perform a full manual backup of your current files and database "
+"before upgrading."
+msgstr ""
+"مطمئن باشید برای انجام یک نسخه پشتیبان کامل دستی از فایل های فعلی و پایگاه "
+"داده خود را قبل از ارتقاء."
+
+#: backend/updater.php:94
+msgid "I made the backup, continue"
+msgstr "من پشتيباني رو درست کردم، ادامه بدم"
+
+#: backend/updater.php:100
+msgid "UPGRADE NOW!"
+msgstr "ارتقاء در حال حاضر!"
+
+#: backend/updater.php:103
+msgid "click upgrade now to start"
+msgstr "کلیک کنید ارتقاء در حال حاضر برای شروع"
+
+#: backend/updater.php:134
+msgid "downloading ..."
+msgstr "دانلود..."
+
+#: backend/updater.php:150 backend/updater.php:157 backend/updater.php:181
+#: backend/updater.php:188
+msgid "error, please retry"
+msgstr "خطا، لطفا دوباره"
+
+#: backend/updater.php:164
+msgid "installing ... do not close this window!"
+msgstr "نصب... این پنجره را ن ببندید!"
+
+#: backend/updater.php:174
+msgid "upgrade completed successfully, you will now be logged out in 5 seconds"
+msgstr ""
+"ارتقاء با موفقیت به پایان رسید، شما در حال حاضر خواهد شد در 5 ثانیه وارد "
+"سیستم"
+
+#: backend/updater.php:198
+msgid "checking license"
+msgstr "چک کردن مجوز"
+
+#: backend/updater.php:232
+msgid "invalid license, unable to update"
+msgstr "مجوز نامعتبر، امکان به روز رسانی وجود ندارد"
+
+#: backend/import.php:56
+#, php-format
+msgid ""
+"Use %s template excel or the exported csv to import multiple markers at once."
+msgstr ""
+"از الگوی %s اکسل یا csv صادر شده برای وارد کردن چندین نشانگر به طور همزمان "
+"استفاده کنید."
+
+#: backend/import.php:56
+msgid "this"
+msgstr "این"
+
+#: backend/import.php:66 backend/import.php:93
+msgid "Import Markers"
+msgstr "نشانگرهای وارداتی"
+
+#: backend/import.php:99
+msgid "Ok"
+msgstr "باشه"
+
+#: backend/import.php:155
+msgid "IMPORTING MARKERS ... DO NOT CLOSE THIS WINDOW!!!!"
+msgstr "در حال وارد کردن نشانگرها ... این پنجره را نبندید!!!!"
+
+#: backend/edit_marker.php:52
+msgid ""
+"This marker was added by a person outside the system. Check the data entered "
+"before approving it."
+msgstr ""
+"این نشانگر توسط فردی خارج از سیستم اضافه شده است. قبل از تایید داده های وارد "
+"شده را بررسی کنید."
+
+#: backend/edit_marker.php:128
+msgid "it must be validated to be visible on the map"
+msgstr "باید تایید شود تا روی نقشه قابل مشاهده باشد"
+
+#: backend/edit_marker.php:134
+msgid "center the map on this marker"
+msgstr "نقشه را روی این نشانگر وسط قرار دهید"
+
+#: backend/topbar.php:31
+msgid "Add Marker"
+msgstr "افزودن نشانگر"
+
+#: backend/topbar.php:41
+msgid "EDIT PREVIOUS MARKER"
+msgstr "ویرایش نشانگر قبلی"
+
+#: backend/topbar.php:46
+msgid "EDIT NEXT MARKER"
+msgstr "ویرایش نشانگر بعدی"
+
+#: backend/topbar.php:69
+msgid "Add Category"
+msgstr "اضافه کردن دسته بندی"
+
+#: backend/topbar.php:74
+msgid "Edit Category"
+msgstr "ویرایش دسته بندی"
+
+#: backend/topbar.php:109
+msgid "Edit User"
+msgstr "ویرایش کاربر"
+
+#: backend/topbar.php:114
+msgid "Edit Profile"
+msgstr "ویرایش پروفایل"
+
+#: backend/topbar.php:173
+msgid "Edit profile"
+msgstr "ویرایش پروفایل"
+
+#: backend/topbar.php:177 backend/topbar.php:197
+msgid "Logout"
+msgstr "خروج"
+
+#: backend/topbar.php:189
+msgid "Ready to Leave?"
+msgstr "آماده اي بريم؟"
+
+#: backend/topbar.php:194
+msgid "Select Logout below if you are ready to end your current session."
+msgstr ""
+"اگر آماده پایان دادن به جلسه فعلی خود هستید، Logout زیر را انتخاب کنید."
+
+#~ msgid "Sheet Details"
+#~ msgstr "جزئیات ورق"
+
+#~ msgid "SELETE"
+#~ msgstr "انتخاب کنید"
+
+#~ msgid "ADD CATEGOR"
+#~ msgstr "افزودن دسته"
+
+#~ msgid "Select Category"
+#~ msgstr "انتخاب دسته بندی"
+
+#~ msgid "REVIEWS"
+#~ msgstr "نظرات"
+
+#~ msgid "ICONS LIBRARY"
+#~ msgstr "آیکن کتابخانه"
+
+#~ msgid "USERS"
+#~ msgstr "کاربران"
+
+#~ msgid "EDIT PROFILE"
+#~ msgstr "ویرایش پرونده"
+
+#~ msgid "EDIT USER"
+#~ msgstr "ویرایش کاربر"
+
+#~ msgid "CONNECTIONS"
+#~ msgstr "ارتباطات"
+
+#~ msgid "CATEGORIES"
+#~ msgstr "دسته بندی ها"
+
+#~ msgid "DASHBOARD"
+#~ msgstr "داشبورد"
+
+#~ msgid "Password Protection"
+#~ msgstr "حفاظت از رمز عبور"
+
+#~ msgid ""
+#~ "If you decide to protect your map with a password, at the first access it "
+#~ "will be required to visit it."
+#~ msgstr ""
+#~ "اگر تصمیم دارید از نقشه خود با رمز عبور محافظت کنید، در اولین دسترسی باید "
+#~ "از آن بازدید کنید."
+
+#~ msgid "PROTECT MAP"
+#~ msgstr "محافظت از نقشه"
+
+#~ msgid ""
+#~ "Your map is now protected with a password, click UNPROTECT to remove it."
+#~ msgstr ""
+#~ "نقشه شما اکنون با یک رمز عبور محافظت شده است، برای حذف آن روی UNPROTECT "
+#~ "کلیک کنید."
+
+#~ msgid "UNPROTECT MAP"
+#~ msgstr "UN PROTECT Map"
+
+#~ msgid "Current status"
+#~ msgstr "وضعیت کنونی"
+
+#~ msgid "DEACTIVATE"
+#~ msgstr "غیر فعال"
+
+#~ msgid "SET FRIENDLY URL"
+#~ msgstr "تنظیم آدرس دوستانه"
+
+#~ msgid "Map Friendly Url Link"
+#~ msgstr "پیوند URL دوستانه نقشه"
+
+#~ msgid "MAPS"
+#~ msgstr "نقشه"
+
+#~ msgid "STATISTICS"
+#~ msgstr "آمار"
+
+#~ msgid "EDIT MAP"
+#~ msgstr "ویرایش نقشه"
+
+#~ msgid "STORY"
+#~ msgstr "داستان"
+
+#~ msgid "EDIT CATEGORY"
+#~ msgstr "ویرایش دسته"
+
+#~ msgid "UPGRADE"
+#~ msgstr "ارتقاء"
+
+#~ msgid "End, Go back to the beginning"
+#~ msgstr "پایان، بازگشت به ابتدا"
+
+#~ msgid "categories"
+#~ msgstr "دسته بندی ها"
+
+#~ msgid "DEMO MODE: Add / Save functionality are disabled."
+#~ msgstr "حالت نسخه ی نمایشی: اضافه کردن / ذخیره عملکرد غیر فعال هستند."
+
+#~ msgid "Marker 1"
+#~ msgstr "نشانگر 1"
+
+#~ msgid "Marker 2"
+#~ msgstr "نشانگر 2"
+
+#~ msgid "enable reviews"
+#~ msgstr "بررسی ها را فعال کنید"
+
+#~ msgid "enable directions"
+#~ msgstr "جهت ها را فعال کنید"
+
+#~ msgid "enable street view"
+#~ msgstr "نمای خیابان را فعال کنید"
+
+#~ msgid "Pinned"
+#~ msgstr "سنجاق شده"
+
+#~ msgid "put on top of the marker's list"
+#~ msgstr "در بالای لیست نشانگر قرار دهید"

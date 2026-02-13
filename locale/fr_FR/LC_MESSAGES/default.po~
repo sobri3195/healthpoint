@@ -1,0 +1,2331 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-18 21:16+0100\n"
+"PO-Revision-Date: 2023-02-18 21:19+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: viewer/index.php:314
+msgid "This Map is password protected"
+msgstr "Cette carte est protégée par mot de passe"
+
+#: viewer/index.php:315
+msgid "Input password"
+msgstr "Mot de passe d’entrée"
+
+#: viewer/index.php:360
+msgid "add new marker"
+msgstr "ajouter un nouveau marqueur"
+
+#: viewer/index.php:364
+msgid "click on the map and place your marker"
+msgstr "cliquez sur la carte et placez votre marqueur"
+
+#: viewer/index.php:367
+msgid "drag the marker to adjust the position"
+msgstr "faites glisser le marqueur pour ajuster la position"
+
+#: viewer/index.php:367
+msgid "confirm"
+msgstr "confirmer"
+
+#: viewer/index.php:378
+msgid "DIRECTIONS"
+msgstr "ITINÉRAIRES"
+
+#: viewer/index.php:379
+msgid "STREET VIEW"
+msgstr "VUE SUR LA RUE"
+
+#: viewer/index.php:380
+msgid "WRITE A REVIEW"
+msgstr "ÉCRIRE UNE AVIS"
+
+#: viewer/index.php:440
+msgid "Average Rating"
+msgstr "Note moyenne"
+
+#: viewer/index.php:494 backend/reviews.php:31 backend/add_marker.php:51
+#: backend/categories.php:36 backend/maps.php:56 backend/edit_map.php:46
+#: backend/edit_map.php:281 backend/markers.php:55 backend/add_category.php:26
+#: backend/edit_category.php:54 backend/edit_marker.php:101
+msgid "Name"
+msgstr "Nom"
+
+#: viewer/index.php:497 backend/markers.php:44
+msgid "CANCEL"
+msgstr "ANNULER"
+
+#: viewer/index.php:498 backend/add_marker.php:37 backend/add_category.php:12
+msgid "ADD"
+msgstr "AJOUTER"
+
+#: viewer/index.php:504 backend/add_marker.php:243 backend/add_marker.php:293
+#: backend/edit_marker.php:305 backend/edit_marker.php:359
+msgid "Latitude"
+msgstr "Latitude"
+
+#: viewer/index.php:505 backend/add_marker.php:249 backend/add_marker.php:294
+#: backend/edit_marker.php:311 backend/edit_marker.php:360
+msgid "Longitude"
+msgstr "Longitude"
+
+#: viewer/index.php:519 backend/add_marker.php:101 backend/edit_map.php:417
+#: backend/edit_marker.php:163
+msgid "Street"
+msgstr "Rue"
+
+#: viewer/index.php:525 backend/add_marker.php:107 backend/edit_map.php:282
+#: backend/edit_marker.php:169
+msgid "City"
+msgstr "Ville"
+
+#: viewer/index.php:531 backend/add_marker.php:113 backend/edit_marker.php:175
+msgid "Postal Code"
+msgstr "Code postal"
+
+#: viewer/index.php:537 backend/add_marker.php:119 backend/edit_marker.php:181
+msgid "Country"
+msgstr "Pays"
+
+#: viewer/index.php:543
+msgid "Website"
+msgstr "Site web"
+
+#: viewer/index.php:549 backend/reviews.php:32 backend/add_marker.php:149
+#: backend/edit_marker.php:211
+msgid "E-mail"
+msgstr "E-mail"
+
+#: viewer/index.php:555 backend/add_marker.php:137 backend/edit_marker.php:199
+msgid "Phone"
+msgstr "Téléphone"
+
+#: viewer/index.php:561 backend/add_marker.php:143 backend/edit_marker.php:205
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: viewer/index.php:567 backend/add_marker.php:155 backend/edit_marker.php:217
+msgid "Hours"
+msgstr "Heures"
+
+#: viewer/index.php:573 backend/add_marker.php:161 backend/publish.php:67
+#: backend/story.php:93 backend/story.php:144 backend/edit_marker.php:223
+msgid "Description"
+msgstr "Description"
+
+#: viewer/index.php:589
+msgid "delete images"
+msgstr "supprimer des images"
+
+#: viewer/index.php:598
+msgid "Your Rating"
+msgstr "Votre note"
+
+#: viewer/index.php:606
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: viewer/index.php:609
+msgid "Your Email Address (optional)"
+msgstr "Votre adresse e-mail (facultatif)"
+
+#: viewer/index.php:612
+msgid "Type your Review here"
+msgstr "Tapez votre avis ici"
+
+#: viewer/index.php:616
+msgid "Type the code above"
+msgstr "Tapez le code ci-dessus"
+
+#: viewer/index.php:619
+msgid "Submit"
+msgstr "Envoyer"
+
+#: viewer/index.php:622
+msgid "Thanks for your review!"
+msgstr "Merci pour votre avis!"
+
+#: viewer/index.php:625 backend/reviews.php:71 backend/users.php:126
+#: backend/edit_user.php:289 backend/edit_map.php:97 backend/markers.php:158
+msgid "Search"
+msgstr "Rechercher"
+
+#: viewer/index.php:720
+msgid "Are you sure you want to CANCEL the request to insert this marker?"
+msgstr ""
+"Êtes-vous sûr de vouloir ANNULER la demande d'insertion de ce marqueur ?"
+
+#: viewer/index.php:721
+msgid "Are you sure you want to SEND the request to insert this marker?"
+msgstr ""
+"Êtes-vous sûr de vouloir ENVOYER la demande d'insertion de ce marqueur ?"
+
+#: viewer/index.php:722
+msgid ""
+"Thanks for inserting the marker! As soon as it is approved it will be "
+"visible on the map."
+msgstr ""
+"Merci d'avoir inséré le marqueur ! Dès qu'il sera approuvé, il sera visible "
+"sur la carte."
+
+#: viewer/index.php:723
+msgid "An error has occurred, please try again later."
+msgstr "Une erreur s'est produite, s'il vous plaît essayer à nouveau."
+
+#: viewer/index.php:724
+msgid "reset"
+msgstr "réinitialiser"
+
+#: viewer/index.php:725
+msgid "Start, Scroll down"
+msgstr "Démarrer, faire défiler vers le bas"
+
+#: viewer/index.php:726
+msgid "End"
+msgstr "Fin"
+
+#: viewer/index.php:727
+msgid "Searching"
+msgstr "Recherche"
+
+#: viewer/index.php:728 backend/add_marker.php:692 backend/edit_map.php:653
+#: backend/edit_category.php:192 backend/edit_marker.php:801
+msgid "No results found."
+msgstr "Aucun résultat trouvé."
+
+#: viewer/index.php:729
+msgid "Add New Marker"
+msgstr "Ajouter un nouveau marqueur"
+
+#: viewer/index.php:730
+msgid "Do you want to use my position to add the marker?"
+msgstr "Voulez-vous utiliser ma position pour ajouter le marqueur ?"
+
+#: viewer/index.php:731 backend/publish.php:140
+msgid "No"
+msgstr "Non"
+
+#: viewer/index.php:732 backend/publish.php:140
+msgid "Yes"
+msgstr "Oui"
+
+#: viewer/index.php:735
+msgid "Are you sure you want to insert this marker?"
+msgstr "Voulez-vous vraiment insérer ce marqueur ?"
+
+#: viewer/index.php:736
+msgid "Thanks for inserting the marker! Please reload the map to view it."
+msgstr ""
+"Merci d'avoir inséré le marqueur ! Veuillez recharger la carte pour la "
+"visualiser."
+
+#: viewer/ajax/upload_new_marker_image.php:23
+msgid "Invalid image."
+msgstr "Image non valide."
+
+#: viewer/ajax/upload_new_marker_image.php:31
+#: backend/ajax/upload_marker_image.php:38
+#: backend/ajax/upload_b_logo_image.php:51
+#: backend/ajax/upload_b_background_image.php:43
+msgid "Only jpg,png files are supported."
+msgstr "Seulement jpg, fichiers png sont pris en charge."
+
+#: viewer/ajax/upload_new_marker_image.php:35
+#: backend/ajax/upload_marker_image.php:42
+#: backend/ajax/upload_meta_image.php:69 backend/ajax/upload_file.php:32
+#: backend/ajax/upload_logo_image.php:41 backend/ajax/upload_icon_image.php:72
+#: backend/ajax/upload_b_logo_image.php:55
+#: backend/ajax/upload_b_background_image.php:47
+#: backend/ajax/upload_geojson.php:41
+msgid "File not provided."
+msgstr "Fichier non fourni."
+
+#: backend/login.php:68 backend/topbar.php:124
+msgid "Arabic"
+msgstr "Arabe"
+
+#: backend/login.php:69 backend/topbar.php:125
+msgid "Chinese Simplified"
+msgstr "Chinois simplifié"
+
+#: backend/login.php:70 backend/topbar.php:126
+msgid "Chinese Traditional (Hong Kong)"
+msgstr "Chinois traditionnel (Hong Kong)"
+
+#: backend/login.php:71 backend/topbar.php:127
+msgid "Chinese Traditional (Taiwan)"
+msgstr "Chinois traditionnel (Taïwan)"
+
+#: backend/login.php:72 backend/topbar.php:128
+msgid "Czech"
+msgstr "Tchèque"
+
+#: backend/login.php:73 backend/topbar.php:129
+msgid "Dutch"
+msgstr "Néerlandais"
+
+#: backend/login.php:74 backend/topbar.php:130
+msgid "English"
+msgstr "Anglais"
+
+#: backend/login.php:75 backend/topbar.php:131
+msgid "Filipino"
+msgstr "Philippin"
+
+#: backend/login.php:76 backend/topbar.php:132
+msgid "French"
+msgstr "Français"
+
+#: backend/login.php:77 backend/topbar.php:133
+msgid "German"
+msgstr "Allemand"
+
+#: backend/login.php:78 backend/topbar.php:134
+msgid "Hindi"
+msgstr "Hindi"
+
+#: backend/login.php:79 backend/topbar.php:135
+msgid "Hungarian"
+msgstr "Hongrois"
+
+#: backend/login.php:80 backend/topbar.php:136
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda"
+
+#: backend/login.php:81 backend/topbar.php:137
+msgid "Korean"
+msgstr "Coréen"
+
+#: backend/login.php:82 backend/topbar.php:138
+msgid "Indonesian"
+msgstr "Indonésien"
+
+#: backend/login.php:83 backend/topbar.php:139
+msgid "Italian"
+msgstr "Italien"
+
+#: backend/login.php:84 backend/topbar.php:140
+msgid "Japanese"
+msgstr "Japonais"
+
+#: backend/login.php:85 backend/topbar.php:141
+msgid "Persian"
+msgstr "Perse"
+
+#: backend/login.php:86 backend/topbar.php:142
+msgid "Polish"
+msgstr "Polonais"
+
+#: backend/login.php:87 backend/topbar.php:143
+msgid "Portuguese Brazilian"
+msgstr "Portugais brésilien"
+
+#: backend/login.php:88 backend/topbar.php:144
+msgid "Portuguese European"
+msgstr "Portugais européen"
+
+#: backend/login.php:89 backend/topbar.php:145
+msgid "Spanish"
+msgstr "Espagnol"
+
+#: backend/login.php:90 backend/topbar.php:146
+msgid "Romanian"
+msgstr "Roumain"
+
+#: backend/login.php:91 backend/topbar.php:147
+msgid "Russian"
+msgstr "Russe"
+
+#: backend/login.php:92 backend/topbar.php:148
+msgid "Swedish"
+msgstr "Suédois"
+
+#: backend/login.php:93 backend/topbar.php:149
+msgid "Tajik"
+msgstr "Tadjik"
+
+#: backend/login.php:94 backend/topbar.php:150
+msgid "Thai"
+msgstr "Thaïlandais"
+
+#: backend/login.php:95 backend/topbar.php:151
+msgid "Turkish"
+msgstr "Turc"
+
+#: backend/login.php:96 backend/topbar.php:152
+msgid "Vietnamese"
+msgstr "Vietnamien"
+
+#: backend/login.php:100
+msgid "Welcome Back!"
+msgstr "Heureux de vous revoir!"
+
+#: backend/login.php:104 backend/users.php:44 backend/users.php:68
+#: backend/edit_profile.php:20 backend/edit_user.php:41
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: backend/login.php:107 backend/users.php:84 backend/edit_profile.php:63
+#: backend/edit_profile.php:83 backend/edit_user.php:187 backend/publish.php:40
+msgid "Password"
+msgstr "Mot de passe"
+
+#: backend/login.php:110
+msgid "Login"
+msgstr "Connexion"
+
+#: backend/reviews.php:16 backend/icons_library.php:16 backend/draw.php:18
+#: backend/add_marker.php:25 backend/edit_user.php:22
+#: backend/markers_connections.php:17 backend/categories.php:17
+#: backend/publish.php:24 backend/edit_map.php:26 backend/settings.php:15
+#: backend/story.php:17 backend/edit_category.php:16 backend/updater.php:42
+#: backend/import.php:40 backend/edit_marker.php:24
+msgid "Permission denied"
+msgstr "Permission refusée"
+
+#: backend/reviews.php:17 backend/icons_library.php:17 backend/draw.php:19
+#: backend/add_marker.php:26 backend/edit_user.php:23
+#: backend/markers_connections.php:18 backend/categories.php:18
+#: backend/publish.php:25 backend/edit_map.php:27 backend/story.php:18
+#: backend/edit_category.php:17 backend/import.php:41
+#: backend/edit_marker.php:25
+msgid "It looks like you found a glitch in the matrix..."
+msgstr "On dirait que vous avez trouvé un problème dans la matrice..."
+
+#: backend/reviews.php:18 backend/icons_library.php:18 backend/draw.php:20
+#: backend/add_marker.php:27 backend/edit_user.php:24
+#: backend/markers_connections.php:19 backend/categories.php:19
+#: backend/publish.php:26 backend/edit_map.php:28 backend/settings.php:17
+#: backend/story.php:19 backend/edit_category.php:18 backend/updater.php:44
+#: backend/import.php:42 backend/edit_marker.php:26
+msgid "Back to Dashboard"
+msgstr "Retour au Tableau de Bord"
+
+#: backend/reviews.php:29
+msgid "Date"
+msgstr "Date"
+
+#: backend/reviews.php:30 backend/markers_connections.php:36
+#: backend/markers_connections.php:38 backend/markers_connections.php:60
+#: backend/markers_connections.php:68 backend/markers_connections.php:118
+#: backend/markers_connections.php:126 backend/story.php:36
+#: backend/story.php:60
+msgid "Marker"
+msgstr "Marqueur"
+
+#: backend/reviews.php:33
+msgid "Rating"
+msgstr "Évaluation"
+
+#: backend/reviews.php:34
+msgid "Comment"
+msgstr "Commentaire"
+
+#: backend/reviews.php:62 backend/users.php:117 backend/edit_user.php:280
+#: backend/markers.php:149
+msgid "No data available in table"
+msgstr "Aucune donnée disponible dans le tableau"
+
+#: backend/reviews.php:63 backend/users.php:118 backend/edit_user.php:281
+#: backend/markers.php:150
+#, php-format
+msgid "Showing %s to %s of %s entries"
+msgstr "Affichage de %s à %s des entrées %s"
+
+#: backend/reviews.php:64 backend/users.php:119 backend/edit_user.php:282
+#: backend/markers.php:151
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Affiche 0 à 0 de 0 entrées"
+
+#: backend/reviews.php:65 backend/users.php:120 backend/edit_user.php:283
+#: backend/markers.php:152
+#, php-format
+msgid "(filtered from %s total entries)"
+msgstr "(filtré à partir de %s total des entrées)"
+
+#: backend/reviews.php:68 backend/users.php:123 backend/edit_user.php:286
+#: backend/markers.php:155
+#, php-format
+msgid "Show %s entries"
+msgstr "Afficher %s Entrées "
+
+#: backend/reviews.php:69 backend/index.php:148 backend/users.php:124
+#: backend/edit_user.php:287 backend/markers.php:156
+msgid "Loading"
+msgstr "Chargement"
+
+#: backend/reviews.php:70 backend/users.php:125 backend/edit_user.php:288
+#: backend/markers.php:157
+msgid "Processing"
+msgstr "En cours"
+
+#: backend/reviews.php:72 backend/users.php:127 backend/edit_user.php:290
+#: backend/markers.php:159
+msgid "No matching records found"
+msgstr "Aucun enregistrements correspondants trouvés"
+
+#: backend/reviews.php:74 backend/users.php:129 backend/edit_user.php:292
+#: backend/markers.php:161
+msgid "First"
+msgstr "Premier"
+
+#: backend/reviews.php:75 backend/users.php:130 backend/edit_user.php:293
+#: backend/markers.php:162
+msgid "Last"
+msgstr "Dernier"
+
+#: backend/reviews.php:76 backend/users.php:131 backend/edit_user.php:294
+#: backend/markers.php:163
+msgid "Next"
+msgstr "Suivant"
+
+#: backend/reviews.php:77 backend/users.php:132 backend/edit_user.php:295
+#: backend/markers.php:164
+msgid "Previous"
+msgstr "Précédent"
+
+#: backend/reviews.php:80 backend/users.php:135 backend/edit_user.php:298
+#: backend/markers.php:167
+msgid "activate to sort column ascending"
+msgstr "activer pour trier la colonne par ordre croissant"
+
+#: backend/reviews.php:81 backend/users.php:136 backend/edit_user.php:299
+#: backend/markers.php:168
+msgid "activate to sort column descending"
+msgstr "activer pour trier la colonne par ordre décroissant"
+
+#: backend/icons_library.php:35
+msgid "Icons List"
+msgstr "Liste des icônes"
+
+#: backend/icons_library.php:39
+msgid "Loading icons"
+msgstr "Chargement des icônes ..."
+
+#: backend/index.php:146
+msgid "UPDATE IN PROGRESS"
+msgstr "MISE À JOUR EN COURS"
+
+#: backend/index.php:150
+msgid "Not close this window"
+msgstr "Ne fermez pas cette fenêtre"
+
+#: backend/index.php:198
+msgid "EDIT"
+msgstr "EDITER"
+
+#: backend/index.php:199
+msgid "PUBLISH"
+msgstr "Publier"
+
+#: backend/index.php:200
+msgid "PREVIEW"
+msgstr "APERÇU"
+
+#: backend/index.php:201 backend/edit_map.php:551 backend/edit_category.php:136
+#: backend/import.php:47
+msgid "MARKERS"
+msgstr "Marqueurs"
+
+#: backend/index.php:202 backend/add_marker.php:358 backend/edit_marker.php:424
+#: backend/topbar.php:46 backend/topbar.php:64 backend/topbar.php:97
+msgid "DELETE"
+msgstr "SUPPRIMER"
+
+#: backend/index.php:203
+msgid "DUPLICATE"
+msgstr "DUPLIQUER"
+
+#: backend/index.php:204
+msgid "MAIN IMAGE"
+msgstr "IMAGE PRINCIPALE"
+
+#: backend/index.php:205 backend/add_marker.php:355 backend/edit_marker.php:421
+msgid "SET AS MAIN"
+msgstr "DÉFINIR COMME PRINCIPAL"
+
+#: backend/index.php:206
+msgid "SEARCHING"
+msgstr "RECHERCHE"
+
+#: backend/index.php:207 backend/add_marker.php:288 backend/edit_marker.php:354
+msgid "GET GPS POSITION"
+msgstr "OBTENIR LA POSITION GPS"
+
+#: backend/index.php:208
+msgid "No icon images in this library!"
+msgstr "Aucune image d’icône dans cette bibliothèque!"
+
+#: backend/index.php:209
+msgid "Are you sure you want to delete?"
+msgstr "Etes-vous sûr de vouloir supprimer?"
+
+#: backend/index.php:210
+msgid "Are you sure you want to assign this icon to all the markers?"
+msgstr "Voulez-vous vraiment attribuer cette icône à tous les marqueurs ?"
+
+#: backend/index.php:211
+msgid "copied"
+msgstr "copié"
+
+#: backend/add_marker.php:32 backend/markers.php:24
+msgid "ADD MARKER"
+msgstr "AJOUTER UN MARQUEUR"
+
+#: backend/add_marker.php:45 backend/add_category.php:20
+#: backend/edit_category.php:48 backend/edit_marker.php:95
+msgid "Details"
+msgstr "Détails"
+
+#: backend/add_marker.php:57 backend/users.php:46 backend/edit_user.php:100
+#: backend/markers.php:58 backend/edit_marker.php:107
+msgid "Active"
+msgstr "Actif"
+
+#: backend/add_marker.php:63 backend/markers.php:61 backend/edit_marker.php:125
+msgid "Featured"
+msgstr "En vedette"
+
+#: backend/add_marker.php:63 backend/edit_marker.php:125
+msgid "show this marker on featured list"
+msgstr "afficher ce marqueur sur la liste sélectionnée"
+
+#: backend/add_marker.php:69 backend/edit_map.php:157
+#: backend/edit_marker.php:131
+msgid "Directions"
+msgstr "Directions"
+
+#: backend/add_marker.php:69 backend/edit_marker.php:131
+msgid "enable the button 'directions' for this marker"
+msgstr "activer le bouton 'directions' pour ce marqueur"
+
+#: backend/add_marker.php:75 backend/edit_map.php:163
+#: backend/edit_marker.php:137
+msgid "Street View"
+msgstr "Street View"
+
+#: backend/add_marker.php:75 backend/edit_marker.php:137
+msgid "enable the button 'street view' for this marker"
+msgstr "activer le bouton 'street view' pour ce marqueur"
+
+#: backend/add_marker.php:81 backend/edit_marker.php:143
+msgid "Review"
+msgstr "Avis"
+
+#: backend/add_marker.php:81 backend/edit_marker.php:143
+msgid "enable the reviews for this marker"
+msgstr "activer les avis pour ce marqueur"
+
+#: backend/add_marker.php:87 backend/edit_map.php:175
+#: backend/edit_marker.php:149
+msgid "Share"
+msgstr "Partager"
+
+#: backend/add_marker.php:87 backend/edit_marker.php:149
+msgid "enable share buttons for this marker"
+msgstr "activer les boutons de partage pour ce marqueur"
+
+#: backend/add_marker.php:93 backend/markers.php:56 backend/edit_marker.php:155
+msgid "Category"
+msgstr "Catégorie"
+
+#: backend/add_marker.php:125 backend/edit_marker.php:187
+msgid "Website Link"
+msgstr "Lien du site web"
+
+#: backend/add_marker.php:131 backend/edit_marker.php:193
+msgid "Website Name"
+msgstr "Nom du site"
+
+#: backend/add_marker.php:175 backend/edit_map.php:440
+#: backend/edit_marker.php:237
+msgid "Style"
+msgstr "Style"
+
+#: backend/add_marker.php:181 backend/edit_category.php:89
+#: backend/edit_marker.php:243
+msgid "Icon Type"
+msgstr "Type d'icône"
+
+#: backend/add_marker.php:183 backend/edit_map.php:309 backend/edit_map.php:507
+#: backend/edit_category.php:91 backend/edit_marker.php:245
+msgid "None"
+msgstr "Aucun"
+
+#: backend/add_marker.php:184 backend/edit_map.php:508
+#: backend/edit_category.php:92 backend/edit_marker.php:246
+msgid "Default"
+msgstr "Par défaut"
+
+#: backend/add_marker.php:185 backend/edit_map.php:509
+#: backend/edit_category.php:93 backend/edit_marker.php:247
+msgid "Custom Icon Library"
+msgstr "Bibliothèque d’icônes personnalisées"
+
+#: backend/add_marker.php:191 backend/add_marker.php:201
+#: backend/edit_category.php:99 backend/edit_category.php:109
+#: backend/edit_marker.php:253 backend/edit_marker.php:263
+msgid "Icon"
+msgstr "Icône"
+
+#: backend/add_marker.php:192 backend/add_marker.php:379
+#: backend/add_marker.php:419 backend/edit_map.php:516
+#: backend/edit_category.php:100 backend/edit_marker.php:254
+#: backend/edit_marker.php:445 backend/edit_marker.php:485
+msgid "Select Icon"
+msgstr "Sélectionnez une icône"
+
+#: backend/add_marker.php:202 backend/edit_map.php:526
+#: backend/edit_category.php:110 backend/edit_marker.php:264
+msgid "Select Library Icon"
+msgstr "Sélectionner l’icône bibliothèque"
+
+#: backend/add_marker.php:211 backend/edit_category.php:117
+#: backend/edit_marker.php:273
+msgid "Icon Background"
+msgstr "Icône - Arrière-plan"
+
+#: backend/add_marker.php:217 backend/edit_category.php:123
+#: backend/edit_marker.php:279
+msgid "Icon Color"
+msgstr "Couleur de l’icône"
+
+#: backend/add_marker.php:223 backend/edit_marker.php:285
+msgid "Icon Size"
+msgstr "Taille de l’icône"
+
+#: backend/add_marker.php:237 backend/edit_marker.php:299
+msgid "Position"
+msgstr "Position"
+
+#: backend/add_marker.php:255 backend/edit_marker.php:317
+msgid "Visible from Zoom Level"
+msgstr "Visible à partir du niveau de zoom"
+
+#: backend/add_marker.php:269 backend/edit_marker.php:335
+msgid "Geofence Radius"
+msgstr "Rayon de clôture géographique"
+
+#: backend/add_marker.php:275 backend/edit_marker.php:341
+msgid "Geofence Color"
+msgstr "Couleur de clôture géographique"
+
+#: backend/add_marker.php:282 backend/edit_marker.php:348
+msgid "ADDRESS"
+msgstr "ADRESSE"
+
+#: backend/add_marker.php:282 backend/edit_marker.php:348
+msgid "POSITION"
+msgstr "FONCTION"
+
+#: backend/add_marker.php:285 backend/edit_marker.php:351
+msgid "SET POSITION"
+msgstr "DÉFINIR LA POSITION"
+
+#: backend/add_marker.php:295 backend/edit_marker.php:361
+msgid "Zoom Level"
+msgstr "Niveau de zoom"
+
+#: backend/add_marker.php:296 backend/edit_marker.php:362
+msgid "click/drag on map to change marker's position"
+msgstr "cliquer/glisser sur la carte pour changer la position du marqueur"
+
+#: backend/add_marker.php:307 backend/edit_marker.php:373
+msgid "Images"
+msgstr "Images"
+
+#: backend/add_marker.php:321 backend/publish.php:81
+#: backend/edit_marker.php:387
+msgid "Upload Image"
+msgstr "Télécharger une image"
+
+#: backend/add_marker.php:347 backend/edit_marker.php:413
+msgid "Image Action"
+msgstr "Action d’image"
+
+#: backend/add_marker.php:352 backend/edit_marker.php:418
+msgid "Select image first!"
+msgstr "Sélectionnez d’abord l’image!"
+
+#: backend/add_marker.php:370 backend/edit_marker.php:436
+msgid "Extra Button"
+msgstr "Bouton avancé"
+
+#: backend/add_marker.php:378 backend/edit_marker.php:444
+msgid "Button Icon"
+msgstr "Icône du bouton"
+
+#: backend/add_marker.php:388 backend/edit_marker.php:454
+msgid "Button Title"
+msgstr "Titre du bouton"
+
+#: backend/add_marker.php:396 backend/edit_marker.php:462
+msgid "Custom Content"
+msgstr "Contenu personnalisé"
+
+#: backend/add_marker.php:396 backend/add_marker.php:428
+#: backend/edit_map.php:369 backend/edit_marker.php:462
+#: backend/edit_marker.php:494
+msgid "link"
+msgstr "lien"
+
+#: backend/add_marker.php:396 backend/edit_marker.php:462
+msgid "embed link"
+msgstr "intégrer le lien"
+
+#: backend/add_marker.php:396 backend/add_marker.php:428
+#: backend/edit_marker.php:462 backend/edit_marker.php:494
+msgid "text"
+msgstr "texte"
+
+#: backend/add_marker.php:410 backend/edit_marker.php:476
+msgid "Extra Fields"
+msgstr "Champs supplémentaires"
+
+#: backend/add_marker.php:418 backend/edit_marker.php:484
+msgid "Field Icon"
+msgstr "Icône de champ"
+
+#: backend/add_marker.php:428 backend/edit_marker.php:494
+msgid "Field Value"
+msgstr "Valeur Champ"
+
+#: backend/add_marker.php:428 backend/edit_marker.php:494
+msgid "download"
+msgstr "téléchargement"
+
+#: backend/add_marker.php:443 backend/edit_map.php:602
+#: backend/edit_category.php:149 backend/edit_marker.php:509
+msgid "Library Icons"
+msgstr "Icônes de bibliothèque"
+
+#: backend/add_marker.php:449 backend/add_marker.php:476
+#: backend/add_marker.php:497 backend/add_marker.php:518
+#: backend/add_marker.php:539 backend/add_marker.php:595 backend/users.php:98
+#: backend/edit_profile.php:97 backend/edit_user.php:201
+#: backend/edit_user.php:219 backend/markers_connections.php:102
+#: backend/markers_connections.php:161 backend/publish.php:234
+#: backend/maps.php:64 backend/maps.php:81 backend/maps.php:98
+#: backend/edit_map.php:608 backend/story.php:101 backend/story.php:153
+#: backend/markers.php:92 backend/markers.php:109 backend/edit_category.php:155
+#: backend/edit_category.php:172 backend/edit_marker.php:515
+#: backend/edit_marker.php:542 backend/edit_marker.php:563
+#: backend/edit_marker.php:584 backend/edit_marker.php:605
+#: backend/edit_marker.php:661 backend/edit_marker.php:678
+msgid "Close"
+msgstr "Fermer"
+
+#: backend/add_marker.php:462 backend/add_marker.php:552
+#: backend/edit_marker.php:528 backend/edit_marker.php:618
+msgid "Link Text"
+msgstr "Texte du lien"
+
+#: backend/add_marker.php:468 backend/add_marker.php:489
+#: backend/add_marker.php:510 backend/add_marker.php:587
+#: backend/edit_marker.php:534 backend/edit_marker.php:555
+#: backend/edit_marker.php:576 backend/edit_marker.php:653
+msgid "URL"
+msgstr "URL"
+
+#: backend/add_marker.php:475 backend/add_marker.php:496
+#: backend/add_marker.php:517 backend/add_marker.php:538
+#: backend/add_marker.php:594 backend/edit_marker.php:541
+#: backend/edit_marker.php:562 backend/edit_marker.php:583
+#: backend/edit_marker.php:604 backend/edit_marker.php:660
+msgid "Insert"
+msgstr "Insérer"
+
+#: backend/add_marker.php:531 backend/edit_marker.php:597
+msgid "Text"
+msgstr "Texte"
+
+#: backend/add_marker.php:558 backend/edit_marker.php:624
+msgid "File"
+msgstr "Fichier"
+
+#: backend/add_marker.php:568 backend/edit_marker.php:634
+msgid "Upload File"
+msgstr "Charger le fichier"
+
+#: backend/add_marker.php:689 backend/edit_map.php:650
+#: backend/edit_category.php:189 backend/edit_marker.php:798
+msgid "Search Icon"
+msgstr "Icône de recherche"
+
+#: backend/add_marker.php:690 backend/edit_map.php:651
+#: backend/edit_category.php:190 backend/edit_marker.php:799
+msgid "Show All"
+msgstr "Afficher tout"
+
+#: backend/add_marker.php:691 backend/edit_map.php:652 backend/settings.php:488
+#: backend/edit_category.php:191 backend/edit_marker.php:800
+#: backend/topbar.php:187
+msgid "Cancel"
+msgstr "Annuler"
+
+#: backend/ajax/duplicate_marker.php:44 backend/ajax/duplicate_map.php:35
+msgid "duplicated"
+msgstr "doublon"
+
+#: backend/ajax/upload_meta_image.php:57
+msgid "Retry."
+msgstr "Recommencez."
+
+#: backend/ajax/upload_meta_image.php:65
+msgid "Only jpg,png,webp files are supported."
+msgstr "Seuls les fichiers jpg, png, webp sont pris en charge."
+
+#: backend/ajax/upload_logo_image.php:37
+msgid "Only png files are supported."
+msgstr "Seulement jpg, fichiers png sont pris en charge."
+
+#: backend/ajax/save_profile.php:28
+msgid "Username already registered!"
+msgstr "Nom d’utilisateur déjà enregistré!"
+
+#: backend/ajax/save_profile.php:57 backend/ajax/save_profile.php:60
+msgid "Error"
+msgstr "Erreur"
+
+#: backend/ajax/upload_geojson.php:37
+msgid "Only json, geojson files are supported."
+msgstr "Seuls les fichiers json, geojson sont pris en charge."
+
+#: backend/users.php:20
+msgid "User's Role Permissions"
+msgstr "Autorisations de rôle de l’utilisateur"
+
+#: backend/users.php:23
+msgid "ADMINISTRATOR"
+msgstr "ADMINISTRATEUR"
+
+#: backend/users.php:23
+msgid "manage users | manage maps of all users"
+msgstr "gérer les utilisateurs | gérer les cartes de tous les utilisateurs"
+
+#: backend/users.php:24
+msgid "EDITOR"
+msgstr "Éditeur"
+
+#: backend/users.php:24
+msgid "they only manage the maps that are associated with them"
+msgstr "ils ne gèrent que les cartes qui leur sont associées"
+
+#: backend/users.php:25
+msgid "CUSTOMER"
+msgstr "Client"
+
+#: backend/users.php:25
+msgid "they only manage their own maps"
+msgstr "ils ne gèrent que leurs propres cartes"
+
+#: backend/users.php:33
+msgid "ADD USER"
+msgstr "AJOUTER UN UTILISATEUR"
+
+#: backend/users.php:45 backend/users.php:74 backend/edit_user.php:84
+msgid "Role"
+msgstr "Rôle"
+
+#: backend/users.php:62
+msgid "New User"
+msgstr "Nouvel utilisateur"
+
+#: backend/users.php:76 backend/edit_user.php:86
+msgid "Customer"
+msgstr "Client"
+
+#: backend/users.php:77 backend/edit_user.php:87
+msgid "Administrator"
+msgstr "Administrateur"
+
+#: backend/users.php:78 backend/edit_user.php:88
+msgid "Editor"
+msgstr "Éditeur"
+
+#: backend/users.php:90 backend/edit_profile.php:89
+msgid "Repeat Password"
+msgstr "Répéter le mot de passe"
+
+#: backend/users.php:97 backend/maps.php:63
+msgid "Create"
+msgstr "Créer"
+
+#: backend/edit_profile.php:14 backend/edit_user.php:35
+msgid "Account"
+msgstr "Compte"
+
+#: backend/edit_profile.php:26 backend/edit_user.php:47 backend/edit_map.php:60
+msgid "Language"
+msgstr "Langue"
+
+#: backend/edit_profile.php:28 backend/edit_user.php:49 backend/edit_map.php:62
+#: backend/settings.php:195
+msgid "Default Language"
+msgstr "Langue par défaut"
+
+#: backend/edit_profile.php:64
+msgid "CHANGE"
+msgstr "CHANGER"
+
+#: backend/edit_profile.php:77 backend/edit_user.php:181
+msgid "Change Password"
+msgstr "Modifier le mot de passe"
+
+#: backend/edit_profile.php:96 backend/edit_user.php:200
+msgid "Change"
+msgstr "Changer"
+
+#: backend/edit_user.php:95
+msgid "CHANGE PASSWORD"
+msgstr "CHANGER DE MOT DE PASSE"
+
+#: backend/edit_user.php:116 backend/dashboard.php:35 backend/dashboard.php:68
+#: backend/sidebar.php:120 backend/topbar.php:18
+msgid "Maps"
+msgstr "Cartes"
+
+#: backend/edit_user.php:131 backend/dashboard.php:50 backend/sidebar.php:125
+#: backend/topbar.php:26
+msgid "Markers"
+msgstr "Marqueurs"
+
+#: backend/edit_user.php:147
+msgid "Assigned Maps"
+msgstr "Cartes assignées"
+
+#: backend/edit_user.php:153
+msgid "Assign"
+msgstr "Assigner"
+
+#: backend/edit_user.php:154 backend/edit_map.php:328
+msgid "Map"
+msgstr "Carte"
+
+#: backend/edit_user.php:155 backend/topbar.php:22
+msgid "Edit Map"
+msgstr "Modifier la carte"
+
+#: backend/edit_user.php:156
+msgid "Create Markers"
+msgstr "Créer des marqueurs"
+
+#: backend/edit_user.php:157
+msgid "Edit Markers"
+msgstr "Modifier les marqueurs"
+
+#: backend/edit_user.php:158
+msgid "Delete Markers"
+msgstr "Supprimer les marqueurs"
+
+#: backend/edit_user.php:159 backend/sidebar.php:130 backend/topbar.php:52
+msgid "Connections"
+msgstr "Connexions"
+
+#: backend/edit_user.php:160 backend/sidebar.php:135 backend/topbar.php:109
+msgid "Geometries"
+msgstr "Géométries"
+
+#: backend/edit_user.php:161 backend/sidebar.php:140 backend/edit_map.php:151
+#: backend/topbar.php:56
+msgid "Story"
+msgstr "Histoire"
+
+#: backend/edit_user.php:162 backend/sidebar.php:146 backend/edit_map.php:115
+#: backend/topbar.php:60
+msgid "Categories"
+msgstr "Catégories"
+
+#: backend/edit_user.php:163 backend/sidebar.php:151 backend/topbar.php:69
+msgid "Icons Library"
+msgstr "Bibliothèque d’icônes"
+
+#: backend/edit_user.php:164 backend/sidebar.php:156 backend/edit_map.php:169
+#: backend/topbar.php:73
+msgid "Reviews"
+msgstr "Avis"
+
+#: backend/edit_user.php:165 backend/sidebar.php:167 backend/topbar.php:81
+msgid "Publish"
+msgstr "Publier"
+
+#: backend/edit_user.php:193
+msgid "Repeat password"
+msgstr "Répéter le mot de passe"
+
+#: backend/edit_user.php:211
+msgid "Delete User"
+msgstr "Supprimer utilisateur"
+
+#: backend/edit_user.php:214
+msgid "Are you sure you want to delete the user?"
+msgstr "Êtes-vous sûr que vous souhaitez supprimer l’utilisateur?"
+
+#: backend/edit_user.php:215
+msgid "Attention: all the maps of that user will be deleted!"
+msgstr "Attention : toutes les cartes de cet utilisateur seront supprimées !"
+
+#: backend/edit_user.php:218 backend/maps.php:80 backend/markers.php:91
+#: backend/edit_category.php:171
+msgid "Yes, Delete"
+msgstr "Oui, Supprimer"
+
+#: backend/markers_connections.php:25
+msgid "ADD CONNECTION"
+msgstr "AJOUTER UNE CONNEXION"
+
+#: backend/markers_connections.php:37
+msgid "Line"
+msgstr "Ligne"
+
+#: backend/markers_connections.php:54
+msgid "Add Connection"
+msgstr "Ajouter une connexion"
+
+#: backend/markers_connections.php:76 backend/markers_connections.php:134
+msgid "Line Color"
+msgstr "Couleur de ligne"
+
+#: backend/markers_connections.php:82 backend/markers_connections.php:140
+msgid "Line Width"
+msgstr "Largeur de la ligne"
+
+#: backend/markers_connections.php:88 backend/markers_connections.php:146
+msgid "Popup Title"
+msgstr "Titre du marqueur Popup"
+
+#: backend/markers_connections.php:94 backend/markers_connections.php:152
+msgid "Popup Description"
+msgstr "Description de Popup"
+
+#: backend/markers_connections.php:101 backend/story.php:100
+msgid "Yes, Add"
+msgstr "Oui, Ajouter"
+
+#: backend/markers_connections.php:112
+msgid "Edit Connection"
+msgstr "Modifier la connexion"
+
+#: backend/markers_connections.php:159 backend/story.php:151
+msgid "Yes, Save"
+msgstr "Oui, enregistrer"
+
+#: backend/markers_connections.php:160 backend/story.php:152
+msgid "Delete"
+msgstr "Supprimer"
+
+#: backend/categories.php:25
+msgid "ADD CATEGORY"
+msgstr "AJOUTER UNE CATEGORIE"
+
+#: backend/categories.php:37 backend/add_category.php:41
+#: backend/edit_category.php:69
+msgid "Default selected"
+msgstr "Sélectionné par défaut"
+
+#: backend/dashboard.php:12
+#, php-format
+msgid ""
+"Welcome to %s configuration panel, where you can create your virtual tours "
+"in a few simple steps."
+msgstr ""
+"Bienvenue sur %s panneau de configuration, où vous pouvez créer vos visites "
+"virtuelles en quelques étapes simples."
+
+#: backend/dashboard.php:20
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: backend/dashboard.php:65
+msgid "Visitors N."
+msgstr "Visiteurs N."
+
+#: backend/dashboard.php:68
+#, php-format
+msgid "No maps created yet. Go to %s and create a new one!"
+msgstr ""
+"Aucune carte n’a encore été créée. Allez sur %s et créez-en un nouveau!"
+
+#: backend/dashboard.php:77
+msgid "Markers Count"
+msgstr "Nombre de marqueurs"
+
+#: backend/publish.php:34
+msgid "Protection"
+msgstr "Protection"
+
+#: backend/publish.php:45 backend/topbar.php:21 backend/topbar.php:46
+#: backend/topbar.php:64 backend/topbar.php:84 backend/topbar.php:99
+#: backend/topbar.php:104
+msgid "SAVE"
+msgstr "ENREGISTRER"
+
+#: backend/publish.php:56
+msgid "Meta Tag"
+msgstr "Balise méta"
+
+#: backend/publish.php:63
+msgid "Title"
+msgstr "Titre"
+
+#: backend/publish.php:71
+msgid "Image"
+msgstr "Image"
+
+#: backend/publish.php:73 backend/settings.php:109 backend/settings.php:147
+msgid "DELETE IMAGE"
+msgstr "SUPPRIMER L’IMAGE"
+
+#: backend/publish.php:96 backend/sidebar.php:162 backend/topbar.php:77
+msgid "Preview"
+msgstr "Aperçu"
+
+#: backend/publish.php:129
+msgid "Share & Embed"
+msgstr "Partager et incorporer"
+
+#: backend/publish.php:135 backend/settings.php:50
+msgid "Status"
+msgstr "Statut"
+
+#: backend/publish.php:136
+msgid "Activated"
+msgstr "Activé"
+
+#: backend/publish.php:136
+msgid "Deactivated"
+msgstr "Désactivé"
+
+#: backend/publish.php:139
+msgid "Show as first page"
+msgstr "Afficher en première page"
+
+#: backend/publish.php:139
+msgid "only visible to administrators"
+msgstr "visible uniquement par les administrateurs"
+
+#: backend/publish.php:145
+msgid "Link"
+msgstr "Lien"
+
+#: backend/publish.php:146
+msgid "Url variables"
+msgstr "Variables d’URL"
+
+#: backend/publish.php:150 backend/publish.php:191 backend/edit_marker.php:54
+msgid "OPEN LINK"
+msgstr "OUVRIR LE LIEN"
+
+#: backend/publish.php:153 backend/publish.php:194 backend/publish.php:210
+#: backend/edit_marker.php:57
+msgid "COPY TO CLIPBOARD"
+msgstr "COPIER DANS LE PRESSE-PAPIER"
+
+#: backend/publish.php:156 backend/publish.php:197 backend/edit_marker.php:60
+msgid "QR CODE"
+msgstr "QR CODE"
+
+#: backend/publish.php:184
+msgid "Friendly Link"
+msgstr "Lien amical"
+
+#: backend/publish.php:206
+msgid "Embed Code"
+msgstr "Code d'intégration"
+
+#: backend/publish.php:227 backend/edit_marker.php:671
+msgid "QR Code"
+msgstr "QR Code"
+
+#: backend/maps.php:16
+msgid "CREATE NEW MAP"
+msgstr "CRÉER UNE NOUVELLE CARTE"
+
+#: backend/maps.php:32
+msgid "LOADING MAPS"
+msgstr "CARTES DE CHARGEMENT ..."
+
+#: backend/maps.php:50
+msgid "New Map"
+msgstr "Nouvelle carte"
+
+#: backend/maps.php:74
+msgid "Delete Map"
+msgstr "Supprimer la carte"
+
+#: backend/maps.php:77
+msgid ""
+"Are you sure you want to delete the entire map, included all the markers?"
+msgstr ""
+"Êtes-vous sûr de vouloir supprimer toute la carte, y compris tous les "
+"marqueurs?"
+
+#: backend/maps.php:91
+msgid "Duplicate Map"
+msgstr "Dupliquer la carte"
+
+#: backend/maps.php:94
+msgid ""
+"Are you sure you want to duplicate the entire map, included all the markers?"
+msgstr ""
+"Êtes-vous sûr de vouloir dupliquer la carte entière, y compris tous les "
+"marqueurs?"
+
+#: backend/maps.php:97 backend/markers.php:108
+msgid "Yes, Duplicate"
+msgstr "Oui, dupliquer"
+
+#: backend/sidebar.php:96
+msgid "DEMO MODE"
+msgstr "LE MODE DE DÉMONSTRATION"
+
+#: backend/sidebar.php:96
+msgid "ADD / SAVE features are disabled."
+msgstr "Les fonctions AJOUTER/ENREGISTRER sont désactivées."
+
+#: backend/sidebar.php:109 backend/topbar.php:11
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: backend/sidebar.php:114 backend/topbar.php:15
+msgid "Statistics"
+msgstr "Statistiques"
+
+#: backend/sidebar.php:174 backend/edit_map.php:40 backend/topbar.php:85
+msgid "Settings"
+msgstr "Paramètres"
+
+#: backend/sidebar.php:179 backend/topbar.php:88
+msgid "Upgrade"
+msgstr "Mise à jour"
+
+#: backend/sidebar.php:184 backend/topbar.php:91
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: backend/statistics.php:17
+msgid "Map Accesses"
+msgstr "Accès à la carte"
+
+#: backend/statistics.php:27
+msgid "Marker views"
+msgstr "Vues de marqueur"
+
+#: backend/statistics.php:48
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: backend/statistics.php:49
+msgid "January"
+msgstr "Janvier"
+
+#: backend/statistics.php:49
+msgid "February"
+msgstr "Février"
+
+#: backend/statistics.php:49
+msgid "March"
+msgstr "Mars"
+
+#: backend/statistics.php:49
+msgid "April"
+msgstr "Avril"
+
+#: backend/statistics.php:49
+msgid "May"
+msgstr "Mai"
+
+#: backend/statistics.php:49
+msgid "June"
+msgstr "Juin"
+
+#: backend/statistics.php:49
+msgid "July"
+msgstr "Juillet"
+
+#: backend/statistics.php:49
+msgid "August"
+msgstr "Août"
+
+#: backend/statistics.php:49
+msgid "September"
+msgstr "Septembre"
+
+#: backend/statistics.php:49
+msgid "October"
+msgstr "Octobre"
+
+#: backend/statistics.php:49
+msgid "November"
+msgstr "Novembre"
+
+#: backend/statistics.php:49
+msgid "December"
+msgstr "Décembre"
+
+#: backend/statistics.php:50
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: backend/statistics.php:50
+msgid "Monday"
+msgstr "Lundi"
+
+#: backend/statistics.php:50
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: backend/statistics.php:50
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: backend/statistics.php:50
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: backend/statistics.php:50
+msgid "Friday"
+msgstr "Vendredi"
+
+#: backend/statistics.php:50
+msgid "Saturday"
+msgstr "Samedi"
+
+#: backend/statistics.php:52
+msgid "Export"
+msgstr "Exporter"
+
+#: backend/statistics.php:53
+msgid "Import"
+msgstr "Importer"
+
+#: backend/statistics.php:54
+msgid "From"
+msgstr "De"
+
+#: backend/statistics.php:55
+msgid "To"
+msgstr "À"
+
+#: backend/statistics.php:56
+msgid "Period"
+msgstr "Période"
+
+#: backend/statistics.php:57
+msgid "Download image PNG"
+msgstr "Télécharger l'image PNG"
+
+#: backend/statistics.php:58
+msgid "Download image JPEG"
+msgstr "Télécharger l'image JPEG"
+
+#: backend/statistics.php:59
+msgid "Download document PDF"
+msgstr "Télécharger le document PDF"
+
+#: backend/statistics.php:60
+msgid "Download image SVG"
+msgstr "Télécharger l'image SVG"
+
+#: backend/statistics.php:61
+msgid "Print"
+msgstr "Imprimer"
+
+#: backend/edit_map.php:52
+msgid "User"
+msgstr "Utilisateur"
+
+#: backend/edit_map.php:52
+msgid "owner of the map"
+msgstr "propriétaire de la carte"
+
+#: backend/edit_map.php:97
+msgid "enable the search box in the map"
+msgstr "activer le champ de recherche dans la carte"
+
+#: backend/edit_map.php:103
+msgid "Search Locations"
+msgstr "Rechercher un Emplacement"
+
+#: backend/edit_map.php:103
+msgid "enables the search for a location / city"
+msgstr "permet la recherche d'un lieu / d'une ville"
+
+#: backend/edit_map.php:109
+msgid "List"
+msgstr "Liste"
+
+#: backend/edit_map.php:109
+msgid "enables the list of markers in the map"
+msgstr "active la liste des marqueurs dans la carte"
+
+#: backend/edit_map.php:115
+msgid "enable the category filter in the map"
+msgstr "activer le filtre de catégorie dans la carte"
+
+#: backend/edit_map.php:121
+msgid "Auto show List"
+msgstr "Liste des salons de l’auto"
+
+#: backend/edit_map.php:121
+msgid "automatically open the marker's list at first map loading"
+msgstr ""
+"ouvrir automatiquement la liste du marqueur au premier chargement de la carte"
+
+#: backend/edit_map.php:127
+msgid "Auto show Categories"
+msgstr "Catégories de salon de l'auto"
+
+#: backend/edit_map.php:127
+msgid "automatically open the categories filter"
+msgstr "ouvrir automatiquement le filtre des catégories"
+
+#: backend/edit_map.php:133
+msgid "Auto show My Location"
+msgstr "Afficher automatiquement ma position"
+
+#: backend/edit_map.php:133
+msgid "automatically geolocate and show the location"
+msgstr "géolocaliser automatiquement et afficher l'emplacement"
+
+#: backend/edit_map.php:139
+msgid "Sheet Details"
+msgstr "Détails de la feuille"
+
+#: backend/edit_map.php:139
+msgid "enable sheet detail when click on markers"
+msgstr "activer le détail de la feuille lorsque vous cliquez sur les marqueurs"
+
+#: backend/edit_map.php:145
+msgid "Control Arrows Markers"
+msgstr "Marqueurs de flèches de contrôle"
+
+#: backend/edit_map.php:145
+msgid "show controls arrows to loop through the markers"
+msgstr "afficher les flèches de contrôle pour parcourir les marqueurs"
+
+#: backend/edit_map.php:151
+msgid "enables the story feature in the map"
+msgstr "active la fonctionnalité d'histoire dans la carte"
+
+#: backend/edit_map.php:157
+msgid "enable the button 'directions' for markers"
+msgstr "activer le bouton 'directions' pour les marqueurs"
+
+#: backend/edit_map.php:163
+msgid "enable the button 'street view' for markers"
+msgstr "activer le bouton 'street view' pour les marqueurs"
+
+#: backend/edit_map.php:169
+msgid "enable the reviews for markers"
+msgstr "activer les révisions pour les marqueurs"
+
+#: backend/edit_map.php:175
+msgid "enable share buttons for markers"
+msgstr "activer les boutons de partage pour les marqueurs"
+
+#: backend/edit_map.php:181
+msgid "Add Markers from Map"
+msgstr "Ajouter des marqueurs à partir de la carte"
+
+#: backend/edit_map.php:181
+msgid "enables adding markers directly from the map"
+msgstr "permet d'ajouter des marqueurs directement depuis la carte"
+
+#: backend/edit_map.php:183 backend/edit_map.php:262 backend/edit_map.php:426
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: backend/edit_map.php:184 backend/edit_map.php:427
+msgid "Enabled"
+msgstr "Activé"
+
+#: backend/edit_map.php:185
+msgid "Enabled (Automatic Approval)"
+msgstr "Activé (approbation automatique)"
+
+#: backend/edit_map.php:191
+msgid "Density color"
+msgstr "Couleur de densité"
+
+#: backend/edit_map.php:191
+msgid "displays different colors based on the density of marker grouping"
+msgstr ""
+"affiche différentes couleurs en fonction de la densité du regroupement de "
+"marqueurs"
+
+#: backend/edit_map.php:197
+msgid "Density Color Tolerance"
+msgstr "Tolérance de couleur de densité"
+
+#: backend/edit_map.php:197
+msgid "tolerance to color the grouped markers"
+msgstr "tolérance pour colorer les marqueurs groupés"
+
+#: backend/edit_map.php:203
+msgid "Density Distance"
+msgstr "Distance de densité"
+
+#: backend/edit_map.php:203
+msgid ""
+"distance in pixels within which features will be clustered together. 0 to "
+"disable clustering"
+msgstr ""
+"distance en pixels à l’intérieur de laquelle les entités seront regroupées. "
+"0 pour désactiver le clustering"
+
+#: backend/edit_map.php:209
+msgid "Initial Zoom"
+msgstr "Zoom initial"
+
+#: backend/edit_map.php:209
+msgid "initial zoom when the map is loaded (1 far - 20 near)"
+msgstr "zoom initial au chargement de la carte (1 de loin - 20 de près)"
+
+#: backend/edit_map.php:211
+msgid "Fit Markers"
+msgstr "Ajuster les marqueurs"
+
+#: backend/edit_map.php:226
+msgid "Marker Zoom"
+msgstr "Zoom de marqueur"
+
+#: backend/edit_map.php:226
+msgid "zoom level when the marker is clicked (1 far - 20 near)"
+msgstr "niveau de zoom lorsque le marqueur est cliqué (1 loin - 20 près)"
+
+#: backend/edit_map.php:228 backend/edit_map.php:245
+msgid "No change"
+msgstr "Aucun changement"
+
+#: backend/edit_map.php:243
+msgid "My Location Zoom"
+msgstr "Zoom sur ma position"
+
+#: backend/edit_map.php:243
+msgid "zoom level when enabling geolocation (1 far - 20 near)"
+msgstr ""
+"niveau de zoom lors de l'activation de la géolocalisation (1 loin - 20 près)"
+
+#: backend/edit_map.php:260
+msgid "Highlight Markers (Search)"
+msgstr "Marqueurs de surbrillance (Rechercher)"
+
+#: backend/edit_map.php:260
+msgid ""
+"highlights the position of the marker when you hover over the search results "
+"(1 far - 20 near)"
+msgstr ""
+"met en évidence la position du marqueur lorsque vous survolez les résultats "
+"de la recherche (1 loin - 20 près)"
+
+#: backend/edit_map.php:263
+msgid "Keep Zoom Level"
+msgstr "Conserver le niveau de zoom"
+
+#: backend/edit_map.php:278
+msgid "Markers Order by"
+msgstr "Marqueurs Trier par"
+
+#: backend/edit_map.php:280
+msgid "Priority"
+msgstr "Priorité"
+
+#: backend/edit_map.php:288
+msgid "Categories Filter Type"
+msgstr "Catégories Type de filtre"
+
+#: backend/edit_map.php:290
+msgid "OR"
+msgstr "OU"
+
+#: backend/edit_map.php:291
+msgid "AND"
+msgstr "ET"
+
+#: backend/edit_map.php:297
+msgid "Quality"
+msgstr "Qualité"
+
+#: backend/edit_map.php:297
+msgid "map quality (high can slow movement)"
+msgstr "qualité de la carte (élevée peut ralentir le mouvement)"
+
+#: backend/edit_map.php:299
+msgid "Low"
+msgstr "Basse"
+
+#: backend/edit_map.php:300
+msgid "Medium"
+msgstr "Moyen"
+
+#: backend/edit_map.php:301
+msgid "High"
+msgstr "Élevé"
+
+#: backend/edit_map.php:307
+msgid "Weather"
+msgstr "Météo"
+
+#: backend/edit_map.php:310
+msgid "Celsius"
+msgstr "Celsius"
+
+#: backend/edit_map.php:311
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+#: backend/edit_map.php:317
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: backend/edit_map.php:317
+msgid ""
+"Google Analytics Tracking ID. Note: Use the Friendly URL in Google "
+"Analytics's property url setting."
+msgstr ""
+"ID de suivi Google Analytics. Remarque : Utilisez l’URL conviviale dans le "
+"paramètre d’URL de propriété de Google Analytics."
+
+#: backend/edit_map.php:369
+msgid "only needed if map style is different from default or custom version"
+msgstr ""
+"nécessaire uniquement si le style de carte est différent de la version par "
+"défaut ou personnalisée"
+
+#: backend/edit_map.php:377
+msgid "Street Url"
+msgstr "Url de rue"
+
+#: backend/edit_map.php:383
+msgid "Street Max Zoom"
+msgstr "Rue Max Zoom"
+
+#: backend/edit_map.php:389
+msgid "Street Attributions"
+msgstr "Attributions de rue"
+
+#: backend/edit_map.php:395
+msgid "Satellite Url"
+msgstr "Satellite Url"
+
+#: backend/edit_map.php:401
+msgid "Satellite Max Zoom"
+msgstr "Satellite Max Zoom"
+
+#: backend/edit_map.php:407
+msgid "Satellite Attributions"
+msgstr "Attributions satellites"
+
+#: backend/edit_map.php:415
+msgid "Default view"
+msgstr "Vue par défaut"
+
+#: backend/edit_map.php:418
+msgid "Satellite"
+msgstr "Satellite"
+
+#: backend/edit_map.php:424
+msgid "Globe view"
+msgstr "Vue du globe"
+
+#: backend/edit_map.php:428
+msgid "Enabled (autostart)"
+msgstr "Activé (démarrage automatique)"
+
+#: backend/edit_map.php:445
+msgid "Main color"
+msgstr "Couleur principale"
+
+#: backend/edit_map.php:451
+msgid "Font Viewer"
+msgstr "Visionneuse de polices"
+
+#: backend/edit_map.php:459 backend/settings.php:104
+msgid "Logo"
+msgstr "Logo"
+
+#: backend/edit_map.php:467
+msgid "DELETE LOGO"
+msgstr "SUPPRIMER LE LOGO"
+
+#: backend/edit_map.php:479 backend/settings.php:124
+msgid "Upload Logo Image"
+msgstr "Télécharger l'image du logo"
+
+#: backend/edit_map.php:500
+msgid "Markers Icon"
+msgstr "Icône Marqueurs"
+
+#: backend/edit_map.php:505
+msgid "Default Markers Icon Type"
+msgstr "Type d'icône des marqueurs par défaut"
+
+#: backend/edit_map.php:515 backend/edit_map.php:525
+msgid "Default Markers Icon"
+msgstr "Icône Marqueurs par défaut"
+
+#: backend/edit_map.php:533
+msgid "Default Markers Icon Background"
+msgstr "Arrière-plan de l'icône des marqueurs par défaut"
+
+#: backend/edit_map.php:539
+msgid "Default Markers Icon Color"
+msgstr "Couleur de l'icône des marqueurs par défaut"
+
+#: backend/edit_map.php:545
+msgid "Default Markers Size"
+msgstr "Taille des marqueurs par défaut"
+
+#: backend/edit_map.php:551 backend/edit_category.php:136
+msgid "ASSIGN ICON TO"
+msgstr "ATTRIBUER UNE ICÔNE À"
+
+#: backend/edit_map.php:563
+msgid "Link or upload Json"
+msgstr "Lier ou télécharger Json"
+
+#: backend/edit_map.php:576
+msgid "Upload Json"
+msgstr "Télécharger Json"
+
+#: backend/settings.php:16 backend/updater.php:43
+msgid "It looks like that you do not have permission to access this page"
+msgstr "Il semble que vous n’avez pas la permission d’accéder à cette page"
+
+#: backend/settings.php:24
+msgid "Please enter a valid purchase code to continue using the application."
+msgstr ""
+"Veuillez entrer un code d’achat valide pour continuer à utiliser "
+"l’application."
+
+#: backend/settings.php:33
+msgid "License"
+msgstr "Licence"
+
+#: backend/settings.php:39
+msgid "Purchase Code"
+msgstr "Code d’achat"
+
+#: backend/settings.php:39
+msgid "Where i can find it?"
+msgstr "Où je peux le trouver?"
+
+#: backend/settings.php:46
+msgid "CHECK"
+msgstr "VÉRIFIER"
+
+#: backend/settings.php:75
+msgid "Branding"
+msgstr "Image de marque"
+
+#: backend/settings.php:81
+msgid "Application Name"
+msgstr "Nom de l’application"
+
+#: backend/settings.php:87
+msgid "Theme Color"
+msgstr "Couleur du thème"
+
+#: backend/settings.php:93
+msgid "Font Backend"
+msgstr "Backend de police"
+
+#: backend/settings.php:99
+msgid "Welcome Message"
+msgstr "Message de bienvenue"
+
+#: backend/settings.php:99
+msgid "leave empty for default welcome message"
+msgstr "laisser vide pour le message de bienvenue par défaut"
+
+#: backend/settings.php:118 backend/settings.php:156
+msgid "Choose file"
+msgstr "Choisir un fichier"
+
+#: backend/settings.php:142
+msgid "Login image"
+msgstr "Image de connexion"
+
+#: backend/settings.php:162
+msgid "Upload Login Image"
+msgstr "Télécharger l’image de connexion"
+
+#: backend/settings.php:189
+msgid "Localization"
+msgstr "Localisation"
+
+#: backend/settings.php:231
+msgid "Translation Type"
+msgstr "Type de traduction"
+
+#: backend/settings.php:240
+msgid "Languages Enabled"
+msgstr "Langues activées"
+
+#: backend/settings.php:241
+msgid "items selected"
+msgstr "éléments sélectionnés"
+
+#: backend/settings.php:241
+msgid "Deselect All"
+msgstr "Tout désélectionner"
+
+#: backend/settings.php:241
+msgid "Select All"
+msgstr "Tout sélectionner"
+
+#: backend/settings.php:241
+msgid "Nothing selected"
+msgstr "Rien de sélectionné"
+
+#: backend/settings.php:241 backend/functions.php:677
+msgid "No results matched"
+msgstr "Aucun résultat n'a été égalé"
+
+#: backend/settings.php:296
+msgid "Footer"
+msgstr "Pied de page"
+
+#: backend/settings.php:302
+msgid "Name Item 1"
+msgstr "Nom de l’élément 1"
+
+#: backend/settings.php:308
+msgid "Content Item 1"
+msgstr "Élément de contenu 1"
+
+#: backend/settings.php:308 backend/settings.php:323 backend/settings.php:338
+msgid "insert a textual content or a link to an external site"
+msgstr "insérer un contenu textuel ou un lien vers un site externe"
+
+#: backend/settings.php:317
+msgid "Name Item 2"
+msgstr "Nom de l’élément 2"
+
+#: backend/settings.php:323
+msgid "Content Item 2"
+msgstr "Élément de contenu 2"
+
+#: backend/settings.php:332
+msgid "Name Item 3"
+msgstr "Nom de l’élément 3"
+
+#: backend/settings.php:338
+msgid "Content Item 3"
+msgstr "Élément de contenu 3"
+
+#: backend/settings.php:352
+msgid "Custom Viewer CSS"
+msgstr "Visionneuse personnalisée CSS"
+
+#: backend/settings.php:358
+msgid "General (affects all maps)"
+msgstr "Général (affecte toutes les cartes)"
+
+#: backend/settings.php:376
+msgid "Custom Backend CSS"
+msgstr "CSS backend personnalisé"
+
+#: backend/settings.php:489
+msgid "Choose"
+msgstr "Choisir"
+
+#: backend/story.php:25
+msgid "ADD MARKER TO STORY"
+msgstr "AJOUTER UN MARQUEUR À L'HISTOIRE"
+
+#: backend/story.php:37 backend/story.php:66 backend/story.php:117
+msgid "Zoom"
+msgstr "Zoom"
+
+#: backend/story.php:38 backend/markers.php:62
+msgid "Order"
+msgstr "Commande"
+
+#: backend/story.php:54
+msgid "Add Marker to Story"
+msgstr "Ajouter un marqueur à l'histoire"
+
+#: backend/story.php:111 backend/topbar.php:48
+msgid "Edit Marker"
+msgstr "Editer marqueur"
+
+#: backend/markers.php:27
+msgid "IMPORT EXCEL"
+msgstr "IMPORTER EXCEL"
+
+#: backend/markers.php:32
+msgid "BULK SELETE"
+msgstr "SÉLECTION EN VRAC"
+
+#: backend/markers.php:38
+msgid "SELECTED MARKERS"
+msgstr "MARQUEURS SÉLECTIONNÉS"
+
+#: backend/markers.php:38
+msgid "select all"
+msgstr "sélectionner tout"
+
+#: backend/markers.php:38
+msgid "deselect all"
+msgstr "Tout désélectionner"
+
+#: backend/markers.php:41
+msgid "SELETE"
+msgstr "SÉLECTIONNER"
+
+#: backend/markers.php:57
+msgid "Address"
+msgstr "Adresse"
+
+#: backend/markers.php:59 backend/edit_marker.php:113
+msgid "Validated"
+msgstr "Validé"
+
+#: backend/markers.php:60 backend/edit_marker.php:119
+msgid "Centered"
+msgstr "Centré"
+
+#: backend/markers.php:77
+msgid "export markers"
+msgstr "marqueurs d’exportation"
+
+#: backend/markers.php:85
+msgid "Delete Marker"
+msgstr "Supprimer un marqueur"
+
+#: backend/markers.php:88
+msgid "Are you sure you want to delete the marker?"
+msgstr "Êtes-vous sûr de vouloir supprimer le marqueur ?"
+
+#: backend/markers.php:102
+msgid "Duplicate Marker"
+msgstr "Marqueur en double"
+
+#: backend/markers.php:105
+msgid "Are you sure you want to duplicate the marker?"
+msgstr "Voulez-vous vraiment dupliquer le marqueur ?"
+
+#: backend/add_category.php:7
+msgid "ADD CATEGOR"
+msgstr "AJOUTER UNE CATÉGOR"
+
+#: backend/add_category.php:32 backend/edit_category.php:60
+msgid "Parent Category"
+msgstr "Catégorie parente"
+
+#: backend/functions.php:558
+msgid "administrator"
+msgstr "administrateur"
+
+#: backend/edit_category.php:29 backend/edit_marker.php:44
+msgid "Direct Link"
+msgstr "Lien direct"
+
+#: backend/edit_category.php:83
+msgid "Markers Icons"
+msgstr "Icônes des marqueurs"
+
+#: backend/edit_category.php:129
+msgid "Size"
+msgstr "Taille"
+
+#: backend/edit_category.php:165
+msgid "Delete Category"
+msgstr "Supprimer la catégorie"
+
+#: backend/edit_category.php:168
+msgid "Are you sure you want to delete the category?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette catégorie ?"
+
+#: backend/updater.php:52
+msgid "Version Check"
+msgstr "Vérification de version"
+
+#: backend/updater.php:57
+msgid "Current Version"
+msgstr "Version Actuelle"
+
+#: backend/updater.php:57
+msgid "Latest Version"
+msgstr "Dernière version"
+
+#: backend/updater.php:61
+msgid "Changelog"
+msgstr "Changelog"
+
+#: backend/updater.php:75
+msgid "Download and Update"
+msgstr "Télécharger et mettre à jour"
+
+#: backend/updater.php:83
+msgid "Can't upgrade, please enable php zip extension."
+msgstr "Impossible de mettre à niveau, veuillez activer l’extension zip php."
+
+#: backend/updater.php:91
+msgid ""
+"Be sure to perform a full manual backup of your current files and database "
+"before upgrading."
+msgstr ""
+"Assurez-vous d’effectuer une sauvegarde manuelle complète de vos fichiers et "
+"bases de données actuels avant la mise à niveau."
+
+#: backend/updater.php:94
+msgid "I made the backup, continue"
+msgstr "J’ai fait la sauvegarde, continuer"
+
+#: backend/updater.php:100
+msgid "UPGRADE NOW!"
+msgstr "METTRE À NIVEAU MAINTENANT!"
+
+#: backend/updater.php:103
+msgid "click upgrade now to start"
+msgstr "cliquez sur Mettre à niveau maintenant pour commencer"
+
+#: backend/updater.php:134
+msgid "downloading ..."
+msgstr "téléchargement..."
+
+#: backend/updater.php:150 backend/updater.php:157 backend/updater.php:181
+#: backend/updater.php:188
+msgid "error, please retry"
+msgstr "erreur, veuillez réessayer"
+
+#: backend/updater.php:164
+msgid "installing ... do not close this window!"
+msgstr "Installation... ne fermez pas cette fenêtre!"
+
+#: backend/updater.php:174
+msgid "upgrade completed successfully, you will now be logged out in 5 seconds"
+msgstr ""
+"mise à niveau terminée avec succès, vous serez maintenant déconnecté dans 5 "
+"secondes"
+
+#: backend/updater.php:198
+msgid "checking license"
+msgstr "vérification de la licence"
+
+#: backend/updater.php:232
+msgid "invalid license, unable to update"
+msgstr "licence invalide, mise à jour impossible"
+
+#: backend/import.php:61
+#, php-format
+msgid ""
+"Use %s template excel or the exported csv to import multiple markers at once."
+msgstr ""
+"Utilisez %s modèle Excel ou le fichier csv exporté pour importer plusieurs "
+"marqueurs à la fois."
+
+#: backend/import.php:61
+msgid "this"
+msgstr "ce"
+
+#: backend/import.php:71 backend/import.php:98
+msgid "Import Markers"
+msgstr "Importer les Marqueurs"
+
+#: backend/import.php:104
+msgid "Ok"
+msgstr "Ok"
+
+#: backend/import.php:160
+msgid "IMPORTING MARKERS ... DO NOT CLOSE THIS WINDOW!!!!"
+msgstr "IMPORTATION DE MARQUEURS ... NE FERMEZ PAS CETTE FENÊTRE!!!!"
+
+#: backend/edit_marker.php:36
+msgid ""
+"This marker was added by a person outside the system. Check the data entered "
+"before approving it."
+msgstr ""
+"Ce marqueur a été ajouté par une personne extérieure au système. Vérifiez "
+"les données saisies avant de les valider."
+
+#: backend/edit_marker.php:113
+msgid "it must be validated to be visible on the map"
+msgstr "il doit être validé pour être visible sur la carte"
+
+#: backend/edit_marker.php:119
+msgid "center the map on this marker"
+msgstr "centrer la carte sur ce marqueur"
+
+#: backend/topbar.php:36
+msgid "EDIT PREVIOUS MARKER"
+msgstr "MODIFIER LE MARQUEUR PRÉCÉDENT"
+
+#: backend/topbar.php:41
+msgid "EDIT NEXT MARKER"
+msgstr "MODIFIER LE MARQUEUR SUIVANT"
+
+#: backend/topbar.php:65
+msgid "Edit Category"
+msgstr "Modifier la catégorie"
+
+#: backend/topbar.php:100
+msgid "Edit User"
+msgstr "Modifier l'utilisateur"
+
+#: backend/topbar.php:105
+msgid "Edit Profile"
+msgstr "Modifier le profil"
+
+#: backend/topbar.php:164
+msgid "Edit profile"
+msgstr "Modifier mon profil"
+
+#: backend/topbar.php:168 backend/topbar.php:188
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: backend/topbar.php:180
+msgid "Ready to Leave?"
+msgstr "Prêt à partir?"
+
+#: backend/topbar.php:185
+msgid "Select Logout below if you are ready to end your current session."
+msgstr ""
+"Sélectionnez Logout ci-dessous si vous êtes prêt à terminer votre session en "
+"cours."
+
+#~ msgid "Select Category"
+#~ msgstr "Sélectionner une catégorie"
+
+#~ msgid "REVIEWS"
+#~ msgstr "AVIS"
+
+#~ msgid "ICONS LIBRARY"
+#~ msgstr "BIBLIOTHÈQUE D’ICÔNES"
+
+#~ msgid "USERS"
+#~ msgstr "UTILISATEURS"
+
+#~ msgid "EDIT PROFILE"
+#~ msgstr "MODIFIER PROFIL"
+
+#~ msgid "EDIT USER"
+#~ msgstr "MODIFIER L’UTILISATEUR"
+
+#~ msgid "CONNECTIONS"
+#~ msgstr "CONNEXIONS"
+
+#~ msgid "CATEGORIES"
+#~ msgstr "CATEGORIES"
+
+#~ msgid "DASHBOARD"
+#~ msgstr "TABLEAU DE BORD"
+
+#~ msgid "Password Protection"
+#~ msgstr "Protection par mot de passe"
+
+#~ msgid ""
+#~ "If you decide to protect your map with a password, at the first access it "
+#~ "will be required to visit it."
+#~ msgstr ""
+#~ "Si vous décidez de protéger votre carte avec un mot de passe, au premier "
+#~ "accès, il sera nécessaire de la visiter."
+
+#~ msgid "PROTECT MAP"
+#~ msgstr "PROTÉGER LA CARTE"
+
+#~ msgid ""
+#~ "Your map is now protected with a password, click UNPROTECT to remove it."
+#~ msgstr ""
+#~ "Votre carte est maintenant protégée par un mot de passe, cliquez sur "
+#~ "UNPROTECT pour la supprimer."
+
+#~ msgid "UNPROTECT MAP"
+#~ msgstr "DÉPROTÉGER LA CARTE"
+
+#~ msgid "Current status"
+#~ msgstr "Statut actuel"
+
+#~ msgid "DEACTIVATE"
+#~ msgstr "DÉSACTIVER"
+
+#~ msgid "ACTIVATE"
+#~ msgstr "ACTIVER"
+
+#~ msgid "SET FRIENDLY URL"
+#~ msgstr "DÉFINIR L’URL AMICALE"
+
+#~ msgid "Map Friendly Url Link"
+#~ msgstr "Lien URL convivial pour la carte"
+
+#~ msgid "MAPS"
+#~ msgstr "Cartes"
+
+#~ msgid "STATISTICS"
+#~ msgstr "Statistiques"
+
+#~ msgid "EDIT MAP"
+#~ msgstr "MODIFIER LA CARTE"
+
+#~ msgid "SETTINGS"
+#~ msgstr "RÉGLAGES"
+
+#~ msgid "STORY"
+#~ msgstr "HISTOIRE"
+
+#~ msgid "EDIT CATEGORY"
+#~ msgstr "MODIFIER LA CATÉGORIE"
+
+#~ msgid "UPGRADE"
+#~ msgstr "MISE À JOUR"
+
+#~ msgid "End, Go back to the beginning"
+#~ msgstr "Fin, retour au début"
+
+#~ msgid "categories"
+#~ msgstr "catégories"
+
+#~ msgid "DEMO MODE: Add / Save functionality are disabled."
+#~ msgstr ""
+#~ "MODE DÉMO: Ajouter / Enregistrer les fonctionnalités sont désactivées."
+
+#~ msgid "Marker 1"
+#~ msgstr "Marqueur 1"
+
+#~ msgid "Marker 2"
+#~ msgstr "Marqueur 2"
+
+#~ msgid "enable reviews"
+#~ msgstr "activer les avis"
+
+#~ msgid "enable directions"
+#~ msgstr "activer les directions"
+
+#~ msgid "enable street view"
+#~ msgstr "activer street view"
+
+#~ msgid "Pinned"
+#~ msgstr "Epingler le sujet"
+
+#~ msgid "put on top of the marker's list"
+#~ msgstr "mettre en haut de la liste du marqueur"
+
+#~ msgid "Background Color"
+#~ msgstr "Couleur d’arrière-plan"
+
+#~ msgid "Color"
+#~ msgstr "Couleur"
+
+#~ msgid "Library Icon"
+#~ msgstr "Icône de bibliothèque"
+
+#~ msgid "1 zoomed in - 20 zoomed out"
+#~ msgstr "1 zoom avant - 20 zoom arrière"
