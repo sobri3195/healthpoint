@@ -158,6 +158,35 @@ input.hidden-password {
     height: 100%;
     transition: width 0.2s;
 }
+.my_position_icon,
+.nav_marker_next,
+.nav_marker_prev,
+.btn_story,
+.list_icon,
+.search_icon,
+.filter_icon,
+.globe_icon,
+.connections_icon,
+.featured_icon {
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.16);
+    border: 1px solid rgba(255,255,255,0.7);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    transition: transform .16s ease, box-shadow .16s ease;
+}
+.my_position_icon:hover,
+.nav_marker_next:hover,
+.nav_marker_prev:hover,
+.btn_story:hover,
+.list_icon:hover,
+.search_icon:hover,
+.filter_icon:hover,
+.globe_icon:hover,
+.connections_icon:hover,
+.featured_icon:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 12px 28px rgba(15, 23, 42, 0.25);
+}
 .my_position_icon {
     position: absolute;
     right: 121px;
@@ -325,7 +354,7 @@ input.hidden-password {
     max-width: 400px;
     max-height: calc(100% - 84px);
     border-radius: 10px;
-    background-color: #FFFFFF;
+    background-color: rgba(255,255,255,0.95);
     z-index: 100;
     display: none;
     overflow-x: hidden;
@@ -349,7 +378,7 @@ input.hidden-password {
     width: 400px;
     max-height: calc(100% - 84px);
     border-radius: 10px;
-    background-color: #FFFFFF;
+    background-color: rgba(255,255,255,0.95);
     z-index: 100;
     display: none;
     overflow-x: hidden;
@@ -373,7 +402,7 @@ input.hidden-password {
     width: calc(100% - 12px);
     max-height: calc(100% - 84px);
     border-radius: 10px;
-    background-color: #FFFFFF;
+    background-color: rgba(255,255,255,0.95);
     z-index: 100;
     overflow-y: scroll;
     display: none;
@@ -560,7 +589,11 @@ input.hidden-password {
     width: calc(100% - 12px);
     max-width: 400px;
     border-radius: 10px;
-    background-color: white;
+    background-color: rgba(255,255,255,0.9);
+    border: 1px solid rgba(255,255,255,0.7);
+    box-shadow: 0 14px 30px rgba(15, 23, 42, 0.16);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     height: 32px;
 }
 .search_div.open {
@@ -570,11 +603,30 @@ input.hidden-password {
 #searchbox {
     margin-top: 1px;
     margin-left: 32px;
-    width: calc(100% - 36px);
-    padding: 5px;
+    width: calc(100% - 72px);
+    padding: 5px 30px 5px 8px;
     border: none;
     outline: none;
-    background-color: white;
+    background-color: transparent;
+}
+.search_clear {
+    position: absolute;
+    right: 34px;
+    top: 0;
+    width: 32px;
+    height: 32px;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 32px;
+    font-size: 14px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .2s ease;
+    cursor: pointer;
+}
+.search_clear.visible {
+    opacity: .8;
+    pointer-events: initial;
 }
 #searchbox:focus, #searchbox:active, #searchbox:hover, #searchbox:visited {
     outline: none;
