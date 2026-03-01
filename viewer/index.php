@@ -623,6 +623,9 @@ if($smt = $mysqli->prepare($query)) {
         </div>
         <div class="search_div noselect <?php echo (!$current_map['enable_search'] && !$current_map['enable_list'] && !$current_map['enable_categories']) ? 'hidden' : ''; ?>">
             <input id="searchbox" type="search" class="<?php echo (!$current_map['enable_search']) ? 'hidden' : ''; ?>" placeholder="<?php echo _("Search"); ?>..." />
+            <div onclick="reset_search();" class="search_clear noselect <?php echo (!$current_map['enable_search']) ? 'hidden' : ''; ?>" title="<?php echo _("Reset"); ?>">
+                <i class="fas fa-times"></i>
+            </div>
             <div onclick="open_list_detail();" class="list_icon disabled noselect <?php echo (!$current_map['enable_list']) ? 'hidden' : ''; ?>">
                 <i class="fas fa-bars"></i>
             </div>
